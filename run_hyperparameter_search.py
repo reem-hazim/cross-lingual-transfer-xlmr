@@ -70,21 +70,22 @@ trainer = Trainer(
     tokenizer=tokenizer,
  )
 
-# hyperSpace = {"learning_rate": tune.uniform(1e-5, 5e-5),
-# 			  "num_train_epochs": tune.choice(range(2, 7)),
-# 			  "per_gpu_train_batch_size": tune.choice([4, 8, 16]),
-# 			  "gradient_accumulation_steps": tune.choice([1, 2])}
+hyperSpace = {"learning_rate": tune.uniform(1e-5, 5e-5)}
+			  # "num_train_epochs": tune.choice(range(2, 7)),
+			  # "per_gpu_train_batch_size": tune.choice([4, 8, 16]),
+			  # "gradient_accumulation_steps": tune.choice([1, 2])}
 
 def compute_objective(metrics):
+	print(metrics)
 	return metrics.pop("eval_loss", None)
 
 best_run = trainer.hyperparameter_search(
 	compute_objective=compute_objective,
 	backend="ray",
 	n_trials = 8,
+	hp_space = lambda _: hyperSpace,
 	search_alg = BayesOptSearch(mode="min"))
 
-	# hp_space = lambda _: hyperSpace,
 
 print("Run ID: ", best_run.run_id)
 print("Objective: ", best_run.objective)
