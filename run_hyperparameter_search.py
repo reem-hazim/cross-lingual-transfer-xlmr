@@ -15,7 +15,7 @@ from ray.tune.suggest.bayesopt import BayesOptSearch
 from sklearn.model_selection import train_test_split
 from transformers import XLMRobertaTokenizer
 from transformers import TrainingArguments, Trainer
-from CLAMS_Dataset import CLAMS_Dataset
+from clams_dataset import CLAMS_Dataset
 
 parser = argparse.ArgumentParser(
     description="Run a hyperparameter search for finetuning the XLMR model on the the English CLAMS evaluation dataset."
