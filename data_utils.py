@@ -33,7 +33,6 @@ def encode_data(dataset, tokenizer, max_seq_length=128):
     
     input_ids = inputs["input_ids"]
     attention_mask = inputs["attention_mask"]
-
     return input_ids, attention_mask
 
 

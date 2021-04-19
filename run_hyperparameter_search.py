@@ -38,13 +38,15 @@ test_df = pd.read_csv(f"{args.data_dir}/eng_test.csv")
 
 tokenizer = XLMRobertaTokenizer.from_pretrained("xlm-roberta-base")
 train_data = CLAMS_Dataset(train_df, tokenizer)
+val_data = CLAMS_Dataset(val_df, tokenizer)
+
 
 ## TODO: Initialize a transformers.TrainingArguments object here for use in
 ## training and tuning the model. Consult the assignment handout for some
 ## sample hyperparameter values.
 training_args = TrainingArguments(
-	output_dir="/scratch/rh3015/",
-	num_train_epochs=3,
+	output_dir="/scratch/rh3015/MLLU_experiment",
+	num_train_epochs=5,
 	per_gpu_train_batch_size=8,
 	learning_rate= 1e-5,
 	evaluation_strategy = "epoch"
@@ -68,7 +70,10 @@ trainer = Trainer(
     tokenizer=tokenizer,
  )
 
-hyperSpace = {"learning_rate": tune.uniform(1e-5, 5e-5)}
+hyperSpace = {"learning_rate": tune.uniform(1e-5, 5e-5),
+			  "num_train_epochs": tune.choice(range(2, 7)),
+			  "per_gpu_train_batch_size": tune.choice([4, 8, 16]),
+			  "gradient_accumulation_steps": tune.choice([1, 2])}
 
 def compute_objective(metrics):
 	return metrics.pop("eval_loss", None)
@@ -76,7 +81,7 @@ def compute_objective(metrics):
 best_run = trainer.hyperparameter_search(
 	compute_objective=compute_objective,
 	backend="ray",
-	n_trials = 7,
+	n_trials = 8,
 	hp_space = lambda _: hyperSpace,
 	search_alg = BayesOptSearch(mode="min"))
 

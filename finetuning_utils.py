@@ -1,4 +1,4 @@
-from sklearn.metrics import accuracy_score
+from sklearn.metrics import accuracy_score, matthews_corrcoef
 from transformers import XLMRobertaForSequenceClassification
 
 def compute_metrics(eval_pred):
@@ -13,6 +13,7 @@ def compute_metrics(eval_pred):
     metrics = {}
     # metrics["precision"], metrics["recall"], metrics["f1"], _ = precision_recall_fscore_support(labels, preds, pos_label=1, average="binary")
     metrics["accuracy"] = accuracy_score(labels, preds)
+    metrics["mathews_corrcoef"] = matthews_corrcoef(labels, preds)
     return metrics
 
 def model_init():
