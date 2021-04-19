@@ -32,11 +32,11 @@ args = parser.parse_args()
 # Since the labels for the test set have not been released, we will use half of the
 # validation dataset as our test dataset for the purposes of this assignment.
 
-# train_df = pd.read_json(f"{args.data_dir}/train.jsonl", lines=True, orient="records")
-# val_df, test_df = train_test_split(
-#     pd.read_json(f"{args.data_dir}/val.jsonl", lines=True, orient="records"),
-#     test_size=0.5,
-# )
+train_df = pd.read_csv(f"{args.data_dir}/train.jsonl")
+val_df, test_df = train_test_split(
+    pd.read_json(f"{args.data_dir}/val.jsonl", lines=True, orient="records"),
+    test_size=0.5,
+)
 
 tokenizer = XLMRobertaTokenizer.from_pretrained("xlm-roberta-base")
 train_data = CLAMS_Dataset(train_df, tokenizer)
