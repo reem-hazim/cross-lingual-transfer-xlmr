@@ -10,6 +10,7 @@
 #SBATCH -c 4
 #SBATCH --mail-user=rh3015@nyu.edu
 #SBATCH --mail-type=END  
+#SBATCH --mail-type=START
 
 ## TODO: Run your hyperparameter search in a singularity container. Remember to 
 ## activate your Conda environment in the container before running your Python script.
@@ -17,5 +18,5 @@
 singularity exec --nv --overlay $SCRATCH/overlay-25GB-500K.ext3:ro /scratch/work/public/singularity/cuda10.1-cudnn7-devel-ubuntu18.04-20201207.sif /bin/bash -c "
 source /ext3/env.sh
 conda activate
-python run_hyperparameter_search.py CLAMS
+python run_hyperparameter_search.py clean_CLAMS
 "
