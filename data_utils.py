@@ -23,7 +23,8 @@ def encode_data(dataset, tokenizer, max_seq_length=128):
     ## TODO: Tokenize the questions and passages using both truncation and padding.
     ## Use the tokenizer provided in the argument and see the code comments above for
     ## more details.
-
+    dataset["label"] = dataset["label"].astype(bool)
+    dataset["sentence"] = dataset["sentence"].astype(str)
     inputs = tokenizer(dataset["sentence"].values.tolist(), 
                       padding=True,
                       truncation= True, 
