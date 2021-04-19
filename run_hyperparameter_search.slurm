@@ -10,7 +10,7 @@
 #SBATCH -c 4
 #SBATCH --mail-user=rh3015@nyu.edu
 #SBATCH --mail-type=END  
-#SBATCH --mail-type=START
+#SBATCH --mail-type=BEGIN
 
 ## TODO: Run your hyperparameter search in a singularity container. Remember to 
 ## activate your Conda environment in the container before running your Python script.
