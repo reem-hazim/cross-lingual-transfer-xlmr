@@ -49,7 +49,6 @@ training_args = TrainingArguments(
 	learning_rate= 2e-5,
 	evaluation_strategy = "epoch",
 	load_best_model_at_end=True,
-	metric_for_best_model="matthews_correlation",
 )
 
 
