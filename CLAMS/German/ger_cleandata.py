@@ -19,4 +19,5 @@ df1.drop(['Sentence', 'ind'], axis = 1,inplace=True)
 df1.columns=['label','sentence']
 df=df1[["label", "sentence"]]
 df=df.sample(frac=1)
-df1.to_csv("ger_data.csv",sep=';',index=False)
+df=df.drop_duplicates()
+df.to_csv("ger_data.csv",sep=';',index=False)
