@@ -44,9 +44,12 @@ val_data = CLAMS_Dataset(val_df, tokenizer)
 training_args = TrainingArguments(
 	output_dir="/scratch/rh3015/MLLU_experiment",
 	num_train_epochs=5,
-	per_gpu_train_batch_size=8,
-	learning_rate= 1e-5,
-	evaluation_strategy = "epoch"
+	per_gpu_train_batch_size=64,
+	per_gpu_eval_batch_size=64,
+	learning_rate= 2e-5,
+	evaluation_strategy = "epoch",
+	load_best_model_at_end=True,
+	metric_for_best_model="matthews_correlation",
 )
 
 
@@ -59,23 +62,25 @@ trainer = Trainer(
     tokenizer=tokenizer,
  )
 
-my_hp_space = {"learning_rate": tune.uniform(1e-5, 5e-5),
-			  "num_train_epochs": tune.choice(range(1, 6)),
-			  "per_gpu_train_batch_size": tune.choice([4, 8, 16]),
-			  "gradient_accumulation_steps": tune.choice([1, 2])}
+trainer.train()
 
-def compute_objective(metrics):
-	eval_loss = metrics.pop("eval_loss", None)
-	return eval_loss
+# my_hp_space = {"learning_rate": tune.uniform(1e-5, 5e-5),
+# 			  "num_train_epochs": tune.choice(range(1, 6)),
+# 			  "": tune.choice([4, 8, 16]),
+# 			  "gradient_accumulation_steps": tune.choice([1, 2])}
 
-best_run = trainer.hyperparameter_search(
-	compute_objective=compute_objective,
-	direction="minimize",
-	backend="ray",
-	n_trials = 7,
-	hp_space= lambda _:my_hp_space)
+# def compute_objective(metrics):
+# 	eval_loss = metrics.pop("eval_loss", None)
+# 	return eval_loss
+
+# best_run = trainer.hyperparameter_search(
+# 	compute_objective=compute_objective,
+# 	direction="minimize",
+# 	backend="ray",
+# 	n_trials = 7,
+# 	hp_space= lambda _:my_hp_space)
 
 
-print("Run ID: ", best_run.run_id)
-print("Objective: ", best_run.objective)
-print("Hyperparameters: ", best_run.hyperparameters)
+# print("Run ID: ", best_run.run_id)
+# print("Objective: ", best_run.objective)
+# print("Hyperparameters: ", best_run.hyperparameters)

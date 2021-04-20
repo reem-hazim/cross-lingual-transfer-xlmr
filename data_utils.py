@@ -20,9 +20,6 @@ def encode_data(dataset, tokenizer, max_seq_length=128):
     attention_mask: A PyTorch.Tensor (with dimensions [len(dataset), max_seq_length])
       containing attention masks for the data.
   """
-    ## TODO: Tokenize the questions and passages using both truncation and padding.
-    ## Use the tokenizer provided in the argument and see the code comments above for
-    ## more details.
     dataset["sentence"] = dataset["sentence"].astype(str)
     inputs = tokenizer(dataset["sentence"].values.tolist(), 
                       padding=True,
@@ -46,6 +43,5 @@ def extract_labels(dataset):
     labels: A list of integers corresponding to the labels for each example,
       where 0 is False and 1 is True.
   """
-    ## TODO: Convert the labels to a numeric format and return as a list.
     labels = [int(label == "True") for label in dataset["label"]]
     return labels
