@@ -39,7 +39,7 @@ test_df = pd.read_csv(f"{args.data_dir}/eng_test.csv")
 tokenizer = XLMRobertaTokenizer.from_pretrained("xlm-roberta-base")
 train_data = CLAMS_Dataset(train_df, tokenizer)
 val_data = CLAMS_Dataset(val_df, tokenizer)
-
+test_data = CLAMS_Dataset(test_df, tokenizer)
 
 training_args = TrainingArguments(
 	output_dir="/scratch/rh3015/MLLU_experiment",
@@ -65,7 +65,7 @@ trainer.train()
 
 trainer.save_model("/scratch/rh3015/MLLU_experiment/finetuned_xlmr");
 
-predictions, label_ids, metrics = trainer.predict(test_df)
+predictions, label_ids, metrics = trainer.predict(test_data)
 
 print(metrics)
 
