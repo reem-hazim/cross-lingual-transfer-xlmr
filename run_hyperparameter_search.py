@@ -67,10 +67,13 @@ trainer.save_model("/scratch/rh3015/MLLU_experiment/finetuned_xlmr");
 
 predictions, label_ids, metrics = trainer.predict(test_df)
 
+print(metrics)
+
 test_preds = pd.DataFrame.from_dict({
 	'pred': predictions,
 	'label': label_ids
 	})
+
 
 test_preds.to_csv("test_preds.csv")
 
