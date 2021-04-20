@@ -41,9 +41,6 @@ train_data = CLAMS_Dataset(train_df, tokenizer)
 val_data = CLAMS_Dataset(val_df, tokenizer)
 
 
-## TODO: Initialize a transformers.TrainingArguments object here for use in
-## training and tuning the model. Consult the assignment handout for some
-## sample hyperparameter values.
 training_args = TrainingArguments(
 	output_dir="/scratch/rh3015/MLLU_experiment",
 	num_train_epochs=5,
@@ -51,15 +48,7 @@ training_args = TrainingArguments(
 	learning_rate= 1e-5,
 	evaluation_strategy = "epoch"
 )
-## TODO: Initialize a transformers.Trainer object and run a Bayesian
-## hyperparameter search for at least 5 trials (but not too many) on the 
-## learning rate. Hint: use the model_init() and
-## compute_metrics() methods from finetuning_utils.py as arguments to
-## trainer.hyperparameter_search(). Use the hp_space parameter to specify
-## your hyperparameter search space. (Note that this parameter takes a function
-## as its value.)
-## Also print out the run ID, objective value,
-## and hyperparameters of your best run.
+
 
 trainer = Trainer(
 	model_init = finetuning_utils.model_init,
@@ -70,21 +59,22 @@ trainer = Trainer(
     tokenizer=tokenizer,
  )
 
-hyperSpace = {"learning_rate": tune.uniform(1e-5, 5e-5)}
-			  # "num_train_epochs": tune.choice(range(2, 7)),
-			  # "per_gpu_train_batch_size": tune.choice([4, 8, 16]),
-			  # "gradient_accumulation_steps": tune.choice([1, 2])}
+my_hp_space = {"learning_rate": tune.uniform(1e-5, 5e-5),
+			  "num_train_epochs": tune.choice(range(1, 6)),
+			  "per_gpu_train_batch_size": tune.choice([4, 8, 16]),
+			  "gradient_accumulation_steps": tune.choice([1, 2])}
 
 def compute_objective(metrics):
-	print(metrics)
-	return metrics.pop("eval_loss", None)
+	_ = metrics.pop("eval_accuracy", None)
+	_ = metrics.pop("epoch", None)
+	return sum(metrics.values())
 
 best_run = trainer.hyperparameter_search(
 	compute_objective=compute_objective,
+	direction="minimize",
 	backend="ray",
-	n_trials = 8,
-	hp_space = lambda _: hyperSpace,
-	search_alg = BayesOptSearch(mode="min"))
+	n_trials = 7,
+	hp_space=my_hp_space)
 
 
 print("Run ID: ", best_run.run_id)
