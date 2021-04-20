@@ -54,7 +54,7 @@ training_args = TrainingArguments(
 
 def model_init():
 	model = XLMRobertaForSequenceClassification.from_pretrained(args.model_dir)
-    return model
+	return model
 
 trainer = Trainer(
 	model_init = model_init,
