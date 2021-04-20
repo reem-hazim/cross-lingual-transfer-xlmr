@@ -63,6 +63,17 @@ trainer = Trainer(
 
 trainer.train()
 
+trainer.save_model("/scratch/rh3015/MLLU_experiment/finetuned_xlmr");
+
+predictions, label_ids, metrics = trainer.predict(test_df)
+
+test_preds = pd.DataFrame.from_dict({
+	'pred': predictions,
+	'label': label_ids
+	})
+
+test_preds.to_csv("test_preds.csv")
+
 # my_hp_space = {"learning_rate": tune.uniform(1e-5, 5e-5),
 # 			  "num_train_epochs": tune.choice(range(1, 6)),
 # 			  "": tune.choice([4, 8, 16]),
