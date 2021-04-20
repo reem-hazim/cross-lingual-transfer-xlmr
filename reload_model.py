@@ -67,8 +67,9 @@ trainer = Trainer(
 
 predictions, label_ids, metrics = trainer.predict(test_data)
 
-print("predictions: ")
-print(predictions)
+test_preds = pd.DataFrame.from_dict({
+	"label": label_ids,
+	"pred": predictions.argmax(-1)
+	})
 
-print("label ids: ")
-print(label_ids)
+test_preds.to_csv("test_predictions.csv", index=False)
