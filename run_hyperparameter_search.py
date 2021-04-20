@@ -65,9 +65,8 @@ my_hp_space = {"learning_rate": tune.uniform(1e-5, 5e-5),
 			  "gradient_accumulation_steps": tune.choice([1, 2])}
 
 def compute_objective(metrics):
-	_ = metrics.pop("eval_accuracy", None)
-	_ = metrics.pop("epoch", None)
-	return sum(metrics.values())
+	eval_loss = metrics.pop("eval_loss", None)
+	return eval_loss
 
 best_run = trainer.hyperparameter_search(
 	compute_objective=compute_objective,
