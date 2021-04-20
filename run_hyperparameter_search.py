@@ -74,7 +74,7 @@ best_run = trainer.hyperparameter_search(
 	direction="minimize",
 	backend="ray",
 	n_trials = 7,
-	hp_space=my_hp_space)
+	hp_space= lambda _:my_hp_space)
 
 
 print("Run ID: ", best_run.run_id)
