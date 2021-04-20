@@ -29,6 +29,7 @@ df1['label'] = df1.labels.str.strip('"')
 df1.drop(['Sentence', 'num','labels'], axis = 1,inplace=True)
 df=df1[["label", "sentence"]]
 df=df.sample(frac=1)
+df=df.drop_duplicates()
 df.to_csv("eng_data.csv",index=False)
 
 
