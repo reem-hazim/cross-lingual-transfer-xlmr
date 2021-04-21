@@ -19,7 +19,7 @@ encoded_dataset = dataset.map(preprocess_function, batched=True)
 # dataset = pd.read_csv("clean_CLAMS/ger_data.csv", sep=";")
 # dataset["sentence"] = dataset["sentence"].astype(str)
 
-model = XLMRobertaForSequenceClassification('xlm-roberta-base')
+model = XLMRobertaForSequenceClassification.from_pretrained('xlm-roberta-base')
 
 args = TrainingArguments(
     "test-glue",
