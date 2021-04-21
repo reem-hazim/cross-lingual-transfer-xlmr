@@ -1,54 +1,54 @@
-from transformers import XLMRobertaTokenizer, TrainingArguments, Trainer, XLMRobertaForSequenceClassification
-from datasets import load_dataset, load_metric
+import data_utils
+import finetuning_utils
 import pandas as pd
-from data_utils import extract_labels
 
-task = "cola"
-batch_size = 64
+# from ray import tune
+# from ray.tune.suggest.bayesopt import BayesOptSearch
 
-dataset = load_dataset("glue", task)
-metric = load_metric('glue', task)
+from transformers import XLMRobertaTokenizer
+from transformers import TrainingArguments, Trainer
+from CLAMS_Dataset import CLAMS_Dataset
+
+train_df = pd.read_csv("clean_CLAMS/eng_train.csv")
+val_df = pd.read_csv("clean_CLAMS/eng_val.csv")
+test_df = pd.read_csv("clean_CLAMS/eng_test.csv")
+
+train_df = train_df.head(200)
+val_df = val_df.head(200)
+test_df = test_df.head(200)
 
 tokenizer = XLMRobertaTokenizer.from_pretrained("xlm-roberta-base")
 
-def preprocess_function(examples):
-    return tokenizer(examples["sentence"], truncation=True)
+train_data = CLAMS_Dataset(train_df, tokenizer)
+val_data = CLAMS_Dataset(val_df, tokenizer)
+test_data = CLAMS_Dataset(test_df, tokenizer)
 
-encoded_dataset = dataset.map(preprocess_function, batched=True)
 
-# dataset = pd.read_csv("clean_CLAMS/ger_data.csv", sep=";")
-# dataset["sentence"] = dataset["sentence"].astype(str)
 
-model = XLMRobertaForSequenceClassification.from_pretrained('xlm-roberta-base')
-
-args = TrainingArguments(
-    "test-glue",
-    evaluation_strategy = "epoch",
-    learning_rate=2e-5,
-    per_device_train_batch_size=batch_size,
-    per_device_eval_batch_size=batch_size,
+training_args = TrainingArguments(
+    output_dir="../MLLU_experiment",
     num_train_epochs=5,
+    per_device_train_batch_size=64,
+    per_device_eval_batch_size=64,
     weight_decay=0.01,
-    load_best_model_at_end=True,
-    metric_for_best_model="matthews_correlation",
+    learning_rate= 1e-5,
+    evaluation_strategy = "epoch",
 )
 
-def compute_metrics(eval_pred):
-    predictions, labels = eval_pred
-    predictions = np.argmax(predictions, axis=1)
-    return metric.compute(predictions=predictions, references=labels)
 
 trainer = Trainer(
-    model,
-    args,
-    train_dataset=encoded_dataset["train"],
-    eval_dataset=encoded_dataset["validation"],
+    model_init = finetuning_utils.model_init,
+    compute_metrics= finetuning_utils.compute_metrics,
+    args = training_args,
+    train_dataset=train_data,
+    eval_dataset=val_data,
     tokenizer=tokenizer,
-    compute_metrics=compute_metrics
-)
+ )
 
+trainer.train()
 
-trainer.train();
+predictions, label_ids, metrics = trainer.predict(test_data)
 
-trainer.evaluate();
+print(metrics)
+
 

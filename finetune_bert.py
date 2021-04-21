@@ -6,13 +6,11 @@ Example usage:
 import argparse
 import data_utils
 import finetuning_utils
-import json
 import pandas as pd
 
-from ray import tune
-from ray.tune.suggest.bayesopt import BayesOptSearch
+# from ray import tune
+# from ray.tune.suggest.bayesopt import BayesOptSearch
 
-from sklearn.model_selection import train_test_split
 from transformers import BertTokenizerFast, BertForSequenceClassification 
 from transformers import TrainingArguments, Trainer
 from clams_dataset import CLAMS_Dataset
@@ -46,7 +44,6 @@ training_args = TrainingArguments(
 	weight_decay=0.01,
 	learning_rate= 1e-5,
 	evaluation_strategy = "epoch",
-	load_best_model_at_end=True,
 )
 
 def model_init():
@@ -63,8 +60,6 @@ trainer = Trainer(
  )
 
 trainer.train()
-
-trainer.save_model("/scratch/rh3015/MLLU_experiment/finetuned_bert");
 
 predictions, label_ids, metrics = trainer.predict(test_data)
 

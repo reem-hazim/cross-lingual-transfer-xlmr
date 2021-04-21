@@ -7,6 +7,10 @@ def compute_metrics(eval_pred):
     """
     labels = eval_pred.label_ids
     preds = eval_pred.predictions.argmax(-1)
+    print("eval pred:" )
+    print(eval_pred)
+    print("preds")
+    print(preds)
 
     metrics = {}
     # metrics["precision"], metrics["recall"], metrics["f1"], _ = precision_recall_fscore_support(labels, preds, pos_label=1, average="binary")

@@ -6,13 +6,11 @@ Example usage:
 import argparse
 import data_utils
 import finetuning_utils
-import json
 import pandas as pd
 
-from ray import tune
-from ray.tune.suggest.bayesopt import BayesOptSearch
+# from ray import tune
+# from ray.tune.suggest.bayesopt import BayesOptSearch
 
-from sklearn.model_selection import train_test_split
 from transformers import XLMRobertaTokenizer
 from transformers import TrainingArguments, Trainer
 from clams_dataset import CLAMS_Dataset
@@ -46,7 +44,6 @@ training_args = TrainingArguments(
 	weight_decay=0.01,
 	learning_rate= 1e-5,
 	evaluation_strategy = "epoch",
-	load_best_model_at_end=True,
 )
 
 
@@ -61,8 +58,6 @@ trainer = Trainer(
 
 trainer.train()
 
-trainer.save_model("/scratch/rh3015/MLLU_experiment/finetuned_xlmr");
-
 predictions, label_ids, metrics = trainer.predict(test_data)
 
 print(metrics)
@@ -73,24 +68,3 @@ test_preds = pd.DataFrame.from_dict({
 	})
 
 test_preds.to_csv("test_predictions.csv", index=False)
-
-# my_hp_space = {"learning_rate": tune.uniform(1e-5, 5e-5),
-# 			  "num_train_epochs": tune.choice(range(1, 6)),
-# 			  "": tune.choice([4, 8, 16]),
-# 			  "gradient_accumulation_steps": tune.choice([1, 2])}
-
-# def compute_objective(metrics):
-# 	eval_loss = metrics.pop("eval_loss", None)
-# 	return eval_loss
-
-# best_run = trainer.hyperparameter_search(
-# 	compute_objective=compute_objective,
-# 	direction="minimize",
-# 	backend="ray",
-# 	n_trials = 7,
-# 	hp_space= lambda _:my_hp_space)
-
-
-# print("Run ID: ", best_run.run_id)
-# print("Objective: ", best_run.objective)
-# print("Hyperparameters: ", best_run.hyperparameters)
