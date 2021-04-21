@@ -70,12 +70,11 @@ predictions, label_ids, metrics = trainer.predict(test_data)
 print(metrics)
 
 test_preds = pd.DataFrame.from_dict({
-	'pred': predictions,
-	'label': label_ids
+	"label": label_ids,
+	"pred": predictions.argmax(-1)
 	})
 
-
-test_preds.to_csv("test_preds.csv")
+test_preds.to_csv("test_predictions.csv", index=False)
 
 # my_hp_space = {"learning_rate": tune.uniform(1e-5, 5e-5),
 # 			  "num_train_epochs": tune.choice(range(1, 6)),
