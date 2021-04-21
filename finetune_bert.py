@@ -1,7 +1,7 @@
-"""Finetune XLMR on CLAMS
+"""Finetune mBERT on CLAMS
 
 Example usage:
-    python finetune_xlmr clean_CLAMS
+    python finetune_bert clean_CLAMS
 """
 import argparse
 import data_utils
