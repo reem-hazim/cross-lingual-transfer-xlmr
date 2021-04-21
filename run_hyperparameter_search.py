@@ -46,7 +46,8 @@ training_args = TrainingArguments(
 	num_train_epochs=5,
 	per_device_train_batch_size=64,
 	per_device_eval_batch_size=64,
-	learning_rate= 2e-5,
+	weight_decay=0.01,
+	learning_rate= 1e-5,
 	evaluation_strategy = "epoch",
 	load_best_model_at_end=True,
 )
