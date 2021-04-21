@@ -50,13 +50,5 @@ trainer = Trainer(
 
 trainer.train();
 
-
 trainer.evaluate();
 
-# labels = extract_labels(dataset.head())
-
-# list1 = [1, 2, 3]
-# list2 = [4, 5, 6]
-
-# my_df = pd.DataFrame.from_dict({'list1': list1, 'list2': list2})
-# print(my_df)

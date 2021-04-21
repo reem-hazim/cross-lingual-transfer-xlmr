@@ -1,7 +1,7 @@
-"""Run a hyperparameter search on a RoBERTa model fine-tuned on BoolQ.
+"""Finetune XLMR on CLAMS
 
 Example usage:
-    python run_hyperparameter_search.py BoolQ/
+    python finetune_xlmr clean_CLAMS
 """
 import argparse
 import data_utils
@@ -28,9 +28,6 @@ parser.add_argument(
 )
 
 args = parser.parse_args()
-
-# Since the labels for the test set have not been released, we will use half of the
-# validation dataset as our test dataset for the purposes of this assignment.
 
 train_df = pd.read_csv(f"{args.data_dir}/eng_train.csv")
 val_df = pd.read_csv(f"{args.data_dir}/eng_val.csv")
