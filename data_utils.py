@@ -43,5 +43,5 @@ def extract_labels(dataset):
     labels: A list of integers corresponding to the labels for each example,
       where 0 is False and 1 is True.
   """
-    labels = [int(label == "True") for label in dataset["label"]]
+    labels = [int(label == True) for label in dataset["label"]]
     return labels
