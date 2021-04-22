@@ -52,15 +52,6 @@ trainer = Trainer(
     compute_metrics=compute_metrics
 )
 
-trainer = Trainer(
-    model_init = finetuning_utils.model_init,
-    compute_metrics= finetuning_utils.compute_metrics,
-    args = training_args,
-    train_dataset=train_data,
-    eval_dataset=val_data,
-    tokenizer=tokenizer,
- )
-
 trainer.train()
 
 trainer.save_model("models/finetuned_xlmr_cola");
