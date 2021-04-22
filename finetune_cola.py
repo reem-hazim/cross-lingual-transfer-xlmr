@@ -13,7 +13,7 @@ from datasets import load_dataset, load_metric
 task = "cola"
 model_checkpoint = "xlm-roberta-base"
 metric_name="matthews_correlation"
-batch_size = 32
+batch_size = 16
 
 dataset = load_dataset("glue", task)
 
