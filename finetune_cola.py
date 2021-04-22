@@ -27,7 +27,7 @@ encoded_dataset = dataset.map(preprocess_function, batched=True)
 model = XLMRobertaForSequenceClassification.from_pretrained(model_checkpoint, num_labels=2)
 
 args = TrainingArguments(
-    "test-glue",
+    "cola_checkpoints",
     evaluation_strategy = "epoch",
     learning_rate=2e-5,
     per_device_train_batch_size=batch_size,
