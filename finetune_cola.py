@@ -16,7 +16,6 @@ metric_name="matthews_correlation"
 batch_size = 32
 
 dataset = load_dataset("glue", task)
-metric = load_metric('glue', task)
 
 tokenizer = XLMRobertaTokenizer.from_pretrained("xlm-roberta-base")
 
@@ -36,7 +35,6 @@ args = TrainingArguments(
     num_train_epochs=5,
     weight_decay=0.01,
     load_best_model_at_end=True,
-    metric_for_best_model=metric_name,
 )
 
 def compute_metrics(eval_pred):
