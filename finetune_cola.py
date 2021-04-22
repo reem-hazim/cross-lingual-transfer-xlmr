@@ -56,16 +56,19 @@ trainer.train()
 
 trainer.save_model("models/finetuned_xlmr_cola");
 
-predictions, label_ids, metrics = trainer.predict(test_data)
+results = trainer.evaluate()
 
-print(metrics)
+print("Evaluation results:")
+print(results)
 
-test_preds = pd.DataFrame.from_dict({
-    "label": label_ids,
-    "pred": predictions.argmax(-1)
-    })
+# print(metrics)
+
+# test_preds = pd.DataFrame.from_dict({
+#     "label": label_ids,
+#     "pred": predictions.argmax(-1)
+#     })
 
 
-test_preds.to_csv("results/preds_cola.csv", index=False)
+# test_preds.to_csv("results/preds_cola.csv", index=False)
 
 
