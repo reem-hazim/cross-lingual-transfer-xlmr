@@ -2,7 +2,7 @@
 #SBATCH --job-name=roberta_hyperparameter_search
 #SBATCH --open-mode=append
 #SBATCH --output=/scratch/rh3015/MLLU/results/baseline_cola_res.json
-#SBATCH --error=/scratch/rh3015/MLLU/results/baseline_cola_err.json
+#SBATCH --error=/scratch/rh3015/MLLU/results/baseline_cola.err
 #SBATCH --export=ALL
 #SBATCH --time=48:00:00
 #SBATCH --gres=gpu:1

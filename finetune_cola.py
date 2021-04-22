@@ -5,7 +5,7 @@ import pandas as pd
 # from ray import tune
 # from ray.tune.suggest.bayesopt import BayesOptSearch
 
-from transformers import XLMRobertaTokenizer
+from transformers import XLMRobertaTokenizer, XLMRobertaForSequenceClassification
 from transformers import TrainingArguments, Trainer
 from datasets import load_dataset, load_metric
 
