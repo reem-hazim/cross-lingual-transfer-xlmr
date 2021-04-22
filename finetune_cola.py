@@ -1,10 +1,10 @@
+# Code adapted from the HuggingFace notebook 
+# https://github.com/huggingface/notebooks/blob/master/examples/text_classification.ipynb
+
 import data_utils
 import finetuning_utils
 import pandas as pd
 from sklearn.metrics import accuracy_score, matthews_corrcoef
-
-# from ray import tune
-# from ray.tune.suggest.bayesopt import BayesOptSearch
 
 from transformers import XLMRobertaTokenizer, XLMRobertaForSequenceClassification
 from transformers import TrainingArguments, Trainer
@@ -42,7 +42,6 @@ def compute_metrics(eval_pred):
     preds = eval_pred.predictions.argmax(-1)
 
     metrics = {}
-    # metrics["precision"], metrics["recall"], metrics["f1"], _ = precision_recall_fscore_support(labels, preds, pos_label=1, average="binary")
     metrics["accuracy"] = accuracy_score(labels, preds)
     metrics["mathews_correlation"] = matthews_corrcoef(labels, preds)
     return metrics
@@ -65,15 +64,5 @@ results = trainer.evaluate()
 
 print("Evaluation results:")
 print(results)
-
-# print(metrics)
-
-# test_preds = pd.DataFrame.from_dict({
-#     "label": label_ids,
-#     "pred": predictions.argmax(-1)
-#     })
-
-
-# test_preds.to_csv("results/preds_cola.csv", index=False)
 
 

@@ -37,13 +37,14 @@ val_data = CLAMS_Dataset(val_df, tokenizer)
 test_data = CLAMS_Dataset(test_df, tokenizer)
 
 training_args = TrainingArguments(
-	output_dir="/scratch/rh3015/MLLU_experiment",
+	output_dir="xlmr_checkpoints",
 	num_train_epochs=5,
 	per_device_train_batch_size=64,
 	per_device_eval_batch_size=64,
 	weight_decay=0.01,
 	learning_rate= 1e-5,
 	evaluation_strategy = "epoch",
+    load_best_model_at_end=True,
 )
 
 
@@ -58,6 +59,8 @@ trainer = Trainer(
 
 trainer.train()
 
+trainer.save_model("models/finetuned_xlmr_clams");
+
 predictions, label_ids, metrics = trainer.predict(test_data)
 
 print(metrics)
@@ -67,4 +70,4 @@ test_preds = pd.DataFrame.from_dict({
 	"pred": predictions.argmax(-1)
 	})
 
-test_preds.to_csv("test_predictions.csv", index=False)
+test_preds.to_csv("results/baseline_xlmr_predictions.csv", index=False)
