@@ -1,6 +1,7 @@
 import data_utils
 import finetuning_utils
 import pandas as pd
+from sklearn.metrics import accuracy_score, matthews_corrcoef
 
 # from ray import tune
 # from ray.tune.suggest.bayesopt import BayesOptSearch
@@ -39,9 +40,15 @@ args = TrainingArguments(
 )
 
 def compute_metrics(eval_pred):
-    predictions, labels = eval_pred
-    predictions = predictions[:, 0]
-    return metric.compute(predictions=predictions, references=labels)
+    labels = eval_pred.label_ids
+    preds = eval_pred.predictions.argmax(-1)
+
+    metrics = {}
+    # metrics["precision"], metrics["recall"], metrics["f1"], _ = precision_recall_fscore_support(labels, preds, pos_label=1, average="binary")
+    metrics["accuracy"] = accuracy_score(labels, preds)
+    metrics["mathews_correlation"] = matthews_corrcoef(labels, preds)
+    return metrics
+
 
 trainer = Trainer(
     model,
