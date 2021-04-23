@@ -1,4 +1,5 @@
 __pycache__/
+
 .DS_Store
 
 *.slurm
@@ -6,3 +7,5 @@ __pycache__/
 *cola*
 
 *bert*
+
+models/finetuned_xlmr_cola/
