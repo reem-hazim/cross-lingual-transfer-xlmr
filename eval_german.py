@@ -11,8 +11,7 @@ import os
 
 from transformers import XLMRobertaTokenizer,XLMRobertaForSequenceClassification
 from transformers import TrainingArguments, Trainer
-# from clams_dataset import CLAMS_Dataset
-from CLAMS_Dataset import CLAMS_Dataset
+from clams_dataset import CLAMS_Dataset
 
 parser = argparse.ArgumentParser(
     description="Evaluate finetuned XLMR on Hebrew CLAMS dataset."
@@ -44,5 +43,5 @@ for filename in os.listdir(args.data_dir):
 		print(phenomenon)
 		print(metrics)
 		test_preds = pd.DataFrame.from_dict({ "label": label_ids, "pred": predictions.argmax(-1)})
-		test_preds.to_csv(f"results/xlmr_{phenomenon}_ger_preds.csv", index=False)
+		test_preds.to_csv(f"results/predictions/german/xlmr_{phenomenon}_ger_preds.csv", index=False)
 
