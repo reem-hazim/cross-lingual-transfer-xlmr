@@ -11,7 +11,7 @@ import os
 
 from transformers import XLMRobertaTokenizer,XLMRobertaForSequenceClassification
 from transformers import TrainingArguments, Trainer
-from CLAMS_Dataset import CLAMS_Dataset
+from clams_dataset import CLAMS_Dataset
 
 parser = argparse.ArgumentParser(
     description="Evaluate finetuned XLMR on Hebrew CLAMS dataset."
