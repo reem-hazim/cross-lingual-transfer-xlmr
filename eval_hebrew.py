@@ -47,6 +47,7 @@ def model_init():
 for filename in os.listdir(args.data_dir):
 	if filename != "heb_cleandata.py" and filename != ".gitkeep":
 		test_df = pd.read_csv(os.path.join(args.data_dir, filename), sep="\t", names=["label", "sentence"])
+		test_df["label"] = [int(label == True) for label in test_df["label"]]
 		test_data = CLAMS_Dataset(test_df, tokenizer)
 		trainer = Trainer(model_init = model_init, compute_metrics = finetuning_utils.compute_metrics, tokenizer=tokenizer)
 		predictions, label_ids, metrics = trainer.predict(test_data)
