@@ -1,7 +1,7 @@
-"""Finetune XLMR on CLAMS
+"""Evaluate XLMR on Hebrew CLAMS
 
 Example usage:
-    python finetune_xlmr clean_CLAMS
+    python eval_hebrew CLAMS/Hebrew
 """
 import argparse
 import data_utils
@@ -14,7 +14,7 @@ from transformers import TrainingArguments, Trainer
 from CLAMS_Dataset import CLAMS_Dataset
 
 parser = argparse.ArgumentParser(
-    description="Run a hyperparameter search for finetuning the XLMR model on the the English CLAMS evaluation dataset."
+    description="Evaluate finetuned XLMR on Hebrew CLAMS dataset."
 )
 
 parser.add_argument(
