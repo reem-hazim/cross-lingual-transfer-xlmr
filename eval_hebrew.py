@@ -31,18 +31,6 @@ def model_init():
 	model = XLMRobertaForSequenceClassification.from_pretrained("models/finetuned_xlmr_clams")
 	return model
 
-# training_args = TrainingArguments(
-# 	output_dir="xlmr_checkpoints",
-# 	num_train_epochs=5,
-# 	per_device_train_batch_size=64,
-# 	per_device_eval_batch_size=64,
-# 	weight_decay=0.01,
-# 	learning_rate= 1e-5,
-# 	evaluation_strategy = "epoch",
-#     load_best_model_at_end=True,
-# )
-
-# args = training_args,
 
 for filename in os.listdir(args.data_dir):
 	if filename != "heb_cleandata.py" and filename != ".gitkeep":
@@ -57,20 +45,3 @@ for filename in os.listdir(args.data_dir):
 		test_preds = pd.DataFrame.from_dict({ "label": label_ids, "pred": predictions.argmax(-1)})
 		test_preds.to_csv(f"results/xlmr_{phenomenon}_heb_preds.csv", index=False)
 
-
-
-
-
-
-# trainer.save_model("models/finetuned_xlmr_clams");
-
-# predictions, label_ids, metrics = trainer.predict(test_data)
-
-# print(metrics)
-
-# test_preds = pd.DataFrame.from_dict({
-# 	"label": label_ids,
-# 	"pred": predictions.argmax(-1)
-# 	})
-
-# test_preds.to_csv("results/baseline_xlmr_predictions.csv", index=False)
