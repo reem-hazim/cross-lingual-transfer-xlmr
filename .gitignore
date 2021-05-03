@@ -9,3 +9,5 @@ __pycache__/
 *bert*
 
 models/
+
+xlmr_checkpoints/
