@@ -8,4 +8,4 @@ __pycache__/
 
 *bert*
 
-models/finetuned_xlmr_cola/
+models/

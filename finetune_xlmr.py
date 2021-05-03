@@ -8,9 +8,6 @@ import data_utils
 import finetuning_utils
 import pandas as pd
 
-# from ray import tune
-# from ray.tune.suggest.bayesopt import BayesOptSearch
-
 from transformers import XLMRobertaTokenizer
 from transformers import TrainingArguments, Trainer
 from clams_dataset import CLAMS_Dataset
