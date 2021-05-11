@@ -1,7 +1,7 @@
-"""Evaluate XLMR on Hebrew CLAMS
+"""Evaluate XLMR on CLAMS
 
 Example usage:
-    python eval_hebrew CLAMS/Hebrew
+    python eval_lang CLAMS/Hebrew
 """
 import argparse
 import data_utils
@@ -14,13 +14,19 @@ from transformers import TrainingArguments, Trainer
 from clams_dataset import CLAMS_Dataset
 
 parser = argparse.ArgumentParser(
-    description="Evaluate finetuned XLMR on Hebrew CLAMS dataset."
+    description="Evaluate finetuned XLMR on CLAMS dataset."
 )
 
 parser.add_argument(
+    "lang",
+    type=str,
+    help="Language to evaluate",
+)
+
+arser.add_argument(
     "data_dir",
     type=str,
-    help="Folder containing the CLAMS Hebrew datasets.",
+    help="Folder containing the CLAMS datasets for that language.",
 )
 
 args = parser.parse_args()
@@ -33,7 +39,7 @@ def model_init():
 
 
 for filename in os.listdir(args.data_dir):
-	if filename != "heb_cleandata.py" and filename != ".gitkeep":
+	if filename != f"{lang}_cleandata.py" and filename != ".gitkeep":
 		test_df = pd.read_csv(os.path.join(args.data_dir, filename), sep="\t", names=["label", "sentence"])
 		test_df["label"] = [int(label == True) for label in test_df["label"]]
 		test_data = CLAMS_Dataset(test_df, tokenizer)
@@ -42,6 +48,7 @@ for filename in os.listdir(args.data_dir):
 		phenomenon = filename.split(".")[0]
 		print(phenomenon)
 		print(metrics)
+		print('\n')
 		test_preds = pd.DataFrame.from_dict({ "label": label_ids, "pred": predictions.argmax(-1)})
-		test_preds.to_csv(f"results/xlmr_{phenomenon}_heb_preds.csv", index=False)
+		test_preds.to_csv(f"results/predictions/{lang}/xlmr_{phenomenon}_{lang}_preds.csv", index=False)
 
