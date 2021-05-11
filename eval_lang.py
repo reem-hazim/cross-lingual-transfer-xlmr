@@ -23,7 +23,7 @@ parser.add_argument(
     help="Language to evaluate",
 )
 
-arser.add_argument(
+parser.add_argument(
     "data_dir",
     type=str,
     help="Folder containing the CLAMS datasets for that language.",
