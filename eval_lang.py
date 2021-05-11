@@ -31,7 +31,7 @@ parser.add_argument(
 
 args = parser.parse_args()
 
-lang = lang.lower()
+lang = args.lang.lower()
 
 tokenizer = XLMRobertaTokenizer.from_pretrained("xlm-roberta-base")
 
