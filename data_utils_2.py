@@ -1,4 +1,6 @@
 import torch
+import random
+import pandas as pd
 
 unknown_id = 3
 
@@ -21,7 +23,16 @@ def encode_data(dataset, tokenizer, max_seq_length=128):
   """
 
     dataset["sentence"] = dataset["sentence"].astype(str)
-    inputs = tokenizer(dataset["sentence"].values.tolist(), 
+
+    # Choose random one out of minimal pair
+    new_dataset = pd.DataFrame(columns=dataset.columns)
+
+    for i in range(0, dataset["sentence"].size, 2):
+      chosen_idx = random.choice([i, i+1])
+      new_dataset = new_dataset.append(dataset.iloc[chosen_idx], ignore_index=True)
+    print(new_dataset)
+    # tokenize
+    inputs = tokenizer(new_dataset["sentence"].values.tolist(), 
                       padding=True,
                       truncation= True, 
                       return_tensors='pt', 
@@ -30,15 +41,17 @@ def encode_data(dataset, tokenizer, max_seq_length=128):
     
     input_ids = inputs["input_ids"]
     attention_mask = inputs["attention_mask"]
+
+    # Remove out of vocab examples
     print("Out of vocab examples:")
     rm_idx = []
     
-    for i in range(0, dataset["sentence"].size, 2):
+    for i in range(0, new_dataset["sentence"].size, 2):
       if unknown_id in input_ids[i]:
         rm_idx.append(i)
     for i in rm_idx:
-      print(input_ids[i])
-      input_ids = torch.cat((input_ids[:i,:], input_ids[i+2:,:]))
+      print(new_dataset.at[i, "sentence"])
+      input_ids = torch.cat((input_ids[:i,:], input_ids[i+1:,:]))
       attention_mask = torch.cat((attention_mask[:i,:], attention_mask[i+2:,:]))
     
     return input_ids, attention_mask
