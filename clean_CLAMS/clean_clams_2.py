@@ -5,7 +5,7 @@ import random
 df = pd.DataFrame(columns=["label", "sentence"])
 phenomena = ["long_vp_coord.txt", "obj_rel_across_anim.txt", "obj_rel_within_anim.txt", "prep_anim.txt", "simple_agrmt.txt", "subj_rel.txt", "vp_coord.txt"]
 for phenomenon in phenomena:
-	new_df = pd.read_csv(os.path.join("../CLAMS/English", phenomenon), sep="\t", names=["label", "sentence"])
+	new_df = pd.read_csv(os.path.join("CLAMS/English", phenomenon), sep="\t", names=["label", "sentence"])
 	df = pd.concat([df, new_df], ignore_index=True)
 
 df["sentence"] = df["sentence"].astype(str)
