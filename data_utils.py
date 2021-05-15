@@ -1,11 +1,10 @@
 import torch
 
+unknown_id = 3
+
 def encode_data(dataset, tokenizer, max_seq_length=128):
     """Featurizes the dataset into input IDs and attention masks for input into a
      transformer-style model.
-
-     NOTE: This method should featurize the entire dataset simultaneously,
-     rather than row-by-row.
 
   Args:
     dataset: A Pandas dataframe containing the data to be encoded.
@@ -20,6 +19,7 @@ def encode_data(dataset, tokenizer, max_seq_length=128):
     attention_mask: A PyTorch.Tensor (with dimensions [len(dataset), max_seq_length])
       containing attention masks for the data.
   """
+
     dataset["sentence"] = dataset["sentence"].astype(str)
     inputs = tokenizer(dataset["sentence"].values.tolist(), 
                       padding=True,
@@ -30,6 +30,23 @@ def encode_data(dataset, tokenizer, max_seq_length=128):
     
     input_ids = inputs["input_ids"]
     attention_mask = inputs["attention_mask"]
+
+    for i in range(0, dataset["sentence"].size, 2):
+        g,ug = dataset["sentence"].iloc[i], dataset["sentence"].iloc[i+1]
+        g = g.split()
+        ug = ug.split()
+        diffs = [i for i,pair in enumerate(zip(g,ug)) if pair[0]!=pair[1]]
+        if (len(diffs)!=1):
+            print(diffs)
+            print(g,ug)
+            continue    
+        assert(len(diffs)==1),diffs
+        diff_idx = diffs[0] 
+        if input_ids[i, diff_idx+1] == unknown_id:
+          print(input_ids[i])
+          input_ids = torch.cat((input_ids[:i,:], input_ids[i+2:,:]))
+          attention_mask = torch.cat((attention_mask[:i,:], attention_mask[i+2:,:]))
+    
     return input_ids, attention_mask
 
 
