@@ -27,14 +27,12 @@ args = parser.parse_args()
 # train_df = pd.read_csv(f"{args.data_dir}/eng_train.csv")
 # val_df = pd.read_csv(f"{args.data_dir}/eng_val.csv")
 # test_df = pd.read_csv(f"{args.data_dir}/eng_test.csv")
-eng_dataset = data_utils.concat_eng_datasets(args.data_dir)
-clean_eng_dataset = data_utils.choose_from_pair(eng_dataset)
-print(clean_eng_dataset.head())
 
-# tokenizer = XLMRobertaTokenizer.from_pretrained("xlm-roberta-base")
-# train_data = CLAMS_Dataset(train_df, tokenizer)
-# val_data = CLAMS_Dataset(val_df, tokenizer)
-# test_data = CLAMS_Dataset(test_df, tokenizer)
+tokenizer = XLMRobertaTokenizer.from_pretrained("xlm-roberta-base")
+
+train_data = CLAMS_Dataset(train_df, tokenizer)
+val_data = CLAMS_Dataset(val_df, tokenizer)
+test_data = CLAMS_Dataset(test_df, tokenizer)
 
 # training_args = TrainingArguments(
 # 	output_dir="xlmr_checkpoints",

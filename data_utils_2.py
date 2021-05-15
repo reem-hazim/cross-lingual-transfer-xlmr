@@ -5,25 +5,6 @@ import os
 
 unknown_id = 3
 
-def concat_eng_datasets(folder_name):
-  df = pd.DataFrame(columns=["label", "sentence"])
-  phenomena = ["long_vp_coord.txt", "obj_rel_across_anim.txt", "obj_rel_within_anim.txt", "prep_anim.txt", "simple_agrmt.txt", "subj_rel.txt", "vp_coord.txt"]
-  for phenomenon in phenomena:
-    new_df = pd.read_csv(os.path.join(folder_name, phenomenon), sep="\t", names=["label", "sentence"])
-    df = pd.concat([df, new_df])
-  return df
-
-def choose_from_pair(dataset):
-  dataset["sentence"] = dataset["sentence"].astype(str)
-  # Choose random one out of minimal pair
-  new_dataset = pd.DataFrame(columns=dataset.columns)
-
-  for i in range(0, dataset["sentence"].size, 2):
-    chosen_idx = random.choice([i, i+1])
-    print(dataset.iloc[chosen_idx])
-    new_dataset = new_dataset.append(dataset.iloc[chosen_idx], ignore_index=True)
-  return new_dataset
-
 def encode_data(dataset, tokenizer, max_seq_length=128):
     """Featurizes the dataset into input IDs and attention masks for input into a
      transformer-style model.
