@@ -1,14 +1,35 @@
+Out of vocab examples:
 prep_anim
-{'eval_loss': 0.24358844757080078, 'eval_accuracy': 0.9624107142857142, 'eval_mathews_correlation': 0.9258902588994457, 'eval_runtime': 13.0175, 'eval_samples_per_second': 860.38}
+{'eval_loss': 0.2435884028673172, 'eval_accuracy': 0.9624107142857142, 'eval_mathews_correlation': 0.9258902588994457, 'eval_runtime': 13.4786, 'eval_samples_per_second': 830.947}
+
+
+Out of vocab examples:
 obj_rel_within_anim
-{'eval_loss': 1.917354941368103, 'eval_accuracy': 0.7342857142857143, 'eval_mathews_correlation': 0.4727966992048386, 'eval_runtime': 24.4304, 'eval_samples_per_second': 916.89}
+{'eval_loss': 1.917354941368103, 'eval_accuracy': 0.7342857142857143, 'eval_mathews_correlation': 0.4727966992048386, 'eval_runtime': 26.2418, 'eval_samples_per_second': 853.601}
+
+
+Out of vocab examples:
 vp_coord
-{'eval_loss': 0.17699488997459412, 'eval_accuracy': 0.9668367346938775, 'eval_mathews_correlation': 0.9351473614057122, 'eval_runtime': 2.1199, 'eval_samples_per_second': 924.578}
+{'eval_loss': 0.17699488997459412, 'eval_accuracy': 0.9668367346938775, 'eval_mathews_correlation': 0.9351473614057122, 'eval_runtime': 2.2866, 'eval_samples_per_second': 857.162}
+
+
+Out of vocab examples:
 long_vp_coord
-{'eval_loss': 0.38908281922340393, 'eval_accuracy': 0.919, 'eval_mathews_correlation': 0.8394130822075404, 'eval_runtime': 1.1192, 'eval_samples_per_second': 893.519}
+{'eval_loss': 0.3890828788280487, 'eval_accuracy': 0.919, 'eval_mathews_correlation': 0.8394130822075404, 'eval_runtime': 1.1648, 'eval_samples_per_second': 858.522}
+
+
+Out of vocab examples:
 subj_rel
-{'eval_loss': 0.1375528872013092, 'eval_accuracy': 0.9690625, 'eval_mathews_correlation': 0.9381601854062394, 'eval_runtime': 24.4055, 'eval_samples_per_second': 917.825}
+{'eval_loss': 0.13755297660827637, 'eval_accuracy': 0.9690625, 'eval_mathews_correlation': 0.9381601854062394, 'eval_runtime': 26.1707, 'eval_samples_per_second': 855.919}
+
+
+Out of vocab examples:
 simple_agrmt
-{'eval_loss': 0.8201494216918945, 'eval_accuracy': 0.8785714285714286, 'eval_mathews_correlation': 0.7572201284455171, 'eval_runtime': 0.3117, 'eval_samples_per_second': 898.385}
+{'eval_loss': 0.820149302482605, 'eval_accuracy': 0.8785714285714286, 'eval_mathews_correlation': 0.7572201284455171, 'eval_runtime': 0.3282, 'eval_samples_per_second': 853.255}
+
+
+Out of vocab examples:
 obj_rel_across_anim
-{'eval_loss': 0.5070664882659912, 'eval_accuracy': 0.8948660714285714, 'eval_mathews_correlation': 0.8040331304224181, 'eval_runtime': 24.5882, 'eval_samples_per_second': 911.005}
+{'eval_loss': 0.507066547870636, 'eval_accuracy': 0.8948660714285714, 'eval_mathews_correlation': 0.8040331304224181, 'eval_runtime': 26.2971, 'eval_samples_per_second': 851.805}
+
+
