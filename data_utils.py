@@ -33,13 +33,15 @@ def encode_data(dataset, tokenizer, max_seq_length=128):
     print("Out of vocab examples:")
     rm_idx = []
     for i in range(0, dataset["sentence"].size, 2):
-        g,ug = dataset["sentence"].iloc[i], dataset["sentence"].iloc[i+1]
-        g = g.split()
-        ug = ug.split()
-        diffs = [i for i,pair in enumerate(zip(g,ug)) if pair[0]!=pair[1]]
-        for idx in diffs:
-          if input_ids[i, idx+1] == unknown_id and (i not in rm_idx):
-            rm_idx.append(i)
+      g,ug = dataset["sentence"].iloc[i], dataset["sentence"].iloc[i+1]
+      g = g.split()
+      ug = ug.split()
+      # diffs = [i for i,pair in enumerate(zip(g,ug)) if pair[0]!=pair[1]]
+      # for idx in diffs:
+        # if input_ids[i, idx+1] == unknown_id and (i not in rm_idx):
+        #   rm_idx.append(i)
+      if unknown_id in input_ids[i]:
+        rm_idx.append(i)
     for i in rm_idx:
       print(input_ids[i])
       input_ids = torch.cat((input_ids[:i,:], input_ids[i+2:,:]))
