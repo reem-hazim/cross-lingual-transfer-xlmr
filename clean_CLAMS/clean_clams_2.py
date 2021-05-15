@@ -1,6 +1,7 @@
 import pandas as pd
 import os
 import random
+from sklearn.model_selection import train_test_split
 
 df = pd.DataFrame(columns=["label", "sentence"])
 phenomena = ["long_vp_coord.txt", "obj_rel_across_anim.txt", "obj_rel_within_anim.txt", "prep_anim.txt", "simple_agrmt.txt", "subj_rel.txt", "vp_coord.txt"]
