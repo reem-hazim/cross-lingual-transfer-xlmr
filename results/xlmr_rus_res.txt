@@ -1,0 +1,35 @@
+Out of vocab examples:
+prep_anim
+{'eval_loss': 0.8500401973724365, 'eval_accuracy': 0.9112244897959184, 'eval_mathews_correlation': 0.8262586901184436, 'eval_runtime': 14.071, 'eval_samples_per_second': 835.76}
+
+
+Out of vocab examples:
+obj_rel_within_anim
+{'eval_loss': 0.18805114924907684, 'eval_accuracy': 0.9605357142857143, 'eval_mathews_correlation': 0.9210798875071968, 'eval_runtime': 25.8484, 'eval_samples_per_second': 866.593}
+
+
+Out of vocab examples:
+vp_coord
+{'eval_loss': 0.3496621251106262, 'eval_accuracy': 0.9321428571428572, 'eval_mathews_correlation': 0.8698836073860725, 'eval_runtime': 2.2667, 'eval_samples_per_second': 864.694}
+
+
+Out of vocab examples:
+long_vp_coord
+{'eval_loss': 0.003537500509992242, 'eval_accuracy': 0.998, 'eval_mathews_correlation': 0.9960079680956173, 'eval_runtime': 1.1628, 'eval_samples_per_second': 860.03}
+
+
+Out of vocab examples:
+subj_rel
+{'eval_loss': 0.13722915947437286, 'eval_accuracy': 0.9747023809523809, 'eval_mathews_correlation': 0.9498199239742005, 'eval_runtime': 23.3003, 'eval_samples_per_second': 865.224}
+
+
+Out of vocab examples:
+simple_agrmt
+{'eval_loss': 0.4879893660545349, 'eval_accuracy': 0.9410714285714286, 'eval_mathews_correlation': 0.8846344000663097, 'eval_runtime': 0.6465, 'eval_samples_per_second': 866.173}
+
+
+Out of vocab examples:
+obj_rel_across_anim
+{'eval_loss': 0.1351301074028015, 'eval_accuracy': 0.9717857142857143, 'eval_mathews_correlation': 0.9437279872523149, 'eval_runtime': 25.9876, 'eval_samples_per_second': 861.949}
+
+
