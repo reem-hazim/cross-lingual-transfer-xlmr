@@ -41,7 +41,7 @@ def model_init():
 
 for filename in os.listdir(args.data_dir):
 	if filename != f"{lang}_cleandata.py" and filename != ".gitkeep":
-		test_df = pd.read_csv(os.path.join(args.data_dir, filename))
+		test_df = pd.read_csv(os.path.join(args.data_dir, filename), sep="\t", names=["label", "sentence"])
 		test_df["label"] = [int(label == True) for label in test_df["label"]]
 		test_data = CLAMS_Dataset(test_df, tokenizer)
 		trainer = Trainer(model_init = model_init, compute_metrics = finetuning_utils.compute_metrics, tokenizer=tokenizer)
@@ -51,4 +51,4 @@ for filename in os.listdir(args.data_dir):
 		print(metrics)
 		print('\n')
 		test_preds = pd.DataFrame.from_dict({ "label": label_ids, "pred": predictions.argmax(-1)})
-		test_preds.to_csv(f"./results/predictions/{lang}/xlmr_{phenomenon}_{lang}_preds.csv", index=False)
+		test_preds.to_csv(f"./results/predictions/{lang}/xlmr_{phenomenon}_{lang}_preds_new.csv", index=False)
