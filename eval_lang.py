@@ -36,7 +36,7 @@ lang = args.lang.lower()
 tokenizer = XLMRobertaTokenizer.from_pretrained("xlm-roberta-base")
 
 def model_init():
-	model = XLMRobertaForSequenceClassification.from_pretrained("models/finetuned_xlmr_clams_pheno")
+	model = XLMRobertaForSequenceClassification.from_pretrained("models/finetuned_xlmr_clams_2")
 	return model
 
 for filename in os.listdir(args.data_dir):
