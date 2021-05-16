@@ -24,8 +24,13 @@ parser.add_argument(
 args = parser.parse_args()
 
 train_df = pd.read_csv(f"{args.data_dir}/by_pheno_eng/eng_train.csv")
+train_df["label"] = [int(label == "1") for label in train_df["label"]]
+
 val_df = pd.read_csv(f"{args.data_dir}/by_pheno_eng/eng_val.csv")
+val_df["label"] = [int(label == "1") for label in val_df["label"]]
+
 test_df = pd.read_csv(f"{args.data_dir}/by_pheno_eng/eng_test.csv")
+test_df["label"] = [int(label == "1") for label in test_df["label"]]
 
 tokenizer = XLMRobertaTokenizer.from_pretrained("xlm-roberta-base")
 train_data = CLAMS_Dataset(train_df, tokenizer)
