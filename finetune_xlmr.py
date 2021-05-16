@@ -60,6 +60,8 @@ trainer.save_model("models/finetuned_xlmr_clams_2");
 
 predictions, label_ids, metrics = trainer.predict(test_data)
 
+print('\n')
+print("Test Results:")
 print(metrics)
 
 test_preds = pd.DataFrame.from_dict({
@@ -67,4 +69,4 @@ test_preds = pd.DataFrame.from_dict({
 	"pred": predictions.argmax(-1)
 	})
 
-test_preds.to_csv("results/baseline_xlmr_predictions_2.csv", index=False)
+test_preds.to_csv("results/predictions/baseline_xlmr_predictions_2.csv", index=False)
