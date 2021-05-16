@@ -24,9 +24,9 @@ parser.add_argument(
 
 args = parser.parse_args()
 
-train_df = pd.read_csv(f"{args.data_dir}/eng_train.csv")
-val_df = pd.read_csv(f"{args.data_dir}/eng_val.csv")
-test_df = pd.read_csv(f"{args.data_dir}/eng_test.csv")
+train_df = pd.read_csv(f"{args.data_dir}/eng_train_2.csv")
+val_df = pd.read_csv(f"{args.data_dir}/eng_val_2.csv")
+test_df = pd.read_csv(f"{args.data_dir}/eng_test_2.csv")
 
 tokenizer = XLMRobertaTokenizer.from_pretrained("xlm-roberta-base")
 train_data = CLAMS_Dataset(train_df, tokenizer)
@@ -56,7 +56,7 @@ trainer = Trainer(
 
 trainer.train()
 
-trainer.save_model("models/finetuned_xlmr_clams");
+trainer.save_model("models/finetuned_xlmr_clams_2");
 
 predictions, label_ids, metrics = trainer.predict(test_data)
 
@@ -67,4 +67,4 @@ test_preds = pd.DataFrame.from_dict({
 	"pred": predictions.argmax(-1)
 	})
 
-test_preds.to_csv("results/baseline_xlmr_predictions.csv", index=False)
+test_preds.to_csv("results/baseline_xlmr_predictions_2.csv", index=False)

@@ -37,9 +37,9 @@ def encode_data(dataset, tokenizer, max_seq_length=128):
       if unknown_id in input_ids[i]:
         rm_idx.append(i)
     for i in rm_idx:
-      print(input_ids[i])
-      input_ids = torch.cat((input_ids[:i,:], input_ids[i+2:,:]))
-      attention_mask = torch.cat((attention_mask[:i,:], attention_mask[i+2:,:]))
+      print(new_dataset.at[i, "sentence"])
+      input_ids = torch.cat((input_ids[:i,:], input_ids[i+1:,:]))
+      attention_mask = torch.cat((attention_mask[:i,:], attention_mask[i+1:,:]))
     
     return input_ids, attention_mask
 
