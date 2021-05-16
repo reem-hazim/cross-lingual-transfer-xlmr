@@ -10,7 +10,7 @@ import pandas as pd
 
 from transformers import XLMRobertaTokenizer
 from transformers import TrainingArguments, Trainer
-from clams_dataset import CLAMS_Dataset
+from CLAMS_Dataset import CLAMS_Dataset
 
 parser = argparse.ArgumentParser(
     description="Run a hyperparameter search for finetuning the XLMR model on the the English CLAMS evaluation dataset."
@@ -24,9 +24,9 @@ parser.add_argument(
 
 args = parser.parse_args()
 
-train_df = pd.read_csv(f"{args.data_dir}/eng_train_2.csv")
-val_df = pd.read_csv(f"{args.data_dir}/eng_val_2.csv")
-test_df = pd.read_csv(f"{args.data_dir}/eng_test_2.csv")
+train_df = pd.read_csv(f"{args.data_dir}/experiment_2/eng_train_2.csv")
+val_df = pd.read_csv(f"{args.data_dir}/experiment_2/eng_val_2.csv")
+test_df = pd.read_csv(f"{args.data_dir}/experiment_2/eng_test_2.csv")
 
 tokenizer = XLMRobertaTokenizer.from_pretrained("xlm-roberta-base")
 train_data = CLAMS_Dataset(train_df, tokenizer)
