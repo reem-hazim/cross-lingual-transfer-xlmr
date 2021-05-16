@@ -30,16 +30,16 @@ def encode_data(dataset, tokenizer, max_seq_length=128):
     
     input_ids = inputs["input_ids"]
     attention_mask = inputs["attention_mask"]
-    # print("Out of vocab examples:")
-    # rm_idx = []
+    print("Out of vocab examples:")
+    rm_idx = []
     
-    # for i in range(0, dataset["sentence"].size, 2):
-    #   if unknown_id in input_ids[i]:
-    #     rm_idx.append(i)
-    # for i in rm_idx:
-    #   print(new_dataset.at[i, "sentence"])
-    #   input_ids = torch.cat((input_ids[:i,:], input_ids[i+1:,:]))
-    #   attention_mask = torch.cat((attention_mask[:i,:], attention_mask[i+1:,:]))
+    for i in range(0, dataset["sentence"].size, 2):
+      if unknown_id in input_ids[i]:
+        rm_idx.append(i)
+    for i in rm_idx:
+      print(new_dataset.at[i, "sentence"])
+      input_ids = torch.cat((input_ids[:i,:], input_ids[i+1:,:]))
+      attention_mask = torch.cat((attention_mask[:i,:], attention_mask[i+1:,:]))
     
     return input_ids, attention_mask
 

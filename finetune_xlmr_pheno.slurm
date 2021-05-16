@@ -1,14 +1,14 @@
 #!/bin/bash
 #SBATCH --job-name=roberta_hyperparameter_search
 #SBATCH --open-mode=append
-#SBATCH --output=/scratch/gk1656/MLLU/results/baseline_xlmr_pheno.txt
-#SBATCH --error=/home/gk1656/%j_%x.err
+#SBATCH --output=/scratch/rh3015/MLLU/results/baseline_xlmr_pheno.txt
+#SBATCH --error=/home/rh3015/%j_%x.err
 #SBATCH --export=ALL
 #SBATCH --time=48:00:00
 #SBATCH --gres=gpu:1
 #SBATCH --mem=64G
 #SBATCH -c 4
-#SBATCH --mail-user=gk1656@nyu.edu
+#SBATCH --mail-user=rh3015@nyu.edu
 #SBATCH --mail-type=END  
 #SBATCH --mail-type=BEGIN
 
