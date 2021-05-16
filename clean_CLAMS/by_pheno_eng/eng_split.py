@@ -18,13 +18,14 @@ parser.add_argument(
 args = parser.parse_args()
 
 
-phenomena = ['long_vp_coord.txt','obj_rel_across_anim.txt','obj_rel_within_anim.txt','prep_anim.txt','simple_agrmt.txt','subj_rel.txt','vp_coord.txt']
+
 for filename in os.listdir(args.data_dir):
     if filename in phenomena:
         df = pd.read_csv(os.path.join(args.data_dir, filename), sep="\t", names=["label", "sentence"])
         df["label"] = [int(label == True) for label in df["label"]]
         phenomenon = filename.split(".")[0]
         df["phenomena"] = phenomenon
+        df = df.drop_duplicates()
         df.to_csv(f"./eng_data.csv", index=False,mode='a')
 
 eng_data = pd.read_csv("eng_data.csv",sep=",")
