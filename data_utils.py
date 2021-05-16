@@ -21,14 +21,12 @@ def encode_data(dataset, tokenizer, max_seq_length=128):
   """
 
     dataset["sentence"] = dataset["sentence"].astype(str)
-    print(dataset["sentence"])
     inputs = tokenizer(dataset["sentence"].values.tolist(), 
                       padding=True,
                       truncation= True, 
                       return_tensors='pt', 
                       return_token_type_ids= True,
                       return_attention_mask=True)
-    
     input_ids = inputs["input_ids"]
     attention_mask = inputs["attention_mask"]
     # print("Out of vocab examples:")

@@ -11,7 +11,7 @@ import os
 
 from transformers import XLMRobertaTokenizer,XLMRobertaForSequenceClassification
 from transformers import TrainingArguments, Trainer
-from clams_dataset import CLAMS_Dataset
+from CLAMS_Dataset import CLAMS_Dataset
 
 parser = argparse.ArgumentParser(
     description="Evaluate finetuned XLMR on CLAMS dataset."
@@ -39,10 +39,9 @@ def model_init():
 	model = XLMRobertaForSequenceClassification.from_pretrained("models/finetuned_xlmr_clams_pheno")
 	return model
 
-
 for filename in os.listdir(args.data_dir):
 	if filename != f"{lang}_cleandata.py" and filename != ".gitkeep":
-		test_df = pd.read_csv(os.path.join(args.data_dir, filename), sep="\t", names=["label", "sentence"])
+		test_df = pd.read_csv(os.path.join(args.data_dir, filename))
 		test_df["label"] = [int(label == True) for label in test_df["label"]]
 		test_data = CLAMS_Dataset(test_df, tokenizer)
 		trainer = Trainer(model_init = model_init, compute_metrics = finetuning_utils.compute_metrics, tokenizer=tokenizer)
@@ -53,4 +52,3 @@ for filename in os.listdir(args.data_dir):
 		print('\n')
 		test_preds = pd.DataFrame.from_dict({ "label": label_ids, "pred": predictions.argmax(-1)})
 		test_preds.to_csv(f"./results/predictions/{lang}/xlmr_{phenomenon}_{lang}_preds.csv", index=False)
-
