@@ -1,0 +1,36 @@
+prep_anim.txt
+prep_anim
+{'eval_loss': 1.0890151262283325, 'eval_accuracy': 0.909375, 'eval_mathews_correlation': 0.819197140879045, 'eval_runtime': 13.6069, 'eval_samples_per_second': 823.115}
+
+
+obj_rel_within_anim.txt
+obj_rel_within_anim
+{'eval_loss': 2.407001256942749, 'eval_accuracy': 0.7592410714285714, 'eval_mathews_correlation': 0.5340072333913893, 'eval_runtime': 25.2136, 'eval_samples_per_second': 888.409}
+
+
+vp_coord.txt
+vp_coord
+{'eval_loss': 0.9004005789756775, 'eval_accuracy': 0.9066326530612245, 'eval_mathews_correlation': 0.813360587698895, 'eval_runtime': 2.1946, 'eval_samples_per_second': 893.085}
+
+
+long_vp_coord.txt
+long_vp_coord
+{'eval_loss': 2.143775224685669, 'eval_accuracy': 0.753, 'eval_mathews_correlation': 0.5069753448216076, 'eval_runtime': 1.1249, 'eval_samples_per_second': 888.973}
+
+
+subj_rel.txt
+subj_rel
+{'eval_loss': 0.9544323086738586, 'eval_accuracy': 0.9118303571428571, 'eval_mathews_correlation': 0.8243233866535349, 'eval_runtime': 25.015, 'eval_samples_per_second': 895.462}
+
+
+simple_agrmt.txt
+simple_agrmt
+{'eval_loss': 1.492417812347412, 'eval_accuracy': 0.8642857142857143, 'eval_mathews_correlation': 0.7292414479085658, 'eval_runtime': 0.3896, 'eval_samples_per_second': 718.621}
+
+
+obj_rel_across_anim.txt
+obj_rel_across_anim
+{'eval_loss': 1.1444554328918457, 'eval_accuracy': 0.8900446428571429, 'eval_mathews_correlation': 0.7802821438641572, 'eval_runtime': 25.1847, 'eval_samples_per_second': 889.428}
+
+
+.gitkeep
