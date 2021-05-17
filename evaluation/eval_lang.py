@@ -41,10 +41,10 @@ def model_init():
 
 for filename in os.listdir(args.data_dir):
 	if filename not in [".gitkeep", ".DS_Store", "remove_anomalies.py"]:
-		if lang != "english":
-			test_df = pd.read_csv(os.path.join(args.data_dir, filename), sep="\t", names=["label", "sentence"])
-		else:
-			test_df = pd.read_csv(os.path.join(args.data_dir, filename))
+		# if lang != "english":
+		# 	test_df = pd.read_csv(os.path.join(args.data_dir, filename), sep="\t", names=["label", "sentence"])
+		# else:
+		test_df = pd.read_csv(os.path.join(args.data_dir, filename))
 		test_df["label"] = [int(label == True) for label in test_df["label"]]
 		test_data = CLAMS_Dataset(test_df, tokenizer)
 		trainer = Trainer(model_init = model_init, compute_metrics = finetuning_utils.compute_metrics, tokenizer=tokenizer)
