@@ -25,7 +25,8 @@ test.to_csv("eng.test.csv",index=False)
 # Split test data
 phenomena = ["long_vp_coord.txt", "obj_rel_across_anim.txt", "obj_rel_within_anim.txt", "prep_anim.txt","simple_agrmt.txt", "subj_rel.txt", "vp_coord.txt"]
 for filename in phenomena:
-	phen = filename.split(".")[0]
-	test_phen = test[test["phenomena"] == phen]
-	test_phen = test_phen.drop(axis=1, labels=["phenomena"])
-	test_phen.to_csv(f"./test_by_phenomenon/{phen}.csv")
+    phen = filename.split(".")[0]
+    test_phen = test[test["phenomena"] == phen]
+    test_phen = test_phen.drop(axis=1, labels=["phenomena"])
+    # test_phen = test_phen.reset_index(drop=True)
+    test_phen.to_csv(f"./test_by_phenomenon/{phen}.csv", index=False)
