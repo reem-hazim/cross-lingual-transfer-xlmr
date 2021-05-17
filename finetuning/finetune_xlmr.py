@@ -56,7 +56,7 @@ trainer = Trainer(
 
 trainer.train()
 
-trainer.save_model("models/finetuned_xlmr_clams_full_dataset");
+trainer.save_model("../models/finetuned_xlmr_clams_full_dataset");
 
 # predictions, label_ids, metrics = trainer.predict(test_data)
 
