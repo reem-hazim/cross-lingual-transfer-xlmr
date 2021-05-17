@@ -12,8 +12,9 @@ for filename in os.listdir("../../CLAMS/English"):
         phenomenon = filename.split(".")[0]
         df["phenomena"] = phenomenon
         new_df = pd.concat([df, new_df])
-        new_df = new_df.drop_duplicates(subset=["sentence"], ignore_index = True)
-
+        
+new_df = new_df.sample(frac = 1)
+new_df = new_df.drop_duplicates(subset=["sentence"], ignore_index = True)
 new_df.to_csv("./eng_full_dataset.csv", index=False,mode='a')
 
 train, validate, test =np.split(new_df.sample(frac=1, random_state=42), 
