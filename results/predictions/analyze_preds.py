@@ -1,25 +1,11 @@
 import os
 import pandas as pd
-import argparse
 from CLAMS_Dataset import CLAMS_Dataset
 from transformers import XLMRobertaTokenizer
 
-parser = argparse.ArgumentParser(
-    description="Evaluate finetuned XLMR on CLAMS dataset."
-)
-
-parser.add_argument(
-    "lang",
-    type=str,
-    help="Language to evaluate",
-)
-
-args = parser.parse_args()
-
-lang = args.lang.lower()
 tokenizer = XLMRobertaTokenizer.from_pretrained("xlm-roberta-base")
 
-old_df = pd.read_csv("../../CLAMS/French/prep_anim.txt", sep="\t", names=["label", "sentence"])
+old_df = pd.read_csv("../../CLAMS/Russian/simple_agrmt.txt", sep="\t", names=["label", "sentence"])
 print(old_df.head())
 clams = CLAMS_Dataset(old_df, tokenizer)
 print(old_df.at[9, "sentence"])
@@ -34,7 +20,7 @@ print(clams[23])
 print(tokenizer.decode([0, 7, 2]))
 # print(clams[10])
 
-pred_df = pd.read_csv("./french/xlmr_prep_anim_french_preds.csv")
+pred_df = pd.read_csv("./russian/xlmr_simple_agrmt_russian_preds.csv")
 wrong_ex = pred_df[pred_df["label"] != pred_df["pred"]]
 print(wrong_ex.head(20))
 print('\n')

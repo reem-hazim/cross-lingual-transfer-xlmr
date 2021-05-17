@@ -40,7 +40,7 @@ def model_init():
 	return model
 
 for filename in os.listdir(args.data_dir):
-	if filename not in [".gitkeep", ".DS_Store", "remove_anomalies.py"]:
+	if filename not in [".gitkeep", ".DS_Store", "shuffle_french.py"]:
 		# if lang != "english":
 		# 	test_df = pd.read_csv(os.path.join(args.data_dir, filename), sep="\t", names=["label", "sentence"])
 		# else:
@@ -54,4 +54,4 @@ for filename in os.listdir(args.data_dir):
 		print(metrics)
 		print('\n')
 		test_preds = pd.DataFrame.from_dict({ "label": label_ids, "pred": predictions.argmax(-1)})
-		test_preds.to_csv(f"../results/predictions/anomaly_test/xlmr_{phenomenon}_{lang}_preds.csv", index=False)
+		test_preds.to_csv(f"../results/predictions/anomaly_test_2/xlmr_{phenomenon}_{lang}_preds.csv", index=False)
