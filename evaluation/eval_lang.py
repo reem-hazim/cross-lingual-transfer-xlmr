@@ -40,7 +40,6 @@ def model_init():
 	return model
 
 for filename in os.listdir(args.data_dir):
-	print(filename)
 	if filename not in [".gitkeep", ".DS_Store"]:
 		if lang != "english":
 			test_df = pd.read_csv(os.path.join(args.data_dir, filename), sep="\t", names=["label", "sentence"])
