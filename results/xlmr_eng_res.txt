@@ -26,3 +26,31 @@ prep_anim
 {'eval_loss': 6.65642664898769e-06, 'eval_accuracy': 1.0, 'eval_mathews_correlation': 1.0, 'eval_runtime': 7.7972, 'eval_samples_per_second': 853.637}
 
 
+prep_anim
+{'eval_loss': 0.6474052667617798, 'eval_accuracy': 0.9333035714285715, 'eval_mathews_correlation': 0.8667774332578483, 'eval_runtime': 13.9887, 'eval_samples_per_second': 800.646}
+
+
+obj_rel_within_anim
+{'eval_loss': 3.3992865085601807, 'eval_accuracy': 0.6079910714285715, 'eval_mathews_correlation': 0.22312395766272886, 'eval_runtime': 26.7286, 'eval_samples_per_second': 838.054}
+
+
+vp_coord
+{'eval_loss': 0.8479430079460144, 'eval_accuracy': 0.8969387755102041, 'eval_mathews_correlation': 0.8011784833159278, 'eval_runtime': 2.3289, 'eval_samples_per_second': 841.6}
+
+
+long_vp_coord
+{'eval_loss': 1.927059531211853, 'eval_accuracy': 0.798, 'eval_mathews_correlation': 0.6357370403974615, 'eval_runtime': 1.1919, 'eval_samples_per_second': 839.013}
+
+
+subj_rel
+{'eval_loss': 0.6151210069656372, 'eval_accuracy': 0.9256696428571428, 'eval_mathews_correlation': 0.8534274068940186, 'eval_runtime': 26.1016, 'eval_samples_per_second': 858.184}
+
+
+simple_agrmt
+{'eval_loss': 1.4960863590240479, 'eval_accuracy': 0.85, 'eval_mathews_correlation': 0.7017925765586442, 'eval_runtime': 0.3242, 'eval_samples_per_second': 863.778}
+
+
+obj_rel_across_anim
+{'eval_loss': 1.357253074645996, 'eval_accuracy': 0.8338392857142857, 'eval_mathews_correlation': 0.6815481979584455, 'eval_runtime': 26.2736, 'eval_samples_per_second': 852.568}
+
+
