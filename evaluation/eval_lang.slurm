@@ -1,7 +1,7 @@
 #!/bin/bash
 #SBATCH --job-name=roberta_hyperparameter_search
 #SBATCH --open-mode=append
-#SBATCH --output=/scratch/rh3015/MLLU/results/xlmr_heb_2_res.txt
+#SBATCH --output=/scratch/rh3015/MLLU/results/xlmr_eng_res.txt
 #SBATCH --error=/home/rh3015/%j_%x.err
 #SBATCH --export=ALL
 #SBATCH --time=48:00:00
