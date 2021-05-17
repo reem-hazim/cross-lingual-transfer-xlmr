@@ -24,14 +24,14 @@ parser.add_argument(
 
 args = parser.parse_args()
 
-train_df = pd.read_csv(f"{args.data_dir}/experiment_2/eng_train_2.csv")
-val_df = pd.read_csv(f"{args.data_dir}/experiment_2/eng_val_2.csv")
-test_df = pd.read_csv(f"{args.data_dir}/experiment_2/eng_test_2.csv")
+train_df = pd.read_csv(f"../{args.data_dir}/eng_train.csv")
+val_df = pd.read_csv(f"../{args.data_dir}/eng_val.csv")
+# test_df = pd.read_csv(f"../{args.data_dir}/eng_test.csv")
 
 tokenizer = XLMRobertaTokenizer.from_pretrained("xlm-roberta-base")
 train_data = CLAMS_Dataset(train_df, tokenizer)
 val_data = CLAMS_Dataset(val_df, tokenizer)
-test_data = CLAMS_Dataset(test_df, tokenizer)
+# test_data = CLAMS_Dataset(test_df, tokenizer)
 
 training_args = TrainingArguments(
 	output_dir="xlmr_checkpoints",
@@ -56,17 +56,17 @@ trainer = Trainer(
 
 trainer.train()
 
-trainer.save_model("models/finetuned_xlmr_clams_2");
+trainer.save_model("models/finetuned_xlmr_clams_full_dataset");
 
-predictions, label_ids, metrics = trainer.predict(test_data)
+# predictions, label_ids, metrics = trainer.predict(test_data)
 
-print('\n')
-print("Test Results:")
-print(metrics)
+# print('\n')
+# print("Test Results:")
+# print(metrics)
 
-test_preds = pd.DataFrame.from_dict({
-	"label": label_ids,
-	"pred": predictions.argmax(-1)
-	})
+# test_preds = pd.DataFrame.from_dict({
+# 	"label": label_ids,
+# 	"pred": predictions.argmax(-1)
+# 	})
 
-test_preds.to_csv("results/predictions/baseline_xlmr_predictions_2.csv", index=False)
+# test_preds.to_csv("results/predictions/baseline_xlmr_predictions_2.csv", index=False)
