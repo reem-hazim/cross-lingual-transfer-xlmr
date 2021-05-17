@@ -10,7 +10,7 @@ import pandas as pd
 
 from transformers import XLMRobertaTokenizer
 from transformers import TrainingArguments, Trainer
-from clams_dataset import CLAMS_Dataset
+from CLAMS_Dataset import CLAMS_Dataset
 
 parser = argparse.ArgumentParser(
     description="Run a hyperparameter search for finetuning the XLMR model on the the English CLAMS evaluation dataset."
