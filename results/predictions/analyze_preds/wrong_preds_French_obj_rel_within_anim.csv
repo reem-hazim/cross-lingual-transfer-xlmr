@@ -1,0 +1,3474 @@
+label,pred,sentence
+0,1,les auteurs que les gardes aime déménagent
+0,1,les directeurs que les gardes aime déménagent
+0,1,les agriculteurs que les gardes aime déménagent
+0,1,les chirurgiens que les gardes aime déménagent
+0,1,les sénateurs que les gardes aime déménagent
+0,1,les professeurs que les gardes aime déménagent
+0,1,les clients que les gardes aime déménagent
+0,1,les officiers que les gardes aime déménagent
+0,1,les pilotes que les gardes aime déménagent
+0,1,les pilotes que les gardes admire déménagent
+0,1,les consultants que les gardes aime déménagent
+0,1,les auteurs que les ministres aime déménagent
+0,1,les directeurs que les ministres aime déménagent
+0,1,les agriculteurs que les ministres aime déménagent
+0,1,les chirurgiens que les ministres aime déménagent
+0,1,les sénateurs que les ministres aime déménagent
+0,1,les professeurs que les ministres aime déménagent
+0,1,les clients que les ministres aime déménagent
+0,1,les officiers que les ministres aime déménagent
+0,1,les pilotes que les ministres aime déménagent
+0,1,les pilotes que les ministres admire déménagent
+0,1,les consultants que les ministres aime déménagent
+0,1,les auteurs que les cadres aime déménagent
+0,1,les directeurs que les cadres aime déménagent
+0,1,les agriculteurs que les cadres aime déménagent
+0,1,les chirurgiens que les cadres aime déménagent
+0,1,les sénateurs que les cadres aime déménagent
+0,1,les professeurs que les cadres aime déménagent
+0,1,les clients que les cadres aime déménagent
+0,1,les officiers que les cadres aime déménagent
+0,1,les pilotes que les cadres aime déménagent
+0,1,les consultants que les cadres aime déménagent
+0,1,les auteurs que les adjoints aime déménagent
+0,1,les directeurs que les adjoints aime déménagent
+0,1,les directeurs que les adjoints déteste déménagent
+0,1,les agriculteurs que les adjoints aime déménagent
+0,1,les chirurgiens que les adjoints aime déménagent
+0,1,les chirurgiens que les adjoints déteste déménagent
+0,1,les sénateurs que les adjoints aime déménagent
+0,1,les professeurs que les adjoints aime déménagent
+0,1,les professeurs que les adjoints déteste déménagent
+0,1,les clients que les adjoints aime déménagent
+0,1,les officiers que les adjoints aime déménagent
+0,1,les pilotes que les adjoints aime déménagent
+0,1,les pilotes que les adjoints déteste déménagent
+0,1,les consultants que les adjoints aime déménagent
+0,1,les consultants que les adjoints déteste déménagent
+0,1,les auteurs que les chauffeurs de taxi aime déménagent
+0,1,les directeurs que les chauffeurs de taxi aime déménagent
+0,1,les agriculteurs que les chauffeurs de taxi aime déménagent
+0,1,les chirurgiens que les chauffeurs de taxi aime déménagent
+0,1,les sénateurs que les chauffeurs de taxi aime déménagent
+0,1,les professeurs que les chauffeurs de taxi aime déménagent
+0,1,les clients que les chauffeurs de taxi aime déménagent
+0,1,les officiers que les chauffeurs de taxi aime déménagent
+0,1,les pilotes que les chauffeurs de taxi aime déménagent
+0,1,les consultants que les chauffeurs de taxi aime déménagent
+0,1,les auteurs que les danseurs aime déménagent
+0,1,les directeurs que les danseurs aime déménagent
+0,1,les agriculteurs que les danseurs aime déménagent
+0,1,les chirurgiens que les danseurs aime déménagent
+0,1,les sénateurs que les danseurs aime déménagent
+0,1,les professeurs que les danseurs aime déménagent
+0,1,les clients que les danseurs aime déménagent
+0,1,les officiers que les danseurs aime déménagent
+0,1,les pilotes que les danseurs aime déménagent
+0,1,les consultants que les danseurs aime déménagent
+0,1,les auteurs que les architectes aime déménagent
+0,1,les directeurs que les architectes aime déménagent
+0,1,les agriculteurs que les architectes aime déménagent
+0,1,les chirurgiens que les architectes aime déménagent
+0,1,les chirurgiens que les architectes admire déménagent
+0,1,les sénateurs que les architectes aime déménagent
+0,1,les professeurs que les architectes aime déménagent
+0,1,les clients que les architectes aime déménagent
+0,1,les officiers que les architectes aime déménagent
+0,1,les pilotes que les architectes aime déménagent
+0,1,les pilotes que les architectes admire déménagent
+0,1,les consultants que les architectes aime déménagent
+0,1,les consultants que les architectes admire déménagent
+0,1,les auteurs que les chefs aime déménagent
+0,1,les directeurs que les chefs aime déménagent
+0,1,les agriculteurs que les chefs aime déménagent
+0,1,les chirurgiens que les chefs aime déménagent
+0,1,les sénateurs que les chefs aime déménagent
+0,1,les professeurs que les chefs aime déménagent
+0,1,les clients que les chefs aime déménagent
+0,1,les officiers que les chefs aime déménagent
+0,1,les pilotes que les chefs aime déménagent
+0,1,les pilotes que les chefs admire déménagent
+0,1,les consultants que les chefs aime déménagent
+0,1,les auteurs que les patineurs aime déménagent
+0,1,les directeurs que les patineurs aime déménagent
+0,1,les agriculteurs que les patineurs aime déménagent
+0,1,les chirurgiens que les patineurs aime déménagent
+0,1,les sénateurs que les patineurs aime déménagent
+0,1,les professeurs que les patineurs aime déménagent
+0,1,les clients que les patineurs aime déménagent
+0,1,les officiers que les patineurs aime déménagent
+0,1,les pilotes que les patineurs aime déménagent
+0,1,les consultants que les patineurs aime déménagent
+0,1,les auteurs que les parents aime déménagent
+0,1,les directeurs que les parents aime déménagent
+0,1,les agriculteurs que les parents aime déménagent
+0,1,les chirurgiens que les parents aime déménagent
+0,1,les sénateurs que les parents aime déménagent
+0,1,les professeurs que les parents aime déménagent
+0,1,les clients que les parents aime déménagent
+0,1,les officiers que les parents aime déménagent
+0,1,les pilotes que les parents aime déménagent
+0,1,les pilotes que les parents admire déménagent
+0,1,les consultants que les parents aime déménagent
+0,1,les consultants que les parents admire déménagent
+0,1,les auteurs que les gardes aime parlent
+0,1,les directeurs que les gardes aime parlent
+0,1,les agriculteurs que les gardes aime parlent
+0,1,les chirurgiens que les gardes aime parlent
+0,1,les chirurgiens que les gardes déteste parlent
+0,1,les chirurgiens que les gardes admire parlent
+0,1,les sénateurs que les gardes aime parlent
+0,1,les professeurs que les gardes aime parlent
+0,1,les professeurs que les gardes admire parlent
+0,1,les clients que les gardes aime parlent
+0,1,les clients que les gardes admire parlent
+0,1,les officiers que les gardes aime parlent
+0,1,les pilotes que les gardes aime parlent
+0,1,les pilotes que les gardes admire parlent
+0,1,les consultants que les gardes aime parlent
+0,1,les consultants que les gardes admire parlent
+0,1,les auteurs que les ministres aime parlent
+0,1,les directeurs que les ministres aime parlent
+0,1,les agriculteurs que les ministres aime parlent
+0,1,les chirurgiens que les ministres aime parlent
+0,1,les chirurgiens que les ministres admire parlent
+0,1,les sénateurs que les ministres aime parlent
+0,1,les professeurs que les ministres aime parlent
+0,1,les professeurs que les ministres admire parlent
+0,1,les clients que les ministres aime parlent
+0,1,les clients que les ministres admire parlent
+0,1,les officiers que les ministres aime parlent
+0,1,les pilotes que les ministres aime parlent
+0,1,les pilotes que les ministres admire parlent
+0,1,les consultants que les ministres aime parlent
+0,1,les consultants que les ministres admire parlent
+0,1,les auteurs que les cadres aime parlent
+0,1,les directeurs que les cadres aime parlent
+0,1,les agriculteurs que les cadres aime parlent
+0,1,les chirurgiens que les cadres aime parlent
+0,1,les sénateurs que les cadres aime parlent
+0,1,les professeurs que les cadres aime parlent
+0,1,les clients que les cadres aime parlent
+0,1,les officiers que les cadres aime parlent
+0,1,les pilotes que les cadres aime parlent
+0,1,les pilotes que les cadres admire parlent
+0,1,les consultants que les cadres aime parlent
+0,1,les auteurs que les adjoints aime parlent
+0,1,les directeurs que les adjoints aime parlent
+0,1,les directeurs que les adjoints déteste parlent
+0,1,les agriculteurs que les adjoints aime parlent
+0,1,les chirurgiens que les adjoints aime parlent
+0,1,les chirurgiens que les adjoints déteste parlent
+0,1,les chirurgiens que les adjoints admire parlent
+0,1,les sénateurs que les adjoints aime parlent
+0,1,les professeurs que les adjoints aime parlent
+0,1,les clients que les adjoints aime parlent
+0,1,les officiers que les adjoints aime parlent
+0,1,les pilotes que les adjoints aime parlent
+0,1,les pilotes que les adjoints déteste parlent
+0,1,les pilotes que les adjoints admire parlent
+0,1,les consultants que les adjoints aime parlent
+0,1,les auteurs que les chauffeurs de taxi aime parlent
+0,1,les directeurs que les chauffeurs de taxi aime parlent
+0,1,les agriculteurs que les chauffeurs de taxi aime parlent
+0,1,les chirurgiens que les chauffeurs de taxi aime parlent
+0,1,les chirurgiens que les chauffeurs de taxi admire parlent
+0,1,les sénateurs que les chauffeurs de taxi aime parlent
+0,1,les professeurs que les chauffeurs de taxi aime parlent
+0,1,les clients que les chauffeurs de taxi aime parlent
+0,1,les officiers que les chauffeurs de taxi aime parlent
+0,1,les pilotes que les chauffeurs de taxi aime parlent
+0,1,les pilotes que les chauffeurs de taxi admire parlent
+0,1,les consultants que les chauffeurs de taxi aime parlent
+0,1,les consultants que les chauffeurs de taxi admire parlent
+0,1,les auteurs que les danseurs aime parlent
+0,1,les directeurs que les danseurs aime parlent
+0,1,les agriculteurs que les danseurs aime parlent
+0,1,les chirurgiens que les danseurs aime parlent
+0,1,les sénateurs que les danseurs aime parlent
+0,1,les professeurs que les danseurs aime parlent
+0,1,les clients que les danseurs aime parlent
+0,1,les officiers que les danseurs aime parlent
+0,1,les pilotes que les danseurs aime parlent
+0,1,les consultants que les danseurs aime parlent
+0,1,les auteurs que les architectes aime parlent
+0,1,les directeurs que les architectes aime parlent
+0,1,les directeurs que les architectes admire parlent
+0,1,les agriculteurs que les architectes aime parlent
+0,1,les chirurgiens que les architectes aime parlent
+0,1,les chirurgiens que les architectes admire parlent
+0,1,les sénateurs que les architectes aime parlent
+0,1,les professeurs que les architectes aime parlent
+0,1,les professeurs que les architectes admire parlent
+0,1,les clients que les architectes aime parlent
+0,1,les clients que les architectes admire parlent
+0,1,les officiers que les architectes aime parlent
+0,1,les officiers que les architectes admire parlent
+0,1,les pilotes que les architectes aime parlent
+0,1,les pilotes que les architectes admire parlent
+0,1,les consultants que les architectes aime parlent
+0,1,les consultants que les architectes admire parlent
+0,1,les auteurs que les chefs aime parlent
+0,1,les directeurs que les chefs aime parlent
+0,1,les directeurs que les chefs admire parlent
+0,1,les agriculteurs que les chefs aime parlent
+0,1,les chirurgiens que les chefs aime parlent
+0,1,les chirurgiens que les chefs admire parlent
+0,1,les sénateurs que les chefs aime parlent
+0,1,les professeurs que les chefs aime parlent
+0,1,les professeurs que les chefs admire parlent
+0,1,les clients que les chefs aime parlent
+0,1,les clients que les chefs admire parlent
+0,1,les officiers que les chefs aime parlent
+0,1,les officiers que les chefs admire parlent
+0,1,les pilotes que les chefs aime parlent
+0,1,les pilotes que les chefs admire parlent
+0,1,les consultants que les chefs aime parlent
+0,1,les consultants que les chefs admire parlent
+0,1,les auteurs que les patineurs aime parlent
+0,1,les directeurs que les patineurs aime parlent
+0,1,les agriculteurs que les patineurs aime parlent
+0,1,les chirurgiens que les patineurs aime parlent
+0,1,les sénateurs que les patineurs aime parlent
+0,1,les professeurs que les patineurs aime parlent
+0,1,les clients que les patineurs aime parlent
+0,1,les officiers que les patineurs aime parlent
+0,1,les pilotes que les patineurs aime parlent
+0,1,les consultants que les patineurs aime parlent
+0,1,les consultants que les patineurs admire parlent
+0,1,les auteurs que les parents aime parlent
+0,1,les directeurs que les parents aime parlent
+0,1,les directeurs que les parents admire parlent
+0,1,les agriculteurs que les parents aime parlent
+0,1,les chirurgiens que les parents aime parlent
+0,1,les chirurgiens que les parents admire parlent
+0,1,les sénateurs que les parents aime parlent
+0,1,les professeurs que les parents aime parlent
+0,1,les professeurs que les parents admire parlent
+0,1,les clients que les parents aime parlent
+0,1,les clients que les parents admire parlent
+0,1,les officiers que les parents aime parlent
+0,1,les pilotes que les parents aime parlent
+0,1,les pilotes que les parents admire parlent
+0,1,les consultants que les parents aime parlent
+0,1,les consultants que les parents admire parlent
+0,1,les auteurs que les gardes aime retournent
+0,1,les directeurs que les gardes aime retournent
+0,1,les agriculteurs que les gardes aime retournent
+0,1,les chirurgiens que les gardes aime retournent
+0,1,les chirurgiens que les gardes admire retournent
+0,1,les sénateurs que les gardes aime retournent
+0,1,les professeurs que les gardes aime retournent
+0,1,les professeurs que les gardes admire retournent
+0,1,les clients que les gardes aime retournent
+0,1,les officiers que les gardes aime retournent
+0,1,les pilotes que les gardes aime retournent
+0,1,les pilotes que les gardes admire retournent
+0,1,les consultants que les gardes aime retournent
+0,1,les consultants que les gardes admire retournent
+0,1,les auteurs que les ministres aime retournent
+0,1,les directeurs que les ministres aime retournent
+0,1,les agriculteurs que les ministres aime retournent
+0,1,les chirurgiens que les ministres aime retournent
+0,1,les chirurgiens que les ministres admire retournent
+0,1,les sénateurs que les ministres aime retournent
+0,1,les professeurs que les ministres aime retournent
+0,1,les professeurs que les ministres admire retournent
+0,1,les clients que les ministres aime retournent
+0,1,les officiers que les ministres aime retournent
+0,1,les pilotes que les ministres aime retournent
+0,1,les pilotes que les ministres admire retournent
+0,1,les consultants que les ministres aime retournent
+0,1,les auteurs que les cadres aime retournent
+0,1,les directeurs que les cadres aime retournent
+0,1,les agriculteurs que les cadres aime retournent
+0,1,les chirurgiens que les cadres aime retournent
+0,1,les sénateurs que les cadres aime retournent
+0,1,les professeurs que les cadres aime retournent
+0,1,les clients que les cadres aime retournent
+0,1,les officiers que les cadres aime retournent
+0,1,les pilotes que les cadres aime retournent
+0,1,les consultants que les cadres aime retournent
+0,1,les auteurs que les adjoints aime retournent
+0,1,les directeurs que les adjoints aime retournent
+0,1,les agriculteurs que les adjoints aime retournent
+0,1,les chirurgiens que les adjoints aime retournent
+0,1,les sénateurs que les adjoints aime retournent
+0,1,les professeurs que les adjoints aime retournent
+0,1,les clients que les adjoints aime retournent
+0,1,les officiers que les adjoints aime retournent
+0,1,les pilotes que les adjoints aime retournent
+0,1,les consultants que les adjoints aime retournent
+0,1,les auteurs que les chauffeurs de taxi aime retournent
+0,1,les directeurs que les chauffeurs de taxi aime retournent
+0,1,les agriculteurs que les chauffeurs de taxi aime retournent
+0,1,les chirurgiens que les chauffeurs de taxi aime retournent
+0,1,les sénateurs que les chauffeurs de taxi aime retournent
+0,1,les professeurs que les chauffeurs de taxi aime retournent
+0,1,les clients que les chauffeurs de taxi aime retournent
+0,1,les officiers que les chauffeurs de taxi aime retournent
+0,1,les pilotes que les chauffeurs de taxi aime retournent
+0,1,les consultants que les chauffeurs de taxi aime retournent
+0,1,les auteurs que les danseurs aime retournent
+0,1,les directeurs que les danseurs aime retournent
+0,1,les agriculteurs que les danseurs aime retournent
+0,1,les chirurgiens que les danseurs aime retournent
+0,1,les sénateurs que les danseurs aime retournent
+0,1,les professeurs que les danseurs aime retournent
+0,1,les clients que les danseurs aime retournent
+0,1,les officiers que les danseurs aime retournent
+0,1,les pilotes que les danseurs aime retournent
+0,1,les consultants que les danseurs aime retournent
+0,1,les auteurs que les architectes aime retournent
+0,1,les directeurs que les architectes aime retournent
+0,1,les directeurs que les architectes admire retournent
+0,1,les agriculteurs que les architectes aime retournent
+0,1,les chirurgiens que les architectes aime retournent
+0,1,les sénateurs que les architectes aime retournent
+0,1,les professeurs que les architectes aime retournent
+0,1,les professeurs que les architectes admire retournent
+0,1,les clients que les architectes aime retournent
+0,1,les officiers que les architectes aime retournent
+0,1,les pilotes que les architectes aime retournent
+0,1,les pilotes que les architectes admire retournent
+0,1,les consultants que les architectes aime retournent
+0,1,les consultants que les architectes admire retournent
+0,1,les auteurs que les chefs aime retournent
+0,1,les directeurs que les chefs aime retournent
+0,1,les agriculteurs que les chefs aime retournent
+0,1,les chirurgiens que les chefs aime retournent
+0,1,les chirurgiens que les chefs admire retournent
+0,1,les sénateurs que les chefs aime retournent
+0,1,les professeurs que les chefs aime retournent
+0,1,les professeurs que les chefs admire retournent
+0,1,les clients que les chefs aime retournent
+0,1,les officiers que les chefs aime retournent
+0,1,les pilotes que les chefs aime retournent
+0,1,les pilotes que les chefs admire retournent
+0,1,les consultants que les chefs aime retournent
+0,1,les consultants que les chefs admire retournent
+0,1,les auteurs que les patineurs aime retournent
+0,1,les directeurs que les patineurs aime retournent
+0,1,les agriculteurs que les patineurs aime retournent
+0,1,les chirurgiens que les patineurs aime retournent
+0,1,les sénateurs que les patineurs aime retournent
+0,1,les professeurs que les patineurs aime retournent
+0,1,les clients que les patineurs aime retournent
+0,1,les officiers que les patineurs aime retournent
+0,1,les pilotes que les patineurs aime retournent
+0,1,les consultants que les patineurs aime retournent
+0,1,les auteurs que les parents aime retournent
+0,1,les directeurs que les parents aime retournent
+0,1,les directeurs que les parents admire retournent
+0,1,les agriculteurs que les parents aime retournent
+0,1,les chirurgiens que les parents aime retournent
+0,1,les sénateurs que les parents aime retournent
+0,1,les professeurs que les parents aime retournent
+0,1,les professeurs que les parents admire retournent
+0,1,les clients que les parents aime retournent
+0,1,les officiers que les parents aime retournent
+0,1,les pilotes que les parents aime retournent
+0,1,les pilotes que les parents admire retournent
+0,1,les consultants que les parents aime retournent
+0,1,les consultants que les parents admire retournent
+0,1,les auteurs que les gardes aime sont vieux
+0,1,les directeurs que les gardes aime sont vieux
+0,1,les agriculteurs que les gardes aime sont vieux
+0,1,les chirurgiens que les gardes aime sont vieux
+0,1,les sénateurs que les gardes aime sont vieux
+0,1,les professeurs que les gardes aime sont vieux
+0,1,les clients que les gardes aime sont vieux
+0,1,les officiers que les gardes aime sont vieux
+0,1,les pilotes que les gardes aime sont vieux
+0,1,les consultants que les gardes aime sont vieux
+0,1,les auteurs que les ministres aime sont vieux
+0,1,les directeurs que les ministres aime sont vieux
+0,1,les agriculteurs que les ministres aime sont vieux
+0,1,les chirurgiens que les ministres aime sont vieux
+0,1,les sénateurs que les ministres aime sont vieux
+0,1,les professeurs que les ministres aime sont vieux
+0,1,les clients que les ministres aime sont vieux
+0,1,les officiers que les ministres aime sont vieux
+0,1,les pilotes que les ministres aime sont vieux
+0,1,les consultants que les ministres aime sont vieux
+0,1,les auteurs que les cadres aime sont vieux
+0,1,les directeurs que les cadres aime sont vieux
+0,1,les agriculteurs que les cadres aime sont vieux
+0,1,les chirurgiens que les cadres aime sont vieux
+0,1,les sénateurs que les cadres aime sont vieux
+0,1,les professeurs que les cadres aime sont vieux
+0,1,les clients que les cadres aime sont vieux
+0,1,les officiers que les cadres aime sont vieux
+0,1,les pilotes que les cadres aime sont vieux
+0,1,les consultants que les cadres aime sont vieux
+0,1,les auteurs que les adjoints aime sont vieux
+0,1,les directeurs que les adjoints aime sont vieux
+0,1,les agriculteurs que les adjoints aime sont vieux
+0,1,les chirurgiens que les adjoints aime sont vieux
+0,1,les sénateurs que les adjoints aime sont vieux
+0,1,les professeurs que les adjoints aime sont vieux
+0,1,les clients que les adjoints aime sont vieux
+0,1,les officiers que les adjoints aime sont vieux
+0,1,les pilotes que les adjoints aime sont vieux
+0,1,les consultants que les adjoints aime sont vieux
+0,1,les auteurs que les chauffeurs de taxi aime sont vieux
+0,1,les directeurs que les chauffeurs de taxi aime sont vieux
+0,1,les agriculteurs que les chauffeurs de taxi aime sont vieux
+0,1,les chirurgiens que les chauffeurs de taxi aime sont vieux
+0,1,les sénateurs que les chauffeurs de taxi aime sont vieux
+0,1,les professeurs que les chauffeurs de taxi aime sont vieux
+0,1,les clients que les chauffeurs de taxi aime sont vieux
+0,1,les officiers que les chauffeurs de taxi aime sont vieux
+0,1,les pilotes que les chauffeurs de taxi aime sont vieux
+0,1,les consultants que les chauffeurs de taxi aime sont vieux
+0,1,les auteurs que les danseurs aime sont vieux
+0,1,les directeurs que les danseurs aime sont vieux
+0,1,les agriculteurs que les danseurs aime sont vieux
+0,1,les chirurgiens que les danseurs aime sont vieux
+0,1,les sénateurs que les danseurs aime sont vieux
+0,1,les professeurs que les danseurs aime sont vieux
+0,1,les clients que les danseurs aime sont vieux
+0,1,les officiers que les danseurs aime sont vieux
+0,1,les pilotes que les danseurs aime sont vieux
+0,1,les consultants que les danseurs aime sont vieux
+0,1,les auteurs que les architectes aime sont vieux
+0,1,les directeurs que les architectes aime sont vieux
+0,1,les agriculteurs que les architectes aime sont vieux
+0,1,les chirurgiens que les architectes aime sont vieux
+0,1,les sénateurs que les architectes aime sont vieux
+0,1,les professeurs que les architectes aime sont vieux
+0,1,les clients que les architectes aime sont vieux
+0,1,les officiers que les architectes aime sont vieux
+0,1,les pilotes que les architectes aime sont vieux
+0,1,les consultants que les architectes aime sont vieux
+0,1,les auteurs que les chefs aime sont vieux
+0,1,les directeurs que les chefs aime sont vieux
+0,1,les agriculteurs que les chefs aime sont vieux
+0,1,les chirurgiens que les chefs aime sont vieux
+0,1,les sénateurs que les chefs aime sont vieux
+0,1,les professeurs que les chefs aime sont vieux
+0,1,les clients que les chefs aime sont vieux
+0,1,les officiers que les chefs aime sont vieux
+0,1,les pilotes que les chefs aime sont vieux
+0,1,les consultants que les chefs aime sont vieux
+0,1,les auteurs que les patineurs aime sont vieux
+0,1,les directeurs que les patineurs aime sont vieux
+0,1,les agriculteurs que les patineurs aime sont vieux
+0,1,les chirurgiens que les patineurs aime sont vieux
+0,1,les sénateurs que les patineurs aime sont vieux
+0,1,les professeurs que les patineurs aime sont vieux
+0,1,les clients que les patineurs aime sont vieux
+0,1,les officiers que les patineurs aime sont vieux
+0,1,les pilotes que les patineurs aime sont vieux
+0,1,les consultants que les patineurs aime sont vieux
+0,1,les auteurs que les parents aime sont vieux
+0,1,les directeurs que les parents aime sont vieux
+0,1,les agriculteurs que les parents aime sont vieux
+0,1,les chirurgiens que les parents aime sont vieux
+0,1,les sénateurs que les parents aime sont vieux
+0,1,les professeurs que les parents aime sont vieux
+0,1,les clients que les parents aime sont vieux
+0,1,les officiers que les parents aime sont vieux
+0,1,les pilotes que les parents aime sont vieux
+0,1,les consultants que les parents aime sont vieux
+0,1,les auteurs que les gardes aime sont petits
+0,1,les directeurs que les gardes aime sont petits
+0,1,les agriculteurs que les gardes aime sont petits
+0,1,les chirurgiens que les gardes aime sont petits
+0,1,les chirurgiens que les gardes admire sont petits
+0,1,les sénateurs que les gardes aime sont petits
+0,1,les professeurs que les gardes aime sont petits
+0,1,les professeurs que les gardes admire sont petits
+0,1,les clients que les gardes aime sont petits
+0,1,les officiers que les gardes aime sont petits
+0,1,les pilotes que les gardes aime sont petits
+0,1,les pilotes que les gardes admire sont petits
+0,1,les consultants que les gardes aime sont petits
+0,1,les auteurs que les ministres aime sont petits
+0,1,les directeurs que les ministres aime sont petits
+0,1,les agriculteurs que les ministres aime sont petits
+0,1,les chirurgiens que les ministres aime sont petits
+0,1,les chirurgiens que les ministres admire sont petits
+0,1,les sénateurs que les ministres aime sont petits
+0,1,les professeurs que les ministres aime sont petits
+0,1,les professeurs que les ministres admire sont petits
+0,1,les clients que les ministres aime sont petits
+0,1,les officiers que les ministres aime sont petits
+0,1,les pilotes que les ministres aime sont petits
+0,1,les consultants que les ministres aime sont petits
+0,1,les auteurs que les cadres aime sont petits
+0,1,les directeurs que les cadres aime sont petits
+0,1,les agriculteurs que les cadres aime sont petits
+0,1,les chirurgiens que les cadres aime sont petits
+0,1,les sénateurs que les cadres aime sont petits
+0,1,les professeurs que les cadres aime sont petits
+0,1,les clients que les cadres aime sont petits
+0,1,les officiers que les cadres aime sont petits
+0,1,les pilotes que les cadres aime sont petits
+0,1,les consultants que les cadres aime sont petits
+0,1,les auteurs que les adjoints aime sont petits
+0,1,les directeurs que les adjoints aime sont petits
+0,1,les agriculteurs que les adjoints aime sont petits
+0,1,les chirurgiens que les adjoints aime sont petits
+0,1,les sénateurs que les adjoints aime sont petits
+0,1,les professeurs que les adjoints aime sont petits
+0,1,les clients que les adjoints aime sont petits
+0,1,les officiers que les adjoints aime sont petits
+0,1,les pilotes que les adjoints aime sont petits
+0,1,les consultants que les adjoints aime sont petits
+0,1,les auteurs que les chauffeurs de taxi aime sont petits
+0,1,les directeurs que les chauffeurs de taxi aime sont petits
+0,1,les agriculteurs que les chauffeurs de taxi aime sont petits
+0,1,les chirurgiens que les chauffeurs de taxi aime sont petits
+0,1,les sénateurs que les chauffeurs de taxi aime sont petits
+0,1,les professeurs que les chauffeurs de taxi aime sont petits
+0,1,les clients que les chauffeurs de taxi aime sont petits
+0,1,les officiers que les chauffeurs de taxi aime sont petits
+0,1,les pilotes que les chauffeurs de taxi aime sont petits
+0,1,les consultants que les chauffeurs de taxi aime sont petits
+0,1,les auteurs que les danseurs aime sont petits
+0,1,les directeurs que les danseurs aime sont petits
+0,1,les agriculteurs que les danseurs aime sont petits
+0,1,les chirurgiens que les danseurs aime sont petits
+0,1,les sénateurs que les danseurs aime sont petits
+0,1,les professeurs que les danseurs aime sont petits
+0,1,les clients que les danseurs aime sont petits
+0,1,les officiers que les danseurs aime sont petits
+0,1,les pilotes que les danseurs aime sont petits
+0,1,les consultants que les danseurs aime sont petits
+0,1,les auteurs que les architectes aime sont petits
+0,1,les directeurs que les architectes aime sont petits
+0,1,les agriculteurs que les architectes aime sont petits
+0,1,les chirurgiens que les architectes aime sont petits
+0,1,les sénateurs que les architectes aime sont petits
+0,1,les professeurs que les architectes aime sont petits
+0,1,les professeurs que les architectes admire sont petits
+0,1,les clients que les architectes aime sont petits
+0,1,les officiers que les architectes aime sont petits
+0,1,les pilotes que les architectes aime sont petits
+0,1,les consultants que les architectes aime sont petits
+0,1,les auteurs que les chefs aime sont petits
+0,1,les directeurs que les chefs aime sont petits
+0,1,les agriculteurs que les chefs aime sont petits
+0,1,les chirurgiens que les chefs aime sont petits
+0,1,les chirurgiens que les chefs admire sont petits
+0,1,les sénateurs que les chefs aime sont petits
+0,1,les professeurs que les chefs aime sont petits
+0,1,les professeurs que les chefs admire sont petits
+0,1,les clients que les chefs aime sont petits
+0,1,les officiers que les chefs aime sont petits
+0,1,les pilotes que les chefs aime sont petits
+0,1,les pilotes que les chefs admire sont petits
+0,1,les consultants que les chefs aime sont petits
+0,1,les auteurs que les patineurs aime sont petits
+0,1,les directeurs que les patineurs aime sont petits
+0,1,les agriculteurs que les patineurs aime sont petits
+0,1,les chirurgiens que les patineurs aime sont petits
+0,1,les sénateurs que les patineurs aime sont petits
+0,1,les professeurs que les patineurs aime sont petits
+0,1,les professeurs que les patineurs admire sont petits
+0,1,les clients que les patineurs aime sont petits
+0,1,les officiers que les patineurs aime sont petits
+0,1,les pilotes que les patineurs aime sont petits
+0,1,les consultants que les patineurs aime sont petits
+0,1,les auteurs que les parents aime sont petits
+0,1,les directeurs que les parents aime sont petits
+0,1,les agriculteurs que les parents aime sont petits
+0,1,les chirurgiens que les parents aime sont petits
+0,1,les sénateurs que les parents aime sont petits
+0,1,les professeurs que les parents aime sont petits
+0,1,les professeurs que les parents admire sont petits
+0,1,les clients que les parents aime sont petits
+0,1,les officiers que les parents aime sont petits
+0,1,les pilotes que les parents aime sont petits
+0,1,les consultants que les parents aime sont petits
+0,1,les consultants que les parents admire sont petits
+0,1,les auteurs que les gardes aime sont jeunes
+0,1,les directeurs que les gardes aime sont jeunes
+0,1,les agriculteurs que les gardes aime sont jeunes
+0,1,les chirurgiens que les gardes aime sont jeunes
+0,1,les chirurgiens que les gardes admire sont jeunes
+0,1,les sénateurs que les gardes aime sont jeunes
+0,1,les professeurs que les gardes aime sont jeunes
+0,1,les professeurs que les gardes admire sont jeunes
+0,1,les clients que les gardes aime sont jeunes
+0,1,les officiers que les gardes aime sont jeunes
+0,1,les pilotes que les gardes aime sont jeunes
+0,1,les pilotes que les gardes admire sont jeunes
+0,1,les consultants que les gardes aime sont jeunes
+0,1,les auteurs que les ministres aime sont jeunes
+0,1,les directeurs que les ministres aime sont jeunes
+0,1,les agriculteurs que les ministres aime sont jeunes
+0,1,les chirurgiens que les ministres aime sont jeunes
+0,1,les chirurgiens que les ministres admire sont jeunes
+0,1,les sénateurs que les ministres aime sont jeunes
+0,1,les professeurs que les ministres aime sont jeunes
+0,1,les clients que les ministres aime sont jeunes
+0,1,les officiers que les ministres aime sont jeunes
+0,1,les pilotes que les ministres aime sont jeunes
+0,1,les pilotes que les ministres admire sont jeunes
+0,1,les consultants que les ministres aime sont jeunes
+0,1,les auteurs que les cadres aime sont jeunes
+0,1,les directeurs que les cadres aime sont jeunes
+0,1,les agriculteurs que les cadres aime sont jeunes
+0,1,les chirurgiens que les cadres aime sont jeunes
+0,1,les sénateurs que les cadres aime sont jeunes
+0,1,les professeurs que les cadres aime sont jeunes
+0,1,les clients que les cadres aime sont jeunes
+0,1,les officiers que les cadres aime sont jeunes
+0,1,les pilotes que les cadres aime sont jeunes
+0,1,les consultants que les cadres aime sont jeunes
+0,1,les auteurs que les adjoints aime sont jeunes
+0,1,les directeurs que les adjoints aime sont jeunes
+0,1,les agriculteurs que les adjoints aime sont jeunes
+0,1,les chirurgiens que les adjoints aime sont jeunes
+0,1,les sénateurs que les adjoints aime sont jeunes
+0,1,les professeurs que les adjoints aime sont jeunes
+0,1,les clients que les adjoints aime sont jeunes
+0,1,les officiers que les adjoints aime sont jeunes
+0,1,les pilotes que les adjoints aime sont jeunes
+0,1,les consultants que les adjoints aime sont jeunes
+0,1,les auteurs que les chauffeurs de taxi aime sont jeunes
+0,1,les directeurs que les chauffeurs de taxi aime sont jeunes
+0,1,les agriculteurs que les chauffeurs de taxi aime sont jeunes
+0,1,les chirurgiens que les chauffeurs de taxi aime sont jeunes
+0,1,les sénateurs que les chauffeurs de taxi aime sont jeunes
+0,1,les professeurs que les chauffeurs de taxi aime sont jeunes
+0,1,les clients que les chauffeurs de taxi aime sont jeunes
+0,1,les officiers que les chauffeurs de taxi aime sont jeunes
+0,1,les pilotes que les chauffeurs de taxi aime sont jeunes
+0,1,les consultants que les chauffeurs de taxi aime sont jeunes
+0,1,les auteurs que les danseurs aime sont jeunes
+0,1,les directeurs que les danseurs aime sont jeunes
+0,1,les agriculteurs que les danseurs aime sont jeunes
+0,1,les chirurgiens que les danseurs aime sont jeunes
+0,1,les sénateurs que les danseurs aime sont jeunes
+0,1,les professeurs que les danseurs aime sont jeunes
+0,1,les clients que les danseurs aime sont jeunes
+0,1,les officiers que les danseurs aime sont jeunes
+0,1,les pilotes que les danseurs aime sont jeunes
+0,1,les consultants que les danseurs aime sont jeunes
+0,1,les auteurs que les architectes aime sont jeunes
+0,1,les directeurs que les architectes aime sont jeunes
+0,1,les agriculteurs que les architectes aime sont jeunes
+0,1,les chirurgiens que les architectes aime sont jeunes
+0,1,les sénateurs que les architectes aime sont jeunes
+0,1,les professeurs que les architectes aime sont jeunes
+0,1,les clients que les architectes aime sont jeunes
+0,1,les officiers que les architectes aime sont jeunes
+0,1,les pilotes que les architectes aime sont jeunes
+0,1,les consultants que les architectes aime sont jeunes
+0,1,les auteurs que les chefs aime sont jeunes
+0,1,les directeurs que les chefs aime sont jeunes
+0,1,les agriculteurs que les chefs aime sont jeunes
+0,1,les chirurgiens que les chefs aime sont jeunes
+0,1,les chirurgiens que les chefs admire sont jeunes
+0,1,les sénateurs que les chefs aime sont jeunes
+0,1,les professeurs que les chefs aime sont jeunes
+0,1,les professeurs que les chefs admire sont jeunes
+0,1,les clients que les chefs aime sont jeunes
+0,1,les officiers que les chefs aime sont jeunes
+0,1,les pilotes que les chefs aime sont jeunes
+0,1,les pilotes que les chefs admire sont jeunes
+0,1,les consultants que les chefs aime sont jeunes
+0,1,les auteurs que les patineurs aime sont jeunes
+0,1,les directeurs que les patineurs aime sont jeunes
+0,1,les agriculteurs que les patineurs aime sont jeunes
+0,1,les chirurgiens que les patineurs aime sont jeunes
+0,1,les sénateurs que les patineurs aime sont jeunes
+0,1,les professeurs que les patineurs aime sont jeunes
+0,1,les clients que les patineurs aime sont jeunes
+0,1,les officiers que les patineurs aime sont jeunes
+0,1,les pilotes que les patineurs aime sont jeunes
+0,1,les consultants que les patineurs aime sont jeunes
+0,1,les auteurs que les parents aime sont jeunes
+0,1,les directeurs que les parents aime sont jeunes
+0,1,les agriculteurs que les parents aime sont jeunes
+0,1,les chirurgiens que les parents aime sont jeunes
+0,1,les sénateurs que les parents aime sont jeunes
+0,1,les professeurs que les parents aime sont jeunes
+0,1,les professeurs que les parents admire sont jeunes
+0,1,les clients que les parents aime sont jeunes
+0,1,les officiers que les parents aime sont jeunes
+0,1,les pilotes que les parents aime sont jeunes
+0,1,les consultants que les parents aime sont jeunes
+0,1,les consultants que les parents admire sont jeunes
+0,1,les auteurs que les gardes aime sont grands
+0,1,les directeurs que les gardes aime sont grands
+0,1,les agriculteurs que les gardes aime sont grands
+0,1,les chirurgiens que les gardes aime sont grands
+0,1,les chirurgiens que les gardes admire sont grands
+0,1,les sénateurs que les gardes aime sont grands
+0,1,les professeurs que les gardes aime sont grands
+0,1,les professeurs que les gardes admire sont grands
+0,1,les clients que les gardes aime sont grands
+0,1,les officiers que les gardes aime sont grands
+0,1,les pilotes que les gardes aime sont grands
+0,1,les pilotes que les gardes admire sont grands
+0,1,les consultants que les gardes aime sont grands
+0,1,les auteurs que les ministres aime sont grands
+0,1,les directeurs que les ministres aime sont grands
+0,1,les agriculteurs que les ministres aime sont grands
+0,1,les chirurgiens que les ministres aime sont grands
+0,1,les chirurgiens que les ministres admire sont grands
+0,1,les sénateurs que les ministres aime sont grands
+0,1,les professeurs que les ministres aime sont grands
+0,1,les professeurs que les ministres admire sont grands
+0,1,les clients que les ministres aime sont grands
+0,1,les officiers que les ministres aime sont grands
+0,1,les pilotes que les ministres aime sont grands
+0,1,les pilotes que les ministres admire sont grands
+0,1,les consultants que les ministres aime sont grands
+0,1,les auteurs que les cadres aime sont grands
+0,1,les directeurs que les cadres aime sont grands
+0,1,les agriculteurs que les cadres aime sont grands
+0,1,les chirurgiens que les cadres aime sont grands
+0,1,les sénateurs que les cadres aime sont grands
+0,1,les professeurs que les cadres aime sont grands
+0,1,les clients que les cadres aime sont grands
+0,1,les officiers que les cadres aime sont grands
+0,1,les pilotes que les cadres aime sont grands
+0,1,les consultants que les cadres aime sont grands
+0,1,les auteurs que les adjoints aime sont grands
+0,1,les directeurs que les adjoints aime sont grands
+0,1,les agriculteurs que les adjoints aime sont grands
+0,1,les chirurgiens que les adjoints aime sont grands
+0,1,les sénateurs que les adjoints aime sont grands
+0,1,les professeurs que les adjoints aime sont grands
+0,1,les clients que les adjoints aime sont grands
+0,1,les officiers que les adjoints aime sont grands
+0,1,les pilotes que les adjoints aime sont grands
+0,1,les consultants que les adjoints aime sont grands
+0,1,les auteurs que les chauffeurs de taxi aime sont grands
+0,1,les directeurs que les chauffeurs de taxi aime sont grands
+0,1,les agriculteurs que les chauffeurs de taxi aime sont grands
+0,1,les chirurgiens que les chauffeurs de taxi aime sont grands
+0,1,les sénateurs que les chauffeurs de taxi aime sont grands
+0,1,les professeurs que les chauffeurs de taxi aime sont grands
+0,1,les clients que les chauffeurs de taxi aime sont grands
+0,1,les officiers que les chauffeurs de taxi aime sont grands
+0,1,les pilotes que les chauffeurs de taxi aime sont grands
+0,1,les consultants que les chauffeurs de taxi aime sont grands
+0,1,les auteurs que les danseurs aime sont grands
+0,1,les directeurs que les danseurs aime sont grands
+0,1,les agriculteurs que les danseurs aime sont grands
+0,1,les chirurgiens que les danseurs aime sont grands
+0,1,les sénateurs que les danseurs aime sont grands
+0,1,les professeurs que les danseurs aime sont grands
+0,1,les clients que les danseurs aime sont grands
+0,1,les officiers que les danseurs aime sont grands
+0,1,les pilotes que les danseurs aime sont grands
+0,1,les consultants que les danseurs aime sont grands
+0,1,les auteurs que les architectes aime sont grands
+0,1,les directeurs que les architectes aime sont grands
+0,1,les directeurs que les architectes admire sont grands
+0,1,les agriculteurs que les architectes aime sont grands
+0,1,les chirurgiens que les architectes aime sont grands
+0,1,les sénateurs que les architectes aime sont grands
+0,1,les professeurs que les architectes aime sont grands
+0,1,les professeurs que les architectes admire sont grands
+0,1,les clients que les architectes aime sont grands
+0,1,les officiers que les architectes aime sont grands
+0,1,les pilotes que les architectes aime sont grands
+0,1,les consultants que les architectes aime sont grands
+0,1,les consultants que les architectes admire sont grands
+0,1,les auteurs que les chefs aime sont grands
+0,1,les directeurs que les chefs aime sont grands
+0,1,les agriculteurs que les chefs aime sont grands
+0,1,les chirurgiens que les chefs aime sont grands
+0,1,les chirurgiens que les chefs admire sont grands
+0,1,les sénateurs que les chefs aime sont grands
+0,1,les professeurs que les chefs aime sont grands
+0,1,les professeurs que les chefs admire sont grands
+0,1,les clients que les chefs aime sont grands
+0,1,les officiers que les chefs aime sont grands
+0,1,les pilotes que les chefs aime sont grands
+0,1,les pilotes que les chefs admire sont grands
+0,1,les consultants que les chefs aime sont grands
+0,1,les auteurs que les patineurs aime sont grands
+0,1,les directeurs que les patineurs aime sont grands
+0,1,les agriculteurs que les patineurs aime sont grands
+0,1,les chirurgiens que les patineurs aime sont grands
+0,1,les sénateurs que les patineurs aime sont grands
+0,1,les professeurs que les patineurs aime sont grands
+0,1,les professeurs que les patineurs admire sont grands
+0,1,les clients que les patineurs aime sont grands
+0,1,les officiers que les patineurs aime sont grands
+0,1,les pilotes que les patineurs aime sont grands
+0,1,les consultants que les patineurs aime sont grands
+0,1,les auteurs que les parents aime sont grands
+0,1,les directeurs que les parents aime sont grands
+0,1,les directeurs que les parents admire sont grands
+0,1,les agriculteurs que les parents aime sont grands
+0,1,les chirurgiens que les parents aime sont grands
+0,1,les sénateurs que les parents aime sont grands
+0,1,les professeurs que les parents aime sont grands
+0,1,les professeurs que les parents admire sont grands
+0,1,les clients que les parents aime sont grands
+0,1,les officiers que les parents aime sont grands
+0,1,les pilotes que les parents aime sont grands
+0,1,les consultants que les parents aime sont grands
+0,1,les consultants que les parents admire sont grands
+0,1,les officiers que le garde aiment déménagent
+0,1,les auteurs que l' adjoint aiment déménagent
+0,1,les auteurs que l' adjoint détestent déménagent
+0,1,les auteurs que l' adjoint admirent déménagent
+0,1,les auteurs que l' adjoint évitent déménagent
+0,1,les directeurs que l' adjoint aiment déménagent
+0,1,les directeurs que l' adjoint détestent déménagent
+0,1,les agriculteurs que l' adjoint aiment déménagent
+0,1,les agriculteurs que l' adjoint détestent déménagent
+0,1,les agriculteurs que l' adjoint admirent déménagent
+0,1,les agriculteurs que l' adjoint évitent déménagent
+0,1,les chirurgiens que l' adjoint aiment déménagent
+0,1,les chirurgiens que l' adjoint détestent déménagent
+0,1,les sénateurs que l' adjoint aiment déménagent
+0,1,les sénateurs que l' adjoint détestent déménagent
+0,1,les professeurs que l' adjoint aiment déménagent
+0,1,les professeurs que l' adjoint détestent déménagent
+0,1,les clients que l' adjoint aiment déménagent
+0,1,les clients que l' adjoint détestent déménagent
+0,1,les officiers que l' adjoint aiment déménagent
+0,1,les pilotes que l' adjoint aiment déménagent
+1,0,les pilotes que l' adjoint déteste déménagent
+0,1,les pilotes que l' adjoint détestent déménagent
+0,1,les consultants que l' adjoint aiment déménagent
+1,0,les consultants que l' adjoint déteste déménagent
+0,1,les consultants que l' adjoint détestent déménagent
+1,0,les auteurs que le chauffeur de taxi aime déménagent
+1,0,les directeurs que le chauffeur de taxi aime déménagent
+1,0,les agriculteurs que le chauffeur de taxi aime déménagent
+1,0,les chirurgiens que le chauffeur de taxi aime déménagent
+1,0,les sénateurs que le chauffeur de taxi aime déménagent
+1,0,les professeurs que le chauffeur de taxi aime déménagent
+1,0,les clients que le chauffeur de taxi aime déménagent
+1,0,les officiers que le chauffeur de taxi aime déménagent
+1,0,les pilotes que le chauffeur de taxi aime déménagent
+1,0,les pilotes que le chauffeur de taxi admire déménagent
+1,0,les consultants que le chauffeur de taxi aime déménagent
+1,0,les consultants que le chauffeur de taxi déteste déménagent
+1,0,les agriculteurs que le patineur aime déménagent
+1,0,les sénateurs que le patineur aime déménagent
+1,0,les pilotes que le parent admire déménagent
+1,0,les consultants que le parent admire déménagent
+0,1,les agriculteurs que le garde aiment parlent
+0,1,les agriculteurs que le garde détestent parlent
+1,0,les chirurgiens que le garde admire parlent
+1,0,les sénateurs que le garde aime parlent
+1,0,les professeurs que le garde admire parlent
+0,1,les clients que le garde détestent parlent
+1,0,les clients que le garde admire parlent
+1,0,les clients que le garde évite parlent
+0,1,les officiers que le garde aiment parlent
+0,1,les officiers que le garde détestent parlent
+1,0,les officiers que le garde admire parlent
+0,1,les officiers que le garde admirent parlent
+0,1,les officiers que le garde évitent parlent
+0,1,les pilotes que le garde aiment parlent
+1,0,les pilotes que le garde admire parlent
+1,0,les pilotes que le garde évite parlent
+0,1,les consultants que le garde aiment parlent
+1,0,les consultants que le garde déteste parlent
+1,0,les consultants que le garde admire parlent
+1,0,les directeurs que le ministre aime parlent
+1,0,les directeurs que le ministre admire parlent
+1,0,les chirurgiens que le ministre admire parlent
+1,0,les sénateurs que le ministre aime parlent
+1,0,les professeurs que le ministre admire parlent
+1,0,les clients que le ministre admire parlent
+1,0,les pilotes que le ministre admire parlent
+1,0,les consultants que le ministre déteste parlent
+1,0,les consultants que le ministre admire parlent
+1,0,les sénateurs que le cadre aime parlent
+1,0,les officiers que le cadre aime parlent
+0,1,les auteurs que l' adjoint aiment parlent
+0,1,les auteurs que l' adjoint détestent parlent
+0,1,les auteurs que l' adjoint admirent parlent
+0,1,les auteurs que l' adjoint évitent parlent
+0,1,les directeurs que l' adjoint aiment parlent
+1,0,les directeurs que l' adjoint déteste parlent
+0,1,les directeurs que l' adjoint détestent parlent
+0,1,les directeurs que l' adjoint admirent parlent
+0,1,les agriculteurs que l' adjoint aiment parlent
+0,1,les agriculteurs que l' adjoint détestent parlent
+0,1,les agriculteurs que l' adjoint admirent parlent
+0,1,les agriculteurs que l' adjoint évitent parlent
+0,1,les chirurgiens que l' adjoint aiment parlent
+1,0,les chirurgiens que l' adjoint déteste parlent
+0,1,les chirurgiens que l' adjoint détestent parlent
+1,0,les chirurgiens que l' adjoint admire parlent
+0,1,les chirurgiens que l' adjoint admirent parlent
+1,0,les chirurgiens que l' adjoint évite parlent
+0,1,les chirurgiens que l' adjoint évitent parlent
+0,1,les sénateurs que l' adjoint aiment parlent
+0,1,les sénateurs que l' adjoint détestent parlent
+0,1,les sénateurs que l' adjoint admirent parlent
+0,1,les professeurs que l' adjoint aiment parlent
+1,0,les professeurs que l' adjoint déteste parlent
+0,1,les professeurs que l' adjoint détestent parlent
+0,1,les professeurs que l' adjoint admirent parlent
+0,1,les professeurs que l' adjoint évitent parlent
+0,1,les clients que l' adjoint aiment parlent
+1,0,les clients que l' adjoint déteste parlent
+0,1,les clients que l' adjoint détestent parlent
+1,0,les clients que l' adjoint admire parlent
+0,1,les clients que l' adjoint admirent parlent
+1,0,les clients que l' adjoint évite parlent
+0,1,les clients que l' adjoint évitent parlent
+0,1,les officiers que l' adjoint aiment parlent
+0,1,les officiers que l' adjoint détestent parlent
+1,0,les officiers que l' adjoint admire parlent
+0,1,les officiers que l' adjoint évitent parlent
+0,1,les pilotes que l' adjoint aiment parlent
+1,0,les pilotes que l' adjoint déteste parlent
+0,1,les pilotes que l' adjoint détestent parlent
+1,0,les pilotes que l' adjoint admire parlent
+0,1,les pilotes que l' adjoint admirent parlent
+1,0,les pilotes que l' adjoint évite parlent
+0,1,les pilotes que l' adjoint évitent parlent
+0,1,les consultants que l' adjoint aiment parlent
+0,1,les consultants que l' adjoint détestent parlent
+1,0,les consultants que l' adjoint admire parlent
+0,1,les consultants que l' adjoint admirent parlent
+0,1,les consultants que l' adjoint évitent parlent
+1,0,les auteurs que le chauffeur de taxi aime parlent
+1,0,les directeurs que le chauffeur de taxi aime parlent
+1,0,les directeurs que le chauffeur de taxi déteste parlent
+1,0,les directeurs que le chauffeur de taxi admire parlent
+1,0,les agriculteurs que le chauffeur de taxi aime parlent
+1,0,les chirurgiens que le chauffeur de taxi aime parlent
+1,0,les chirurgiens que le chauffeur de taxi déteste parlent
+1,0,les chirurgiens que le chauffeur de taxi admire parlent
+1,0,les sénateurs que le chauffeur de taxi aime parlent
+1,0,les sénateurs que le chauffeur de taxi admire parlent
+1,0,les professeurs que le chauffeur de taxi aime parlent
+1,0,les professeurs que le chauffeur de taxi déteste parlent
+1,0,les professeurs que le chauffeur de taxi admire parlent
+1,0,les clients que le chauffeur de taxi aime parlent
+1,0,les clients que le chauffeur de taxi déteste parlent
+1,0,les clients que le chauffeur de taxi admire parlent
+1,0,les officiers que le chauffeur de taxi aime parlent
+1,0,les officiers que le chauffeur de taxi admire parlent
+1,0,les pilotes que le chauffeur de taxi aime parlent
+1,0,les pilotes que le chauffeur de taxi déteste parlent
+1,0,les pilotes que le chauffeur de taxi admire parlent
+1,0,les consultants que le chauffeur de taxi aime parlent
+1,0,les consultants que le chauffeur de taxi déteste parlent
+1,0,les consultants que le chauffeur de taxi admire parlent
+1,0,les auteurs que le danseur aime parlent
+1,0,les directeurs que le danseur aime parlent
+1,0,les agriculteurs que le danseur aime parlent
+1,0,les chirurgiens que le danseur aime parlent
+1,0,les sénateurs que le danseur aime parlent
+1,0,les professeurs que le danseur aime parlent
+1,0,les clients que le danseur aime parlent
+1,0,les officiers que le danseur aime parlent
+1,0,les pilotes que le danseur aime parlent
+1,0,les consultants que le danseur aime parlent
+1,0,les directeurs que l' architecte aime parlent
+1,0,les chirurgiens que l' architecte aime parlent
+1,0,les chirurgiens que l' architecte admire parlent
+1,0,les sénateurs que l' architecte aime parlent
+1,0,les clients que l' architecte admire parlent
+1,0,les officiers que l' architecte aime parlent
+1,0,les officiers que l' architecte admire parlent
+1,0,les pilotes que l' architecte aime parlent
+1,0,les pilotes que l' architecte admire parlent
+1,0,les consultants que l' architecte aime parlent
+1,0,les consultants que l' architecte déteste parlent
+1,0,les consultants que l' architecte admire parlent
+1,0,les auteurs que le chef aime parlent
+1,0,les directeurs que le chef aime parlent
+1,0,les agriculteurs que le chef aime parlent
+1,0,les chirurgiens que le chef aime parlent
+1,0,les chirurgiens que le chef admire parlent
+1,0,les sénateurs que le chef aime parlent
+1,0,les professeurs que le chef aime parlent
+1,0,les clients que le chef aime parlent
+1,0,les clients que le chef admire parlent
+1,0,les officiers que le chef aime parlent
+1,0,les pilotes que le chef aime parlent
+1,0,les pilotes que le chef admire parlent
+1,0,les consultants que le chef aime parlent
+1,0,les consultants que le chef admire parlent
+1,0,les auteurs que le patineur aime parlent
+1,0,les directeurs que le patineur aime parlent
+1,0,les agriculteurs que le patineur aime parlent
+1,0,les chirurgiens que le patineur aime parlent
+1,0,les chirurgiens que le patineur admire parlent
+1,0,les sénateurs que le patineur aime parlent
+1,0,les professeurs que le patineur aime parlent
+1,0,les clients que le patineur aime parlent
+1,0,les clients que le patineur admire parlent
+1,0,les officiers que le patineur aime parlent
+1,0,les pilotes que le patineur aime parlent
+1,0,les pilotes que le patineur admire parlent
+1,0,les consultants que le patineur aime parlent
+1,0,les consultants que le patineur déteste parlent
+1,0,les consultants que le patineur admire parlent
+1,0,les directeurs que le parent admire parlent
+0,1,les chirurgiens que le parent aiment parlent
+1,0,les chirurgiens que le parent admire parlent
+1,0,les sénateurs que le parent aime parlent
+1,0,les professeurs que le parent admire parlent
+0,1,les clients que le parent aiment parlent
+1,0,les clients que le parent admire parlent
+1,0,les officiers que le parent aime parlent
+0,1,les officiers que le parent aiment parlent
+1,0,les officiers que le parent admire parlent
+0,1,les pilotes que le parent aiment parlent
+1,0,les pilotes que le parent déteste parlent
+1,0,les pilotes que le parent admire parlent
+0,1,les consultants que le parent aiment parlent
+1,0,les consultants que le parent déteste parlent
+1,0,les consultants que le parent admire parlent
+1,0,les agriculteurs que le garde aime retournent
+1,0,les sénateurs que le garde aime retournent
+0,1,les officiers que le garde aiment retournent
+1,0,les pilotes que le garde aime retournent
+1,0,les consultants que le garde admire retournent
+1,0,les directeurs que le ministre admire retournent
+1,0,les agriculteurs que le ministre aime retournent
+1,0,les sénateurs que le ministre aime retournent
+1,0,les professeurs que le ministre admire retournent
+1,0,les consultants que le ministre admire retournent
+1,0,les agriculteurs que le cadre aime retournent
+1,0,les sénateurs que le cadre aime retournent
+0,1,les auteurs que l' adjoint aiment retournent
+0,1,les auteurs que l' adjoint détestent retournent
+0,1,les auteurs que l' adjoint admirent retournent
+0,1,les directeurs que l' adjoint aiment retournent
+0,1,les directeurs que l' adjoint détestent retournent
+0,1,les agriculteurs que l' adjoint aiment retournent
+0,1,les agriculteurs que l' adjoint détestent retournent
+0,1,les agriculteurs que l' adjoint admirent retournent
+0,1,les chirurgiens que l' adjoint aiment retournent
+0,1,les chirurgiens que l' adjoint détestent retournent
+0,1,les sénateurs que l' adjoint aiment retournent
+0,1,les sénateurs que l' adjoint détestent retournent
+0,1,les professeurs que l' adjoint aiment retournent
+0,1,les professeurs que l' adjoint détestent retournent
+0,1,les clients que l' adjoint aiment retournent
+0,1,les clients que l' adjoint détestent retournent
+0,1,les officiers que l' adjoint aiment retournent
+0,1,les pilotes que l' adjoint aiment retournent
+0,1,les pilotes que l' adjoint détestent retournent
+0,1,les consultants que l' adjoint aiment retournent
+0,1,les consultants que l' adjoint détestent retournent
+1,0,les auteurs que le chauffeur de taxi aime retournent
+1,0,les directeurs que le chauffeur de taxi aime retournent
+1,0,les agriculteurs que le chauffeur de taxi aime retournent
+1,0,les chirurgiens que le chauffeur de taxi aime retournent
+1,0,les sénateurs que le chauffeur de taxi aime retournent
+1,0,les professeurs que le chauffeur de taxi aime retournent
+1,0,les clients que le chauffeur de taxi aime retournent
+1,0,les officiers que le chauffeur de taxi aime retournent
+1,0,les pilotes que le chauffeur de taxi aime retournent
+1,0,les pilotes que le chauffeur de taxi admire retournent
+1,0,les consultants que le chauffeur de taxi aime retournent
+1,0,les consultants que le chauffeur de taxi admire retournent
+1,0,les auteurs que le danseur aime retournent
+1,0,les directeurs que le danseur aime retournent
+1,0,les agriculteurs que le danseur aime retournent
+1,0,les chirurgiens que le danseur aime retournent
+1,0,les sénateurs que le danseur aime retournent
+1,0,les officiers que le danseur aime retournent
+1,0,les pilotes que le danseur aime retournent
+1,0,les consultants que le danseur aime retournent
+1,0,les agriculteurs que le chef aime retournent
+1,0,les sénateurs que le chef aime retournent
+1,0,les auteurs que le patineur aime retournent
+1,0,les directeurs que le patineur aime retournent
+1,0,les agriculteurs que le patineur aime retournent
+1,0,les chirurgiens que le patineur aime retournent
+1,0,les sénateurs que le patineur aime retournent
+1,0,les professeurs que le patineur aime retournent
+1,0,les officiers que le patineur aime retournent
+1,0,les pilotes que le patineur aime retournent
+1,0,les consultants que le patineur aime retournent
+1,0,les directeurs que le parent admire retournent
+1,0,les professeurs que le parent admire retournent
+1,0,les pilotes que le parent admire retournent
+1,0,les consultants que le parent admire retournent
+1,0,les directeurs que le garde aime sont vieux
+1,0,les agriculteurs que le garde aime sont vieux
+1,0,les chirurgiens que le garde aime sont vieux
+1,0,les sénateurs que le garde aime sont vieux
+1,0,les clients que le garde aime sont vieux
+1,0,les officiers que le garde aime sont vieux
+1,0,les pilotes que le garde aime sont vieux
+1,0,les consultants que le garde aime sont vieux
+1,0,les agriculteurs que le cadre aime sont vieux
+1,0,les sénateurs que le cadre aime sont vieux
+1,0,les clients que le cadre aime sont vieux
+1,0,les officiers que le cadre aime sont vieux
+0,1,les auteurs que l' adjoint aiment sont vieux
+1,0,les directeurs que l' adjoint aime sont vieux
+0,1,les agriculteurs que l' adjoint aiment sont vieux
+0,1,les chirurgiens que l' adjoint aiment sont vieux
+0,1,les sénateurs que l' adjoint aiment sont vieux
+0,1,les clients que l' adjoint aiment sont vieux
+1,0,les pilotes que l' adjoint aime sont vieux
+1,0,les consultants que l' adjoint aime sont vieux
+0,1,les consultants que l' adjoint aiment sont vieux
+1,0,les auteurs que le chauffeur de taxi aime sont vieux
+1,0,les directeurs que le chauffeur de taxi aime sont vieux
+1,0,les agriculteurs que le chauffeur de taxi aime sont vieux
+1,0,les chirurgiens que le chauffeur de taxi aime sont vieux
+1,0,les sénateurs que le chauffeur de taxi aime sont vieux
+1,0,les professeurs que le chauffeur de taxi aime sont vieux
+1,0,les clients que le chauffeur de taxi aime sont vieux
+1,0,les officiers que le chauffeur de taxi aime sont vieux
+1,0,les pilotes que le chauffeur de taxi aime sont vieux
+1,0,les consultants que le chauffeur de taxi aime sont vieux
+1,0,les auteurs que le danseur aime sont vieux
+1,0,les directeurs que le danseur aime sont vieux
+1,0,les agriculteurs que le danseur aime sont vieux
+1,0,les chirurgiens que le danseur aime sont vieux
+1,0,les sénateurs que le danseur aime sont vieux
+1,0,les professeurs que le danseur aime sont vieux
+1,0,les clients que le danseur aime sont vieux
+1,0,les officiers que le danseur aime sont vieux
+1,0,les pilotes que le danseur aime sont vieux
+1,0,les consultants que le danseur aime sont vieux
+1,0,les directeurs que l' architecte aime sont vieux
+1,0,les clients que l' architecte aime sont vieux
+1,0,les pilotes que l' architecte aime sont vieux
+1,0,les consultants que l' architecte aime sont vieux
+1,0,les auteurs que le chef aime sont vieux
+1,0,les directeurs que le chef aime sont vieux
+1,0,les agriculteurs que le chef aime sont vieux
+1,0,les chirurgiens que le chef aime sont vieux
+1,0,les sénateurs que le chef aime sont vieux
+1,0,les professeurs que le chef aime sont vieux
+1,0,les clients que le chef aime sont vieux
+1,0,les officiers que le chef aime sont vieux
+1,0,les pilotes que le chef aime sont vieux
+1,0,les consultants que le chef aime sont vieux
+1,0,les auteurs que le patineur aime sont vieux
+1,0,les directeurs que le patineur aime sont vieux
+1,0,les agriculteurs que le patineur aime sont vieux
+1,0,les chirurgiens que le patineur aime sont vieux
+1,0,les sénateurs que le patineur aime sont vieux
+1,0,les professeurs que le patineur aime sont vieux
+1,0,les clients que le patineur aime sont vieux
+1,0,les officiers que le patineur aime sont vieux
+1,0,les pilotes que le patineur aime sont vieux
+1,0,les consultants que le patineur aime sont vieux
+1,0,les directeurs que le garde aime sont petits
+1,0,les agriculteurs que le garde aime sont petits
+1,0,les sénateurs que le garde aime sont petits
+1,0,les professeurs que le garde aime sont petits
+1,0,les pilotes que le garde aime sont petits
+1,0,les consultants que le garde aime sont petits
+0,1,les auteurs que l' adjoint aiment sont petits
+0,1,les agriculteurs que l' adjoint aiment sont petits
+0,1,les chirurgiens que l' adjoint aiment sont petits
+0,1,les sénateurs que l' adjoint aiment sont petits
+0,1,les professeurs que l' adjoint aiment sont petits
+0,1,les clients que l' adjoint aiment sont petits
+0,1,les clients que l' adjoint détestent sont petits
+0,1,les consultants que l' adjoint aiment sont petits
+1,0,les auteurs que le chauffeur de taxi aime sont petits
+1,0,les directeurs que le chauffeur de taxi aime sont petits
+1,0,les agriculteurs que le chauffeur de taxi aime sont petits
+1,0,les chirurgiens que le chauffeur de taxi aime sont petits
+1,0,les sénateurs que le chauffeur de taxi aime sont petits
+1,0,les professeurs que le chauffeur de taxi aime sont petits
+1,0,les clients que le chauffeur de taxi aime sont petits
+1,0,les officiers que le chauffeur de taxi aime sont petits
+1,0,les pilotes que le chauffeur de taxi aime sont petits
+1,0,les consultants que le chauffeur de taxi aime sont petits
+1,0,les auteurs que le danseur aime sont petits
+1,0,les directeurs que le danseur aime sont petits
+1,0,les agriculteurs que le danseur aime sont petits
+1,0,les chirurgiens que le danseur aime sont petits
+1,0,les sénateurs que le danseur aime sont petits
+1,0,les professeurs que le danseur aime sont petits
+1,0,les clients que le danseur aime sont petits
+1,0,les officiers que le danseur aime sont petits
+1,0,les pilotes que le danseur aime sont petits
+1,0,les consultants que le danseur aime sont petits
+1,0,les pilotes que l' architecte aime sont petits
+1,0,les agriculteurs que le chef aime sont petits
+1,0,les sénateurs que le chef aime sont petits
+1,0,les professeurs que le chef aime sont petits
+1,0,les consultants que le chef aime sont petits
+1,0,les auteurs que le patineur aime sont petits
+1,0,les directeurs que le patineur aime sont petits
+1,0,les agriculteurs que le patineur aime sont petits
+1,0,les chirurgiens que le patineur aime sont petits
+1,0,les sénateurs que le patineur aime sont petits
+1,0,les professeurs que le patineur aime sont petits
+1,0,les clients que le patineur aime sont petits
+1,0,les officiers que le patineur aime sont petits
+1,0,les pilotes que le patineur aime sont petits
+1,0,les consultants que le patineur aime sont petits
+1,0,les agriculteurs que le garde aime sont jeunes
+1,0,les sénateurs que le garde aime sont jeunes
+1,0,les pilotes que le garde aime sont jeunes
+0,1,les auteurs que l' adjoint aiment sont jeunes
+0,1,les agriculteurs que l' adjoint aiment sont jeunes
+0,1,les clients que l' adjoint aiment sont jeunes
+0,1,les clients que l' adjoint détestent sont jeunes
+1,0,les auteurs que le chauffeur de taxi aime sont jeunes
+1,0,les directeurs que le chauffeur de taxi aime sont jeunes
+1,0,les agriculteurs que le chauffeur de taxi aime sont jeunes
+1,0,les chirurgiens que le chauffeur de taxi aime sont jeunes
+1,0,les sénateurs que le chauffeur de taxi aime sont jeunes
+1,0,les professeurs que le chauffeur de taxi aime sont jeunes
+1,0,les clients que le chauffeur de taxi aime sont jeunes
+1,0,les officiers que le chauffeur de taxi aime sont jeunes
+1,0,les pilotes que le chauffeur de taxi aime sont jeunes
+1,0,les consultants que le chauffeur de taxi aime sont jeunes
+1,0,les auteurs que le danseur aime sont jeunes
+1,0,les directeurs que le danseur aime sont jeunes
+1,0,les agriculteurs que le danseur aime sont jeunes
+1,0,les chirurgiens que le danseur aime sont jeunes
+1,0,les sénateurs que le danseur aime sont jeunes
+1,0,les clients que le danseur aime sont jeunes
+1,0,les officiers que le danseur aime sont jeunes
+1,0,les pilotes que le danseur aime sont jeunes
+1,0,les consultants que le danseur aime sont jeunes
+1,0,les agriculteurs que le chef aime sont jeunes
+1,0,les clients que le chef aime sont jeunes
+1,0,les auteurs que le patineur aime sont jeunes
+1,0,les directeurs que le patineur aime sont jeunes
+1,0,les agriculteurs que le patineur aime sont jeunes
+1,0,les chirurgiens que le patineur aime sont jeunes
+1,0,les sénateurs que le patineur aime sont jeunes
+1,0,les professeurs que le patineur aime sont jeunes
+1,0,les clients que le patineur aime sont jeunes
+1,0,les officiers que le patineur aime sont jeunes
+1,0,les pilotes que le patineur aime sont jeunes
+1,0,les consultants que le patineur aime sont jeunes
+1,0,les auteurs que le garde aime sont grands
+1,0,les directeurs que le garde aime sont grands
+1,0,les agriculteurs que le garde aime sont grands
+1,0,les chirurgiens que le garde aime sont grands
+1,0,les sénateurs que le garde aime sont grands
+1,0,les professeurs que le garde aime sont grands
+1,0,les clients que le garde aime sont grands
+1,0,les officiers que le garde aime sont grands
+1,0,les pilotes que le garde aime sont grands
+1,0,les consultants que le garde aime sont grands
+1,0,les officiers que le ministre aime sont grands
+1,0,les auteurs que le cadre aime sont grands
+1,0,les agriculteurs que le cadre aime sont grands
+1,0,les chirurgiens que le cadre aime sont grands
+1,0,les sénateurs que le cadre aime sont grands
+1,0,les professeurs que le cadre aime sont grands
+1,0,les clients que le cadre aime sont grands
+1,0,les officiers que le cadre aime sont grands
+1,0,les pilotes que le cadre aime sont grands
+1,0,les consultants que le cadre aime sont grands
+0,1,les auteurs que l' adjoint aiment sont grands
+0,1,les auteurs que l' adjoint détestent sont grands
+1,0,les directeurs que l' adjoint aime sont grands
+0,1,les directeurs que l' adjoint aiment sont grands
+0,1,les agriculteurs que l' adjoint aiment sont grands
+0,1,les chirurgiens que l' adjoint aiment sont grands
+0,1,les sénateurs que l' adjoint aiment sont grands
+0,1,les professeurs que l' adjoint aiment sont grands
+0,1,les clients que l' adjoint aiment sont grands
+0,1,les clients que l' adjoint détestent sont grands
+0,1,les officiers que l' adjoint aiment sont grands
+0,1,les pilotes que l' adjoint aiment sont grands
+0,1,les consultants que l' adjoint aiment sont grands
+1,0,les auteurs que le chauffeur de taxi aime sont grands
+1,0,les directeurs que le chauffeur de taxi aime sont grands
+1,0,les agriculteurs que le chauffeur de taxi aime sont grands
+1,0,les chirurgiens que le chauffeur de taxi aime sont grands
+1,0,les sénateurs que le chauffeur de taxi aime sont grands
+1,0,les professeurs que le chauffeur de taxi aime sont grands
+1,0,les professeurs que le chauffeur de taxi admire sont grands
+1,0,les clients que le chauffeur de taxi aime sont grands
+1,0,les officiers que le chauffeur de taxi aime sont grands
+1,0,les pilotes que le chauffeur de taxi aime sont grands
+1,0,les consultants que le chauffeur de taxi aime sont grands
+1,0,les consultants que le chauffeur de taxi admire sont grands
+1,0,les auteurs que le danseur aime sont grands
+1,0,les directeurs que le danseur aime sont grands
+1,0,les agriculteurs que le danseur aime sont grands
+1,0,les chirurgiens que le danseur aime sont grands
+1,0,les sénateurs que le danseur aime sont grands
+1,0,les professeurs que le danseur aime sont grands
+1,0,les clients que le danseur aime sont grands
+1,0,les officiers que le danseur aime sont grands
+1,0,les pilotes que le danseur aime sont grands
+1,0,les consultants que le danseur aime sont grands
+1,0,les auteurs que l' architecte aime sont grands
+1,0,les directeurs que l' architecte aime sont grands
+1,0,les chirurgiens que l' architecte aime sont grands
+1,0,les sénateurs que l' architecte aime sont grands
+1,0,les professeurs que l' architecte aime sont grands
+1,0,les clients que l' architecte aime sont grands
+1,0,les officiers que l' architecte aime sont grands
+1,0,les pilotes que l' architecte aime sont grands
+1,0,les consultants que l' architecte aime sont grands
+1,0,les auteurs que le chef aime sont grands
+1,0,les directeurs que le chef aime sont grands
+1,0,les agriculteurs que le chef aime sont grands
+1,0,les chirurgiens que le chef aime sont grands
+1,0,les sénateurs que le chef aime sont grands
+1,0,les professeurs que le chef aime sont grands
+1,0,les clients que le chef aime sont grands
+1,0,les officiers que le chef aime sont grands
+1,0,les pilotes que le chef aime sont grands
+1,0,les consultants que le chef aime sont grands
+1,0,les auteurs que le patineur aime sont grands
+1,0,les directeurs que le patineur aime sont grands
+1,0,les agriculteurs que le patineur aime sont grands
+1,0,les chirurgiens que le patineur aime sont grands
+1,0,les sénateurs que le patineur aime sont grands
+1,0,les professeurs que le patineur aime sont grands
+1,0,les clients que le patineur aime sont grands
+1,0,les officiers que le patineur aime sont grands
+1,0,les pilotes que le patineur aime sont grands
+1,0,les consultants que le patineur aime sont grands
+1,0,l' auteur que les gardes aiment déménage
+1,0,l' auteur que les gardes détestent déménage
+1,0,l' auteur que les gardes admirent déménage
+1,0,l' auteur que les gardes évitent déménage
+1,0,le directeur que les gardes aiment déménage
+1,0,le directeur que les gardes détestent déménage
+1,0,le directeur que les gardes admirent déménage
+1,0,le directeur que les gardes évitent déménage
+1,0,l' agriculteur que les gardes aiment déménage
+1,0,l' agriculteur que les gardes détestent déménage
+1,0,l' agriculteur que les gardes admirent déménage
+1,0,l' agriculteur que les gardes évitent déménage
+1,0,le chirurgien que les gardes aiment déménage
+1,0,le chirurgien que les gardes détestent déménage
+1,0,le chirurgien que les gardes admirent déménage
+1,0,le chirurgien que les gardes évitent déménage
+1,0,le sénateur que les gardes aiment déménage
+1,0,le sénateur que les gardes détestent déménage
+1,0,le sénateur que les gardes admirent déménage
+1,0,le sénateur que les gardes évitent déménage
+1,0,le professeur que les gardes aiment déménage
+1,0,le professeur que les gardes détestent déménage
+1,0,le professeur que les gardes admirent déménage
+1,0,le professeur que les gardes évitent déménage
+1,0,le client que les gardes aiment déménage
+1,0,le client que les gardes détestent déménage
+1,0,le client que les gardes admirent déménage
+1,0,le client que les gardes évitent déménage
+1,0,l' officier que les gardes aiment déménage
+1,0,l' officier que les gardes détestent déménage
+1,0,l' officier que les gardes admirent déménage
+1,0,l' officier que les gardes évitent déménage
+1,0,le pilote que les gardes aiment déménage
+1,0,le pilote que les gardes détestent déménage
+1,0,le pilote que les gardes admirent déménage
+1,0,le pilote que les gardes évitent déménage
+1,0,le consultant que les gardes aiment déménage
+1,0,le consultant que les gardes détestent déménage
+1,0,le consultant que les gardes admirent déménage
+1,0,le consultant que les gardes évitent déménage
+1,0,l' auteur que les ministres aiment déménage
+1,0,l' auteur que les ministres détestent déménage
+1,0,l' auteur que les ministres admirent déménage
+1,0,l' auteur que les ministres évitent déménage
+1,0,le directeur que les ministres aiment déménage
+1,0,le directeur que les ministres détestent déménage
+1,0,le directeur que les ministres admirent déménage
+1,0,le directeur que les ministres évitent déménage
+1,0,l' agriculteur que les ministres aiment déménage
+1,0,l' agriculteur que les ministres détestent déménage
+1,0,l' agriculteur que les ministres admirent déménage
+1,0,l' agriculteur que les ministres évitent déménage
+1,0,le chirurgien que les ministres aiment déménage
+1,0,le chirurgien que les ministres détestent déménage
+1,0,le chirurgien que les ministres admirent déménage
+1,0,le chirurgien que les ministres évitent déménage
+1,0,le sénateur que les ministres aiment déménage
+1,0,le sénateur que les ministres détestent déménage
+1,0,le sénateur que les ministres admirent déménage
+1,0,le sénateur que les ministres évitent déménage
+1,0,le professeur que les ministres aiment déménage
+1,0,le professeur que les ministres détestent déménage
+1,0,le professeur que les ministres admirent déménage
+1,0,le professeur que les ministres évitent déménage
+1,0,le client que les ministres aiment déménage
+1,0,le client que les ministres détestent déménage
+1,0,le client que les ministres admirent déménage
+1,0,le client que les ministres évitent déménage
+1,0,l' officier que les ministres aiment déménage
+1,0,l' officier que les ministres détestent déménage
+1,0,l' officier que les ministres admirent déménage
+1,0,l' officier que les ministres évitent déménage
+1,0,le pilote que les ministres aiment déménage
+1,0,le pilote que les ministres détestent déménage
+1,0,le pilote que les ministres admirent déménage
+1,0,le pilote que les ministres évitent déménage
+1,0,le consultant que les ministres aiment déménage
+1,0,le consultant que les ministres détestent déménage
+1,0,le consultant que les ministres admirent déménage
+1,0,le consultant que les ministres évitent déménage
+1,0,l' auteur que les cadres aiment déménage
+1,0,l' auteur que les cadres détestent déménage
+1,0,l' auteur que les cadres admirent déménage
+1,0,l' auteur que les cadres évitent déménage
+1,0,le directeur que les cadres aiment déménage
+1,0,le directeur que les cadres détestent déménage
+1,0,le directeur que les cadres admirent déménage
+1,0,le directeur que les cadres évitent déménage
+1,0,l' agriculteur que les cadres aiment déménage
+1,0,l' agriculteur que les cadres détestent déménage
+1,0,l' agriculteur que les cadres admirent déménage
+1,0,l' agriculteur que les cadres évitent déménage
+1,0,le chirurgien que les cadres aiment déménage
+1,0,le chirurgien que les cadres détestent déménage
+1,0,le chirurgien que les cadres admirent déménage
+1,0,le chirurgien que les cadres évitent déménage
+1,0,le sénateur que les cadres aiment déménage
+1,0,le sénateur que les cadres détestent déménage
+1,0,le sénateur que les cadres admirent déménage
+1,0,le sénateur que les cadres évitent déménage
+1,0,le professeur que les cadres aiment déménage
+1,0,le professeur que les cadres détestent déménage
+1,0,le professeur que les cadres admirent déménage
+1,0,le professeur que les cadres évitent déménage
+1,0,le client que les cadres aiment déménage
+1,0,le client que les cadres détestent déménage
+1,0,le client que les cadres admirent déménage
+1,0,le client que les cadres évitent déménage
+1,0,l' officier que les cadres aiment déménage
+1,0,l' officier que les cadres détestent déménage
+1,0,l' officier que les cadres admirent déménage
+1,0,l' officier que les cadres évitent déménage
+1,0,le pilote que les cadres aiment déménage
+1,0,le pilote que les cadres détestent déménage
+1,0,le pilote que les cadres admirent déménage
+1,0,le pilote que les cadres évitent déménage
+1,0,le consultant que les cadres aiment déménage
+1,0,le consultant que les cadres détestent déménage
+1,0,le consultant que les cadres admirent déménage
+1,0,le consultant que les cadres évitent déménage
+1,0,l' auteur que les adjoints aiment déménage
+1,0,l' auteur que les adjoints détestent déménage
+1,0,l' auteur que les adjoints admirent déménage
+1,0,l' auteur que les adjoints évitent déménage
+1,0,le directeur que les adjoints aiment déménage
+1,0,le directeur que les adjoints détestent déménage
+1,0,le directeur que les adjoints admirent déménage
+1,0,le directeur que les adjoints évitent déménage
+1,0,l' agriculteur que les adjoints aiment déménage
+1,0,l' agriculteur que les adjoints détestent déménage
+1,0,l' agriculteur que les adjoints admirent déménage
+1,0,l' agriculteur que les adjoints évitent déménage
+1,0,le chirurgien que les adjoints aiment déménage
+1,0,le chirurgien que les adjoints détestent déménage
+1,0,le chirurgien que les adjoints admirent déménage
+1,0,le chirurgien que les adjoints évitent déménage
+1,0,le sénateur que les adjoints aiment déménage
+1,0,le sénateur que les adjoints détestent déménage
+1,0,le sénateur que les adjoints admirent déménage
+1,0,le sénateur que les adjoints évitent déménage
+1,0,le professeur que les adjoints aiment déménage
+1,0,le professeur que les adjoints détestent déménage
+1,0,le professeur que les adjoints admirent déménage
+1,0,le professeur que les adjoints évitent déménage
+1,0,le client que les adjoints aiment déménage
+1,0,le client que les adjoints détestent déménage
+1,0,le client que les adjoints admirent déménage
+1,0,le client que les adjoints évitent déménage
+1,0,l' officier que les adjoints aiment déménage
+1,0,l' officier que les adjoints détestent déménage
+1,0,l' officier que les adjoints admirent déménage
+1,0,l' officier que les adjoints évitent déménage
+1,0,le pilote que les adjoints aiment déménage
+1,0,le pilote que les adjoints détestent déménage
+1,0,le pilote que les adjoints admirent déménage
+1,0,le pilote que les adjoints évitent déménage
+1,0,le consultant que les adjoints aiment déménage
+1,0,le consultant que les adjoints détestent déménage
+1,0,le consultant que les adjoints admirent déménage
+1,0,le consultant que les adjoints évitent déménage
+1,0,l' auteur que les chauffeurs de taxi aiment déménage
+1,0,l' auteur que les chauffeurs de taxi détestent déménage
+1,0,l' auteur que les chauffeurs de taxi admirent déménage
+1,0,l' auteur que les chauffeurs de taxi évitent déménage
+1,0,le directeur que les chauffeurs de taxi aiment déménage
+1,0,le directeur que les chauffeurs de taxi détestent déménage
+1,0,le directeur que les chauffeurs de taxi admirent déménage
+1,0,le directeur que les chauffeurs de taxi évitent déménage
+1,0,l' agriculteur que les chauffeurs de taxi aiment déménage
+1,0,l' agriculteur que les chauffeurs de taxi détestent déménage
+1,0,l' agriculteur que les chauffeurs de taxi admirent déménage
+1,0,l' agriculteur que les chauffeurs de taxi évitent déménage
+1,0,le chirurgien que les chauffeurs de taxi aiment déménage
+1,0,le chirurgien que les chauffeurs de taxi détestent déménage
+1,0,le chirurgien que les chauffeurs de taxi admirent déménage
+1,0,le chirurgien que les chauffeurs de taxi évitent déménage
+1,0,le sénateur que les chauffeurs de taxi aiment déménage
+1,0,le sénateur que les chauffeurs de taxi détestent déménage
+1,0,le sénateur que les chauffeurs de taxi admirent déménage
+1,0,le sénateur que les chauffeurs de taxi évitent déménage
+1,0,le professeur que les chauffeurs de taxi aiment déménage
+1,0,le professeur que les chauffeurs de taxi détestent déménage
+1,0,le professeur que les chauffeurs de taxi admirent déménage
+1,0,le professeur que les chauffeurs de taxi évitent déménage
+1,0,le client que les chauffeurs de taxi aiment déménage
+1,0,le client que les chauffeurs de taxi détestent déménage
+1,0,le client que les chauffeurs de taxi admirent déménage
+1,0,le client que les chauffeurs de taxi évitent déménage
+1,0,l' officier que les chauffeurs de taxi aiment déménage
+1,0,l' officier que les chauffeurs de taxi détestent déménage
+1,0,l' officier que les chauffeurs de taxi admirent déménage
+1,0,l' officier que les chauffeurs de taxi évitent déménage
+1,0,le pilote que les chauffeurs de taxi aiment déménage
+1,0,le pilote que les chauffeurs de taxi détestent déménage
+1,0,le pilote que les chauffeurs de taxi admirent déménage
+1,0,le pilote que les chauffeurs de taxi évitent déménage
+1,0,le consultant que les chauffeurs de taxi aiment déménage
+1,0,le consultant que les chauffeurs de taxi détestent déménage
+1,0,le consultant que les chauffeurs de taxi admirent déménage
+1,0,le consultant que les chauffeurs de taxi évitent déménage
+1,0,l' auteur que les danseurs aiment déménage
+1,0,l' auteur que les danseurs détestent déménage
+1,0,l' auteur que les danseurs admirent déménage
+1,0,l' auteur que les danseurs évitent déménage
+1,0,le directeur que les danseurs aiment déménage
+1,0,le directeur que les danseurs détestent déménage
+1,0,le directeur que les danseurs admirent déménage
+1,0,le directeur que les danseurs évitent déménage
+1,0,l' agriculteur que les danseurs aiment déménage
+1,0,l' agriculteur que les danseurs détestent déménage
+1,0,l' agriculteur que les danseurs admirent déménage
+1,0,l' agriculteur que les danseurs évitent déménage
+1,0,le chirurgien que les danseurs aiment déménage
+1,0,le chirurgien que les danseurs détestent déménage
+1,0,le chirurgien que les danseurs admirent déménage
+1,0,le chirurgien que les danseurs évitent déménage
+1,0,le sénateur que les danseurs aiment déménage
+1,0,le sénateur que les danseurs détestent déménage
+1,0,le sénateur que les danseurs admirent déménage
+1,0,le sénateur que les danseurs évitent déménage
+1,0,le professeur que les danseurs aiment déménage
+1,0,le professeur que les danseurs détestent déménage
+1,0,le professeur que les danseurs admirent déménage
+1,0,le professeur que les danseurs évitent déménage
+1,0,le client que les danseurs aiment déménage
+1,0,le client que les danseurs détestent déménage
+1,0,le client que les danseurs admirent déménage
+1,0,le client que les danseurs évitent déménage
+1,0,l' officier que les danseurs aiment déménage
+1,0,l' officier que les danseurs détestent déménage
+1,0,l' officier que les danseurs admirent déménage
+1,0,l' officier que les danseurs évitent déménage
+1,0,le pilote que les danseurs aiment déménage
+1,0,le pilote que les danseurs détestent déménage
+1,0,le pilote que les danseurs admirent déménage
+1,0,le pilote que les danseurs évitent déménage
+1,0,le consultant que les danseurs aiment déménage
+1,0,le consultant que les danseurs détestent déménage
+1,0,le consultant que les danseurs admirent déménage
+1,0,le consultant que les danseurs évitent déménage
+1,0,l' auteur que les architectes aiment déménage
+1,0,l' auteur que les architectes détestent déménage
+1,0,l' auteur que les architectes admirent déménage
+1,0,l' auteur que les architectes évitent déménage
+1,0,le directeur que les architectes aiment déménage
+1,0,le directeur que les architectes détestent déménage
+1,0,le directeur que les architectes admirent déménage
+1,0,le directeur que les architectes évitent déménage
+1,0,l' agriculteur que les architectes aiment déménage
+1,0,l' agriculteur que les architectes détestent déménage
+1,0,l' agriculteur que les architectes admirent déménage
+1,0,l' agriculteur que les architectes évitent déménage
+1,0,le chirurgien que les architectes aiment déménage
+1,0,le chirurgien que les architectes détestent déménage
+1,0,le chirurgien que les architectes admirent déménage
+1,0,le chirurgien que les architectes évitent déménage
+1,0,le sénateur que les architectes aiment déménage
+1,0,le sénateur que les architectes détestent déménage
+1,0,le sénateur que les architectes admirent déménage
+1,0,le sénateur que les architectes évitent déménage
+1,0,le professeur que les architectes aiment déménage
+1,0,le professeur que les architectes détestent déménage
+1,0,le professeur que les architectes admirent déménage
+1,0,le professeur que les architectes évitent déménage
+1,0,le client que les architectes aiment déménage
+1,0,le client que les architectes détestent déménage
+1,0,le client que les architectes admirent déménage
+1,0,le client que les architectes évitent déménage
+1,0,l' officier que les architectes aiment déménage
+1,0,l' officier que les architectes détestent déménage
+1,0,l' officier que les architectes admirent déménage
+1,0,l' officier que les architectes évitent déménage
+1,0,le pilote que les architectes aiment déménage
+1,0,le pilote que les architectes détestent déménage
+1,0,le pilote que les architectes admirent déménage
+1,0,le pilote que les architectes évitent déménage
+1,0,le consultant que les architectes aiment déménage
+1,0,le consultant que les architectes détestent déménage
+1,0,le consultant que les architectes admirent déménage
+1,0,le consultant que les architectes évitent déménage
+1,0,l' auteur que les chefs aiment déménage
+1,0,l' auteur que les chefs détestent déménage
+1,0,l' auteur que les chefs admirent déménage
+1,0,l' auteur que les chefs évitent déménage
+1,0,le directeur que les chefs aiment déménage
+1,0,le directeur que les chefs détestent déménage
+1,0,le directeur que les chefs admirent déménage
+1,0,le directeur que les chefs évitent déménage
+1,0,l' agriculteur que les chefs aiment déménage
+1,0,l' agriculteur que les chefs détestent déménage
+1,0,l' agriculteur que les chefs admirent déménage
+1,0,l' agriculteur que les chefs évitent déménage
+1,0,le chirurgien que les chefs aiment déménage
+1,0,le chirurgien que les chefs détestent déménage
+1,0,le chirurgien que les chefs admirent déménage
+1,0,le chirurgien que les chefs évitent déménage
+1,0,le sénateur que les chefs aiment déménage
+1,0,le sénateur que les chefs détestent déménage
+1,0,le sénateur que les chefs admirent déménage
+1,0,le sénateur que les chefs évitent déménage
+1,0,le professeur que les chefs aiment déménage
+1,0,le professeur que les chefs détestent déménage
+1,0,le professeur que les chefs admirent déménage
+1,0,le professeur que les chefs évitent déménage
+1,0,le client que les chefs aiment déménage
+1,0,le client que les chefs détestent déménage
+1,0,le client que les chefs admirent déménage
+1,0,le client que les chefs évitent déménage
+1,0,l' officier que les chefs aiment déménage
+1,0,l' officier que les chefs détestent déménage
+1,0,l' officier que les chefs admirent déménage
+1,0,l' officier que les chefs évitent déménage
+1,0,le pilote que les chefs aiment déménage
+1,0,le pilote que les chefs détestent déménage
+1,0,le pilote que les chefs admirent déménage
+1,0,le pilote que les chefs évitent déménage
+1,0,le consultant que les chefs aiment déménage
+1,0,le consultant que les chefs détestent déménage
+1,0,le consultant que les chefs admirent déménage
+1,0,le consultant que les chefs évitent déménage
+1,0,l' auteur que les patineurs aiment déménage
+1,0,l' auteur que les patineurs détestent déménage
+1,0,l' auteur que les patineurs admirent déménage
+1,0,l' auteur que les patineurs évitent déménage
+1,0,le directeur que les patineurs aiment déménage
+1,0,le directeur que les patineurs détestent déménage
+1,0,le directeur que les patineurs admirent déménage
+1,0,le directeur que les patineurs évitent déménage
+1,0,l' agriculteur que les patineurs aiment déménage
+1,0,l' agriculteur que les patineurs détestent déménage
+1,0,l' agriculteur que les patineurs admirent déménage
+1,0,l' agriculteur que les patineurs évitent déménage
+1,0,le chirurgien que les patineurs aiment déménage
+1,0,le chirurgien que les patineurs détestent déménage
+1,0,le chirurgien que les patineurs admirent déménage
+1,0,le chirurgien que les patineurs évitent déménage
+1,0,le sénateur que les patineurs aiment déménage
+1,0,le sénateur que les patineurs détestent déménage
+1,0,le sénateur que les patineurs admirent déménage
+1,0,le sénateur que les patineurs évitent déménage
+1,0,le professeur que les patineurs aiment déménage
+1,0,le professeur que les patineurs détestent déménage
+1,0,le professeur que les patineurs admirent déménage
+1,0,le professeur que les patineurs évitent déménage
+1,0,le client que les patineurs aiment déménage
+1,0,le client que les patineurs détestent déménage
+1,0,le client que les patineurs admirent déménage
+1,0,le client que les patineurs évitent déménage
+1,0,l' officier que les patineurs aiment déménage
+1,0,l' officier que les patineurs détestent déménage
+1,0,l' officier que les patineurs admirent déménage
+1,0,l' officier que les patineurs évitent déménage
+1,0,le pilote que les patineurs aiment déménage
+1,0,le pilote que les patineurs détestent déménage
+1,0,le pilote que les patineurs admirent déménage
+1,0,le pilote que les patineurs évitent déménage
+1,0,le consultant que les patineurs aiment déménage
+1,0,le consultant que les patineurs détestent déménage
+1,0,le consultant que les patineurs admirent déménage
+1,0,le consultant que les patineurs évitent déménage
+1,0,l' auteur que les parents aiment déménage
+1,0,l' auteur que les parents détestent déménage
+1,0,l' auteur que les parents admirent déménage
+1,0,l' auteur que les parents évitent déménage
+1,0,le directeur que les parents aiment déménage
+1,0,le directeur que les parents détestent déménage
+1,0,le directeur que les parents admirent déménage
+1,0,le directeur que les parents évitent déménage
+1,0,l' agriculteur que les parents aiment déménage
+1,0,l' agriculteur que les parents détestent déménage
+1,0,l' agriculteur que les parents admirent déménage
+1,0,l' agriculteur que les parents évitent déménage
+1,0,le chirurgien que les parents aiment déménage
+1,0,le chirurgien que les parents détestent déménage
+1,0,le chirurgien que les parents admirent déménage
+1,0,le chirurgien que les parents évitent déménage
+1,0,le sénateur que les parents aiment déménage
+1,0,le sénateur que les parents détestent déménage
+1,0,le sénateur que les parents admirent déménage
+1,0,le sénateur que les parents évitent déménage
+1,0,le professeur que les parents aiment déménage
+1,0,le professeur que les parents détestent déménage
+1,0,le professeur que les parents admirent déménage
+1,0,le professeur que les parents évitent déménage
+1,0,le client que les parents aiment déménage
+1,0,le client que les parents détestent déménage
+1,0,le client que les parents admirent déménage
+1,0,le client que les parents évitent déménage
+1,0,l' officier que les parents aiment déménage
+1,0,l' officier que les parents détestent déménage
+1,0,l' officier que les parents admirent déménage
+1,0,l' officier que les parents évitent déménage
+1,0,le pilote que les parents aiment déménage
+1,0,le pilote que les parents détestent déménage
+1,0,le pilote que les parents admirent déménage
+1,0,le pilote que les parents évitent déménage
+1,0,le consultant que les parents aiment déménage
+1,0,le consultant que les parents détestent déménage
+1,0,le consultant que les parents admirent déménage
+1,0,le consultant que les parents évitent déménage
+0,1,l' auteur que les gardes aime parle
+1,0,l' agriculteur que les gardes aiment parle
+0,1,l' agriculteur que les gardes aime parle
+1,0,l' agriculteur que les gardes détestent parle
+0,1,le chirurgien que les gardes aime parle
+1,0,le sénateur que les gardes aiment parle
+0,1,le sénateur que les gardes aime parle
+1,0,le sénateur que les gardes détestent parle
+0,1,le professeur que les gardes admire parle
+1,0,le client que les gardes aiment parle
+0,1,le client que les gardes aime parle
+0,1,le client que les gardes admire parle
+0,1,l' officier que les gardes aime parle
+0,1,le pilote que les gardes aime parle
+0,1,le pilote que les gardes déteste parle
+0,1,le pilote que les gardes admire parle
+0,1,le consultant que les gardes admire parle
+0,1,le professeur que les ministres admire parle
+0,1,le client que les ministres admire parle
+0,1,l' officier que les ministres aime parle
+0,1,le pilote que les ministres aime parle
+0,1,le pilote que les ministres admire parle
+0,1,le sénateur que les cadres aime parle
+1,0,le sénateur que les cadres détestent parle
+0,1,l' officier que les cadres aime parle
+0,1,le pilote que les cadres aime parle
+0,1,l' auteur que les adjoints aime parle
+0,1,le directeur que les adjoints aime parle
+1,0,l' agriculteur que les adjoints aiment parle
+0,1,l' agriculteur que les adjoints aime parle
+1,0,l' agriculteur que les adjoints détestent parle
+1,0,l' agriculteur que les adjoints évitent parle
+1,0,le chirurgien que les adjoints aiment parle
+0,1,le chirurgien que les adjoints aime parle
+1,0,le chirurgien que les adjoints détestent parle
+1,0,le sénateur que les adjoints aiment parle
+0,1,le sénateur que les adjoints aime parle
+1,0,le sénateur que les adjoints détestent parle
+1,0,le sénateur que les adjoints admirent parle
+1,0,le sénateur que les adjoints évitent parle
+0,1,le professeur que les adjoints aime parle
+1,0,le client que les adjoints aiment parle
+0,1,le client que les adjoints aime parle
+1,0,le client que les adjoints détestent parle
+0,1,l' officier que les adjoints aime parle
+1,0,l' officier que les adjoints détestent parle
+1,0,le pilote que les adjoints aiment parle
+0,1,le pilote que les adjoints aime parle
+1,0,le pilote que les adjoints détestent parle
+1,0,le consultant que les adjoints aiment parle
+0,1,le consultant que les adjoints aime parle
+0,1,le directeur que les chauffeurs de taxi aime parle
+1,0,l' agriculteur que les chauffeurs de taxi aiment parle
+0,1,le chirurgien que les chauffeurs de taxi aime parle
+1,0,le sénateur que les chauffeurs de taxi aiment parle
+0,1,le sénateur que les chauffeurs de taxi aime parle
+0,1,le professeur que les chauffeurs de taxi aime parle
+1,0,le client que les chauffeurs de taxi aiment parle
+0,1,le pilote que les chauffeurs de taxi aime parle
+0,1,l' auteur que les danseurs aime parle
+1,0,le directeur que les danseurs aiment parle
+0,1,l' agriculteur que les danseurs aime parle
+0,1,le chirurgien que les danseurs aime parle
+1,0,le sénateur que les danseurs aiment parle
+0,1,le sénateur que les danseurs aime parle
+1,0,le sénateur que les danseurs détestent parle
+1,0,le sénateur que les danseurs évitent parle
+1,0,le professeur que les danseurs aiment parle
+1,0,le client que les danseurs aiment parle
+0,1,l' officier que les danseurs aime parle
+1,0,le pilote que les danseurs aiment parle
+1,0,le consultant que les danseurs aiment parle
+0,1,l' auteur que les architectes aime parle
+0,1,l' agriculteur que les architectes aime parle
+0,1,le chirurgien que les architectes aime parle
+0,1,le sénateur que les architectes aime parle
+1,0,le client que les architectes aiment parle
+0,1,l' officier que les architectes aime parle
+0,1,le pilote que les architectes aime parle
+0,1,l' auteur que les chefs aime parle
+1,0,l' agriculteur que les chefs aiment parle
+0,1,l' agriculteur que les chefs aime parle
+1,0,l' agriculteur que les chefs détestent parle
+0,1,le chirurgien que les chefs aime parle
+0,1,le chirurgien que les chefs admire parle
+1,0,le sénateur que les chefs détestent parle
+0,1,le professeur que les chefs admire parle
+0,1,le client que les chefs admire parle
+0,1,l' officier que les chefs aime parle
+0,1,le consultant que les chefs admire parle
+0,1,l' auteur que les patineurs aime parle
+0,1,l' agriculteur que les patineurs aime parle
+0,1,le chirurgien que les patineurs aime parle
+0,1,le sénateur que les patineurs aime parle
+0,1,le client que les patineurs aime parle
+0,1,l' officier que les patineurs aime parle
+0,1,le pilote que les patineurs aime parle
+0,1,l' auteur que les parents aime parle
+1,0,le directeur que les parents aiment parle
+1,0,le directeur que les parents admirent parle
+1,0,le sénateur que les parents détestent parle
+1,0,le professeur que les parents aiment parle
+1,0,le client que les parents aiment parle
+0,1,l' officier que les parents aime parle
+1,0,le pilote que les parents détestent parle
+1,0,le consultant que les parents aiment parle
+0,1,le directeur que les gardes aime retourne
+0,1,l' agriculteur que les gardes aime retourne
+0,1,le chirurgien que les gardes aime retourne
+0,1,le sénateur que les gardes aime retourne
+0,1,le professeur que les gardes aime retourne
+0,1,le professeur que les gardes admire retourne
+0,1,le client que les gardes aime retourne
+0,1,le pilote que les gardes aime retourne
+0,1,le consultant que les gardes aime retourne
+0,1,le professeur que les ministres aime retourne
+0,1,le pilote que les ministres aime retourne
+0,1,le professeur que les cadres aime retourne
+0,1,le pilote que les cadres aime retourne
+0,1,le directeur que les adjoints aime retourne
+0,1,l' agriculteur que les adjoints aime retourne
+0,1,le chirurgien que les adjoints aime retourne
+0,1,le sénateur que les adjoints aime retourne
+0,1,le professeur que les adjoints aime retourne
+0,1,le client que les adjoints aime retourne
+0,1,l' officier que les adjoints aime retourne
+0,1,le pilote que les adjoints aime retourne
+0,1,le consultant que les adjoints aime retourne
+0,1,le professeur que les chauffeurs de taxi aime retourne
+0,1,le directeur que les danseurs aime retourne
+0,1,le chirurgien que les danseurs aime retourne
+0,1,le sénateur que les danseurs aime retourne
+0,1,le professeur que les danseurs aime retourne
+0,1,le client que les danseurs aime retourne
+0,1,le pilote que les danseurs aime retourne
+0,1,le consultant que les danseurs aime retourne
+0,1,le directeur que les architectes aime retourne
+0,1,le chirurgien que les architectes aime retourne
+0,1,le sénateur que les architectes aime retourne
+0,1,le professeur que les architectes aime retourne
+0,1,le client que les architectes aime retourne
+0,1,le pilote que les architectes aime retourne
+0,1,le consultant que les architectes aime retourne
+0,1,le directeur que les chefs aime retourne
+0,1,le professeur que les chefs aime retourne
+0,1,le pilote que les chefs aime retourne
+0,1,le consultant que les chefs aime retourne
+0,1,le directeur que les patineurs aime retourne
+0,1,le chirurgien que les patineurs aime retourne
+0,1,le sénateur que les patineurs aime retourne
+0,1,le professeur que les patineurs aime retourne
+0,1,le client que les patineurs aime retourne
+0,1,le pilote que les patineurs aime retourne
+0,1,le consultant que les patineurs aime retourne
+0,1,le directeur que les parents aime retourne
+0,1,le sénateur que les parents aime retourne
+0,1,le professeur que les parents aime retourne
+0,1,l' auteur que les gardes aime est vieux
+0,1,le directeur que les gardes aime est vieux
+0,1,le directeur que les gardes déteste est vieux
+0,1,l' agriculteur que les gardes aime est vieux
+0,1,le chirurgien que les gardes aime est vieux
+0,1,le chirurgien que les gardes déteste est vieux
+0,1,le sénateur que les gardes aime est vieux
+0,1,le professeur que les gardes aime est vieux
+0,1,le professeur que les gardes admire est vieux
+0,1,le client que les gardes aime est vieux
+0,1,le client que les gardes déteste est vieux
+0,1,l' officier que les gardes aime est vieux
+0,1,le pilote que les gardes aime est vieux
+0,1,le pilote que les gardes déteste est vieux
+0,1,le consultant que les gardes aime est vieux
+0,1,l' auteur que les ministres aime est vieux
+0,1,le directeur que les ministres aime est vieux
+0,1,l' agriculteur que les ministres aime est vieux
+0,1,le chirurgien que les ministres aime est vieux
+0,1,le sénateur que les ministres aime est vieux
+0,1,le professeur que les ministres aime est vieux
+0,1,le client que les ministres aime est vieux
+0,1,l' officier que les ministres aime est vieux
+0,1,le pilote que les ministres aime est vieux
+0,1,le consultant que les ministres aime est vieux
+0,1,l' auteur que les cadres aime est vieux
+0,1,le directeur que les cadres aime est vieux
+0,1,l' agriculteur que les cadres aime est vieux
+0,1,le chirurgien que les cadres aime est vieux
+0,1,le sénateur que les cadres aime est vieux
+0,1,le professeur que les cadres aime est vieux
+0,1,le client que les cadres aime est vieux
+0,1,l' officier que les cadres aime est vieux
+0,1,le pilote que les cadres aime est vieux
+0,1,le consultant que les cadres aime est vieux
+0,1,l' auteur que les adjoints aime est vieux
+0,1,le directeur que les adjoints aime est vieux
+0,1,le directeur que les adjoints déteste est vieux
+0,1,l' agriculteur que les adjoints aime est vieux
+0,1,le chirurgien que les adjoints aime est vieux
+0,1,le chirurgien que les adjoints déteste est vieux
+0,1,le sénateur que les adjoints aime est vieux
+0,1,le professeur que les adjoints aime est vieux
+0,1,le client que les adjoints aime est vieux
+0,1,l' officier que les adjoints aime est vieux
+0,1,le pilote que les adjoints aime est vieux
+0,1,le pilote que les adjoints déteste est vieux
+0,1,le consultant que les adjoints aime est vieux
+0,1,l' auteur que les chauffeurs de taxi aime est vieux
+0,1,le directeur que les chauffeurs de taxi aime est vieux
+0,1,l' agriculteur que les chauffeurs de taxi aime est vieux
+0,1,le chirurgien que les chauffeurs de taxi aime est vieux
+0,1,le sénateur que les chauffeurs de taxi aime est vieux
+0,1,le professeur que les chauffeurs de taxi aime est vieux
+0,1,le client que les chauffeurs de taxi aime est vieux
+0,1,l' officier que les chauffeurs de taxi aime est vieux
+0,1,le pilote que les chauffeurs de taxi aime est vieux
+0,1,le consultant que les chauffeurs de taxi aime est vieux
+0,1,l' auteur que les danseurs aime est vieux
+0,1,le directeur que les danseurs aime est vieux
+0,1,l' agriculteur que les danseurs aime est vieux
+0,1,le chirurgien que les danseurs aime est vieux
+0,1,le sénateur que les danseurs aime est vieux
+0,1,le professeur que les danseurs aime est vieux
+0,1,le client que les danseurs aime est vieux
+0,1,l' officier que les danseurs aime est vieux
+0,1,le pilote que les danseurs aime est vieux
+0,1,le consultant que les danseurs aime est vieux
+0,1,l' auteur que les architectes aime est vieux
+0,1,le directeur que les architectes aime est vieux
+0,1,l' agriculteur que les architectes aime est vieux
+0,1,le chirurgien que les architectes aime est vieux
+0,1,le sénateur que les architectes aime est vieux
+0,1,le professeur que les architectes aime est vieux
+0,1,le client que les architectes aime est vieux
+0,1,l' officier que les architectes aime est vieux
+0,1,le pilote que les architectes aime est vieux
+0,1,le consultant que les architectes aime est vieux
+0,1,l' auteur que les chefs aime est vieux
+0,1,le directeur que les chefs aime est vieux
+0,1,l' agriculteur que les chefs aime est vieux
+0,1,le chirurgien que les chefs aime est vieux
+0,1,le sénateur que les chefs aime est vieux
+0,1,le professeur que les chefs aime est vieux
+0,1,le professeur que les chefs admire est vieux
+0,1,le client que les chefs aime est vieux
+0,1,l' officier que les chefs aime est vieux
+0,1,le pilote que les chefs aime est vieux
+0,1,le consultant que les chefs aime est vieux
+0,1,l' auteur que les patineurs aime est vieux
+0,1,le directeur que les patineurs aime est vieux
+0,1,l' agriculteur que les patineurs aime est vieux
+0,1,le chirurgien que les patineurs aime est vieux
+0,1,le sénateur que les patineurs aime est vieux
+0,1,le professeur que les patineurs aime est vieux
+0,1,le client que les patineurs aime est vieux
+0,1,l' officier que les patineurs aime est vieux
+0,1,le pilote que les patineurs aime est vieux
+0,1,le consultant que les patineurs aime est vieux
+0,1,l' auteur que les parents aime est vieux
+0,1,le directeur que les parents aime est vieux
+0,1,l' agriculteur que les parents aime est vieux
+0,1,le chirurgien que les parents aime est vieux
+0,1,le sénateur que les parents aime est vieux
+0,1,le professeur que les parents aime est vieux
+0,1,le client que les parents aime est vieux
+0,1,l' officier que les parents aime est vieux
+0,1,le pilote que les parents aime est vieux
+0,1,le consultant que les parents aime est vieux
+0,1,l' auteur que les gardes aime est petit
+0,1,le directeur que les gardes aime est petit
+0,1,l' agriculteur que les gardes aime est petit
+0,1,le chirurgien que les gardes aime est petit
+0,1,le chirurgien que les gardes déteste est petit
+0,1,le sénateur que les gardes aime est petit
+0,1,le professeur que les gardes aime est petit
+0,1,le professeur que les gardes déteste est petit
+0,1,le professeur que les gardes admire est petit
+0,1,le client que les gardes aime est petit
+0,1,l' officier que les gardes aime est petit
+0,1,le pilote que les gardes aime est petit
+0,1,le pilote que les gardes déteste est petit
+0,1,le consultant que les gardes aime est petit
+0,1,l' auteur que les ministres aime est petit
+0,1,le directeur que les ministres aime est petit
+0,1,l' agriculteur que les ministres aime est petit
+0,1,le chirurgien que les ministres aime est petit
+0,1,le sénateur que les ministres aime est petit
+0,1,le professeur que les ministres aime est petit
+0,1,le client que les ministres aime est petit
+0,1,l' officier que les ministres aime est petit
+0,1,le pilote que les ministres aime est petit
+0,1,le consultant que les ministres aime est petit
+0,1,l' auteur que les cadres aime est petit
+0,1,le directeur que les cadres aime est petit
+0,1,l' agriculteur que les cadres aime est petit
+0,1,le chirurgien que les cadres aime est petit
+0,1,le sénateur que les cadres aime est petit
+0,1,le professeur que les cadres aime est petit
+0,1,le client que les cadres aime est petit
+0,1,l' officier que les cadres aime est petit
+0,1,le pilote que les cadres aime est petit
+0,1,le consultant que les cadres aime est petit
+0,1,l' auteur que les adjoints aime est petit
+0,1,le directeur que les adjoints aime est petit
+0,1,le directeur que les adjoints déteste est petit
+0,1,l' agriculteur que les adjoints aime est petit
+0,1,le chirurgien que les adjoints aime est petit
+0,1,le chirurgien que les adjoints déteste est petit
+0,1,le chirurgien que les adjoints admire est petit
+0,1,le sénateur que les adjoints aime est petit
+0,1,le professeur que les adjoints aime est petit
+0,1,le professeur que les adjoints déteste est petit
+0,1,le professeur que les adjoints admire est petit
+0,1,le client que les adjoints aime est petit
+0,1,l' officier que les adjoints aime est petit
+0,1,l' officier que les adjoints admire est petit
+0,1,le pilote que les adjoints aime est petit
+0,1,le pilote que les adjoints déteste est petit
+0,1,le pilote que les adjoints admire est petit
+0,1,le consultant que les adjoints aime est petit
+0,1,le consultant que les adjoints déteste est petit
+0,1,l' auteur que les chauffeurs de taxi aime est petit
+0,1,le directeur que les chauffeurs de taxi aime est petit
+0,1,l' agriculteur que les chauffeurs de taxi aime est petit
+0,1,le chirurgien que les chauffeurs de taxi aime est petit
+0,1,le sénateur que les chauffeurs de taxi aime est petit
+0,1,le professeur que les chauffeurs de taxi aime est petit
+0,1,le client que les chauffeurs de taxi aime est petit
+0,1,l' officier que les chauffeurs de taxi aime est petit
+0,1,le pilote que les chauffeurs de taxi aime est petit
+0,1,le consultant que les chauffeurs de taxi aime est petit
+0,1,l' auteur que les danseurs aime est petit
+0,1,le directeur que les danseurs aime est petit
+0,1,l' agriculteur que les danseurs aime est petit
+0,1,le chirurgien que les danseurs aime est petit
+0,1,le sénateur que les danseurs aime est petit
+0,1,le professeur que les danseurs aime est petit
+0,1,le client que les danseurs aime est petit
+0,1,l' officier que les danseurs aime est petit
+0,1,le pilote que les danseurs aime est petit
+0,1,le consultant que les danseurs aime est petit
+0,1,l' auteur que les architectes aime est petit
+0,1,le directeur que les architectes aime est petit
+0,1,l' agriculteur que les architectes aime est petit
+0,1,le chirurgien que les architectes aime est petit
+0,1,le sénateur que les architectes aime est petit
+0,1,le professeur que les architectes aime est petit
+0,1,le client que les architectes aime est petit
+0,1,l' officier que les architectes aime est petit
+0,1,le pilote que les architectes aime est petit
+0,1,le consultant que les architectes aime est petit
+0,1,l' auteur que les chefs aime est petit
+0,1,le directeur que les chefs aime est petit
+0,1,l' agriculteur que les chefs aime est petit
+0,1,le chirurgien que les chefs aime est petit
+0,1,le sénateur que les chefs aime est petit
+0,1,le professeur que les chefs aime est petit
+0,1,le professeur que les chefs admire est petit
+0,1,le client que les chefs aime est petit
+0,1,l' officier que les chefs aime est petit
+0,1,le pilote que les chefs aime est petit
+0,1,le consultant que les chefs aime est petit
+0,1,l' auteur que les patineurs aime est petit
+0,1,le directeur que les patineurs aime est petit
+0,1,l' agriculteur que les patineurs aime est petit
+0,1,le chirurgien que les patineurs aime est petit
+0,1,le sénateur que les patineurs aime est petit
+0,1,le professeur que les patineurs aime est petit
+0,1,le client que les patineurs aime est petit
+0,1,l' officier que les patineurs aime est petit
+0,1,le pilote que les patineurs aime est petit
+0,1,le consultant que les patineurs aime est petit
+0,1,l' auteur que les parents aime est petit
+0,1,le directeur que les parents aime est petit
+0,1,l' agriculteur que les parents aime est petit
+0,1,le chirurgien que les parents aime est petit
+0,1,le sénateur que les parents aime est petit
+0,1,le professeur que les parents aime est petit
+0,1,le client que les parents aime est petit
+0,1,l' officier que les parents aime est petit
+0,1,le pilote que les parents aime est petit
+0,1,le consultant que les parents aime est petit
+0,1,l' auteur que les gardes aime est jeune
+0,1,le directeur que les gardes aime est jeune
+0,1,l' agriculteur que les gardes aime est jeune
+0,1,le chirurgien que les gardes aime est jeune
+0,1,le chirurgien que les gardes déteste est jeune
+0,1,le sénateur que les gardes aime est jeune
+0,1,le professeur que les gardes aime est jeune
+0,1,le professeur que les gardes déteste est jeune
+0,1,le professeur que les gardes admire est jeune
+0,1,le client que les gardes aime est jeune
+0,1,l' officier que les gardes aime est jeune
+0,1,le pilote que les gardes aime est jeune
+0,1,le consultant que les gardes aime est jeune
+0,1,l' auteur que les ministres aime est jeune
+0,1,le directeur que les ministres aime est jeune
+0,1,l' agriculteur que les ministres aime est jeune
+0,1,le chirurgien que les ministres aime est jeune
+0,1,le sénateur que les ministres aime est jeune
+0,1,le professeur que les ministres aime est jeune
+0,1,le professeur que les ministres admire est jeune
+0,1,le client que les ministres aime est jeune
+0,1,l' officier que les ministres aime est jeune
+0,1,le pilote que les ministres aime est jeune
+0,1,le consultant que les ministres aime est jeune
+0,1,l' auteur que les cadres aime est jeune
+0,1,le directeur que les cadres aime est jeune
+0,1,l' agriculteur que les cadres aime est jeune
+0,1,le chirurgien que les cadres aime est jeune
+0,1,le sénateur que les cadres aime est jeune
+0,1,le professeur que les cadres aime est jeune
+0,1,le client que les cadres aime est jeune
+0,1,l' officier que les cadres aime est jeune
+0,1,le pilote que les cadres aime est jeune
+0,1,le consultant que les cadres aime est jeune
+0,1,l' auteur que les adjoints aime est jeune
+0,1,le directeur que les adjoints aime est jeune
+0,1,l' agriculteur que les adjoints aime est jeune
+0,1,le chirurgien que les adjoints aime est jeune
+0,1,le chirurgien que les adjoints déteste est jeune
+0,1,le sénateur que les adjoints aime est jeune
+0,1,le professeur que les adjoints aime est jeune
+0,1,le client que les adjoints aime est jeune
+0,1,l' officier que les adjoints aime est jeune
+0,1,le pilote que les adjoints aime est jeune
+0,1,le pilote que les adjoints déteste est jeune
+0,1,le consultant que les adjoints aime est jeune
+0,1,l' auteur que les chauffeurs de taxi aime est jeune
+0,1,le directeur que les chauffeurs de taxi aime est jeune
+0,1,l' agriculteur que les chauffeurs de taxi aime est jeune
+0,1,le chirurgien que les chauffeurs de taxi aime est jeune
+0,1,le sénateur que les chauffeurs de taxi aime est jeune
+0,1,le professeur que les chauffeurs de taxi aime est jeune
+0,1,le client que les chauffeurs de taxi aime est jeune
+0,1,l' officier que les chauffeurs de taxi aime est jeune
+0,1,le pilote que les chauffeurs de taxi aime est jeune
+0,1,le consultant que les chauffeurs de taxi aime est jeune
+0,1,l' auteur que les danseurs aime est jeune
+0,1,le directeur que les danseurs aime est jeune
+0,1,l' agriculteur que les danseurs aime est jeune
+0,1,le chirurgien que les danseurs aime est jeune
+0,1,le sénateur que les danseurs aime est jeune
+0,1,le professeur que les danseurs aime est jeune
+0,1,le client que les danseurs aime est jeune
+0,1,l' officier que les danseurs aime est jeune
+0,1,le pilote que les danseurs aime est jeune
+0,1,le consultant que les danseurs aime est jeune
+0,1,l' auteur que les architectes aime est jeune
+0,1,le directeur que les architectes aime est jeune
+0,1,l' agriculteur que les architectes aime est jeune
+0,1,le chirurgien que les architectes aime est jeune
+0,1,le sénateur que les architectes aime est jeune
+0,1,le professeur que les architectes aime est jeune
+0,1,le client que les architectes aime est jeune
+0,1,l' officier que les architectes aime est jeune
+0,1,le pilote que les architectes aime est jeune
+0,1,le consultant que les architectes aime est jeune
+0,1,l' auteur que les chefs aime est jeune
+0,1,le directeur que les chefs aime est jeune
+0,1,l' agriculteur que les chefs aime est jeune
+0,1,le chirurgien que les chefs aime est jeune
+0,1,le sénateur que les chefs aime est jeune
+0,1,le professeur que les chefs aime est jeune
+0,1,le professeur que les chefs admire est jeune
+0,1,le client que les chefs aime est jeune
+0,1,l' officier que les chefs aime est jeune
+0,1,le pilote que les chefs aime est jeune
+0,1,le consultant que les chefs aime est jeune
+0,1,l' auteur que les patineurs aime est jeune
+0,1,le directeur que les patineurs aime est jeune
+0,1,l' agriculteur que les patineurs aime est jeune
+0,1,le chirurgien que les patineurs aime est jeune
+0,1,le sénateur que les patineurs aime est jeune
+0,1,le professeur que les patineurs aime est jeune
+0,1,le client que les patineurs aime est jeune
+0,1,l' officier que les patineurs aime est jeune
+0,1,le pilote que les patineurs aime est jeune
+0,1,le consultant que les patineurs aime est jeune
+0,1,l' auteur que les parents aime est jeune
+0,1,le directeur que les parents aime est jeune
+0,1,l' agriculteur que les parents aime est jeune
+0,1,le chirurgien que les parents aime est jeune
+0,1,le sénateur que les parents aime est jeune
+0,1,le professeur que les parents aime est jeune
+0,1,le professeur que les parents admire est jeune
+0,1,le client que les parents aime est jeune
+0,1,l' officier que les parents aime est jeune
+0,1,le pilote que les parents aime est jeune
+0,1,le consultant que les parents aime est jeune
+0,1,l' auteur que les gardes aime est grand
+0,1,l' auteur que les gardes déteste est grand
+0,1,le directeur que les gardes aime est grand
+0,1,le directeur que les gardes déteste est grand
+0,1,l' agriculteur que les gardes aime est grand
+0,1,le chirurgien que les gardes aime est grand
+0,1,le chirurgien que les gardes déteste est grand
+0,1,le chirurgien que les gardes admire est grand
+0,1,le sénateur que les gardes aime est grand
+0,1,le sénateur que les gardes déteste est grand
+0,1,le professeur que les gardes aime est grand
+0,1,le professeur que les gardes déteste est grand
+0,1,le professeur que les gardes admire est grand
+0,1,le client que les gardes aime est grand
+0,1,le client que les gardes déteste est grand
+0,1,le client que les gardes admire est grand
+0,1,l' officier que les gardes aime est grand
+0,1,le pilote que les gardes aime est grand
+0,1,le pilote que les gardes déteste est grand
+0,1,le pilote que les gardes admire est grand
+0,1,le consultant que les gardes aime est grand
+0,1,le consultant que les gardes déteste est grand
+0,1,le consultant que les gardes admire est grand
+0,1,l' auteur que les ministres aime est grand
+0,1,le directeur que les ministres aime est grand
+0,1,l' agriculteur que les ministres aime est grand
+0,1,le chirurgien que les ministres aime est grand
+0,1,le chirurgien que les ministres déteste est grand
+0,1,le chirurgien que les ministres admire est grand
+0,1,le sénateur que les ministres aime est grand
+0,1,le sénateur que les ministres déteste est grand
+0,1,le professeur que les ministres aime est grand
+0,1,le professeur que les ministres admire est grand
+0,1,le client que les ministres aime est grand
+0,1,le client que les ministres déteste est grand
+0,1,l' officier que les ministres aime est grand
+0,1,le pilote que les ministres aime est grand
+0,1,le pilote que les ministres déteste est grand
+0,1,le consultant que les ministres aime est grand
+0,1,le consultant que les ministres déteste est grand
+0,1,l' auteur que les cadres aime est grand
+0,1,le directeur que les cadres aime est grand
+0,1,l' agriculteur que les cadres aime est grand
+0,1,le chirurgien que les cadres aime est grand
+0,1,le sénateur que les cadres aime est grand
+0,1,le professeur que les cadres aime est grand
+0,1,le client que les cadres aime est grand
+0,1,l' officier que les cadres aime est grand
+0,1,le pilote que les cadres aime est grand
+0,1,le consultant que les cadres aime est grand
+0,1,l' auteur que les adjoints aime est grand
+0,1,l' auteur que les adjoints déteste est grand
+0,1,l' auteur que les adjoints admire est grand
+0,1,le directeur que les adjoints aime est grand
+0,1,le directeur que les adjoints déteste est grand
+0,1,le directeur que les adjoints admire est grand
+0,1,l' agriculteur que les adjoints aime est grand
+0,1,le chirurgien que les adjoints aime est grand
+0,1,le chirurgien que les adjoints déteste est grand
+0,1,le chirurgien que les adjoints admire est grand
+0,1,le sénateur que les adjoints aime est grand
+0,1,le sénateur que les adjoints déteste est grand
+0,1,le professeur que les adjoints aime est grand
+0,1,le professeur que les adjoints déteste est grand
+0,1,le professeur que les adjoints admire est grand
+0,1,le client que les adjoints aime est grand
+0,1,le client que les adjoints déteste est grand
+0,1,le client que les adjoints admire est grand
+0,1,l' officier que les adjoints aime est grand
+0,1,l' officier que les adjoints déteste est grand
+0,1,l' officier que les adjoints admire est grand
+0,1,le pilote que les adjoints aime est grand
+0,1,le pilote que les adjoints déteste est grand
+0,1,le pilote que les adjoints admire est grand
+0,1,le consultant que les adjoints aime est grand
+0,1,le consultant que les adjoints déteste est grand
+0,1,le consultant que les adjoints admire est grand
+0,1,l' auteur que les chauffeurs de taxi aime est grand
+0,1,le directeur que les chauffeurs de taxi aime est grand
+0,1,l' agriculteur que les chauffeurs de taxi aime est grand
+0,1,le chirurgien que les chauffeurs de taxi aime est grand
+0,1,le chirurgien que les chauffeurs de taxi admire est grand
+0,1,le sénateur que les chauffeurs de taxi aime est grand
+0,1,le professeur que les chauffeurs de taxi aime est grand
+0,1,le client que les chauffeurs de taxi aime est grand
+0,1,le client que les chauffeurs de taxi admire est grand
+0,1,l' officier que les chauffeurs de taxi aime est grand
+0,1,le pilote que les chauffeurs de taxi aime est grand
+0,1,le pilote que les chauffeurs de taxi admire est grand
+0,1,le consultant que les chauffeurs de taxi aime est grand
+0,1,l' auteur que les danseurs aime est grand
+0,1,le directeur que les danseurs aime est grand
+0,1,l' agriculteur que les danseurs aime est grand
+0,1,le chirurgien que les danseurs aime est grand
+0,1,le sénateur que les danseurs aime est grand
+0,1,le professeur que les danseurs aime est grand
+0,1,le client que les danseurs aime est grand
+0,1,l' officier que les danseurs aime est grand
+0,1,le pilote que les danseurs aime est grand
+0,1,le consultant que les danseurs aime est grand
+0,1,l' auteur que les architectes aime est grand
+0,1,le directeur que les architectes aime est grand
+0,1,l' agriculteur que les architectes aime est grand
+0,1,le chirurgien que les architectes aime est grand
+0,1,le chirurgien que les architectes déteste est grand
+0,1,le chirurgien que les architectes admire est grand
+0,1,le sénateur que les architectes aime est grand
+0,1,le professeur que les architectes aime est grand
+0,1,le professeur que les architectes admire est grand
+0,1,le client que les architectes aime est grand
+0,1,le client que les architectes déteste est grand
+0,1,le client que les architectes admire est grand
+0,1,l' officier que les architectes aime est grand
+0,1,le pilote que les architectes aime est grand
+0,1,le pilote que les architectes déteste est grand
+0,1,le pilote que les architectes admire est grand
+0,1,le consultant que les architectes aime est grand
+0,1,le consultant que les architectes déteste est grand
+0,1,le consultant que les architectes admire est grand
+0,1,l' auteur que les chefs aime est grand
+0,1,le directeur que les chefs aime est grand
+0,1,l' agriculteur que les chefs aime est grand
+0,1,le chirurgien que les chefs aime est grand
+0,1,le chirurgien que les chefs déteste est grand
+0,1,le chirurgien que les chefs admire est grand
+0,1,le sénateur que les chefs aime est grand
+0,1,le professeur que les chefs aime est grand
+0,1,le professeur que les chefs admire est grand
+0,1,le client que les chefs aime est grand
+0,1,le client que les chefs admire est grand
+0,1,l' officier que les chefs aime est grand
+0,1,le pilote que les chefs aime est grand
+0,1,le pilote que les chefs déteste est grand
+0,1,le pilote que les chefs admire est grand
+0,1,le consultant que les chefs aime est grand
+0,1,le consultant que les chefs déteste est grand
+0,1,le consultant que les chefs admire est grand
+0,1,l' auteur que les patineurs aime est grand
+0,1,le directeur que les patineurs aime est grand
+0,1,l' agriculteur que les patineurs aime est grand
+0,1,le chirurgien que les patineurs aime est grand
+0,1,le sénateur que les patineurs aime est grand
+0,1,le professeur que les patineurs aime est grand
+0,1,le client que les patineurs aime est grand
+0,1,l' officier que les patineurs aime est grand
+0,1,le pilote que les patineurs aime est grand
+0,1,le consultant que les patineurs aime est grand
+0,1,l' auteur que les parents aime est grand
+0,1,le directeur que les parents aime est grand
+0,1,l' agriculteur que les parents aime est grand
+0,1,le chirurgien que les parents aime est grand
+0,1,le chirurgien que les parents admire est grand
+0,1,le sénateur que les parents aime est grand
+0,1,le professeur que les parents aime est grand
+0,1,le professeur que les parents admire est grand
+0,1,le client que les parents aime est grand
+0,1,le client que les parents admire est grand
+0,1,l' officier que les parents aime est grand
+0,1,le pilote que les parents aime est grand
+0,1,le consultant que les parents aime est grand
+0,1,le consultant que les parents admire est grand
+1,0,l' auteur que le garde aime déménage
+1,0,l' auteur que le garde déteste déménage
+1,0,l' auteur que le garde admire déménage
+1,0,l' auteur que le garde évite déménage
+1,0,le directeur que le garde aime déménage
+1,0,le directeur que le garde déteste déménage
+1,0,le directeur que le garde admire déménage
+1,0,le directeur que le garde évite déménage
+1,0,l' agriculteur que le garde aime déménage
+1,0,l' agriculteur que le garde déteste déménage
+1,0,l' agriculteur que le garde admire déménage
+1,0,l' agriculteur que le garde évite déménage
+1,0,le chirurgien que le garde aime déménage
+1,0,le chirurgien que le garde déteste déménage
+1,0,le chirurgien que le garde admire déménage
+1,0,le chirurgien que le garde évite déménage
+1,0,le sénateur que le garde aime déménage
+1,0,le sénateur que le garde déteste déménage
+1,0,le sénateur que le garde admire déménage
+1,0,le sénateur que le garde évite déménage
+1,0,le professeur que le garde aime déménage
+1,0,le professeur que le garde déteste déménage
+1,0,le professeur que le garde admire déménage
+1,0,le professeur que le garde évite déménage
+1,0,le client que le garde aime déménage
+1,0,le client que le garde déteste déménage
+1,0,le client que le garde admire déménage
+1,0,le client que le garde évite déménage
+1,0,l' officier que le garde aime déménage
+1,0,l' officier que le garde déteste déménage
+1,0,l' officier que le garde admire déménage
+1,0,l' officier que le garde évite déménage
+1,0,le pilote que le garde aime déménage
+1,0,le pilote que le garde déteste déménage
+1,0,le pilote que le garde admire déménage
+1,0,le pilote que le garde évite déménage
+1,0,le consultant que le garde aime déménage
+1,0,le consultant que le garde déteste déménage
+1,0,le consultant que le garde admire déménage
+1,0,le consultant que le garde évite déménage
+1,0,l' auteur que le ministre aime déménage
+1,0,l' auteur que le ministre déteste déménage
+1,0,l' auteur que le ministre admire déménage
+1,0,l' auteur que le ministre évite déménage
+1,0,le directeur que le ministre aime déménage
+1,0,le directeur que le ministre déteste déménage
+1,0,le directeur que le ministre admire déménage
+1,0,le directeur que le ministre évite déménage
+1,0,l' agriculteur que le ministre aime déménage
+1,0,l' agriculteur que le ministre déteste déménage
+1,0,l' agriculteur que le ministre admire déménage
+1,0,l' agriculteur que le ministre évite déménage
+1,0,le chirurgien que le ministre aime déménage
+1,0,le chirurgien que le ministre déteste déménage
+1,0,le chirurgien que le ministre admire déménage
+1,0,le chirurgien que le ministre évite déménage
+1,0,le sénateur que le ministre aime déménage
+1,0,le sénateur que le ministre déteste déménage
+1,0,le sénateur que le ministre admire déménage
+1,0,le sénateur que le ministre évite déménage
+1,0,le professeur que le ministre aime déménage
+1,0,le professeur que le ministre déteste déménage
+1,0,le professeur que le ministre admire déménage
+1,0,le professeur que le ministre évite déménage
+1,0,le client que le ministre aime déménage
+1,0,le client que le ministre déteste déménage
+1,0,le client que le ministre admire déménage
+1,0,le client que le ministre évite déménage
+1,0,l' officier que le ministre aime déménage
+1,0,l' officier que le ministre déteste déménage
+1,0,l' officier que le ministre admire déménage
+1,0,l' officier que le ministre évite déménage
+1,0,le pilote que le ministre aime déménage
+1,0,le pilote que le ministre déteste déménage
+1,0,le pilote que le ministre admire déménage
+1,0,le pilote que le ministre évite déménage
+1,0,le consultant que le ministre aime déménage
+1,0,le consultant que le ministre déteste déménage
+1,0,le consultant que le ministre admire déménage
+1,0,le consultant que le ministre évite déménage
+1,0,l' auteur que le cadre aime déménage
+1,0,l' auteur que le cadre déteste déménage
+1,0,l' auteur que le cadre admire déménage
+1,0,l' auteur que le cadre évite déménage
+1,0,le directeur que le cadre aime déménage
+1,0,le directeur que le cadre déteste déménage
+1,0,le directeur que le cadre admire déménage
+1,0,le directeur que le cadre évite déménage
+1,0,l' agriculteur que le cadre aime déménage
+1,0,l' agriculteur que le cadre déteste déménage
+1,0,l' agriculteur que le cadre admire déménage
+1,0,l' agriculteur que le cadre évite déménage
+1,0,le chirurgien que le cadre aime déménage
+1,0,le chirurgien que le cadre déteste déménage
+1,0,le chirurgien que le cadre admire déménage
+1,0,le chirurgien que le cadre évite déménage
+1,0,le sénateur que le cadre aime déménage
+1,0,le sénateur que le cadre déteste déménage
+1,0,le sénateur que le cadre admire déménage
+1,0,le sénateur que le cadre évite déménage
+1,0,le professeur que le cadre aime déménage
+1,0,le professeur que le cadre déteste déménage
+1,0,le professeur que le cadre admire déménage
+1,0,le professeur que le cadre évite déménage
+1,0,le client que le cadre aime déménage
+1,0,le client que le cadre déteste déménage
+1,0,le client que le cadre admire déménage
+1,0,le client que le cadre évite déménage
+1,0,l' officier que le cadre aime déménage
+1,0,l' officier que le cadre déteste déménage
+1,0,l' officier que le cadre admire déménage
+1,0,l' officier que le cadre évite déménage
+1,0,le pilote que le cadre aime déménage
+1,0,le pilote que le cadre déteste déménage
+1,0,le pilote que le cadre admire déménage
+1,0,le pilote que le cadre évite déménage
+1,0,le consultant que le cadre aime déménage
+1,0,le consultant que le cadre déteste déménage
+1,0,le consultant que le cadre admire déménage
+1,0,le consultant que le cadre évite déménage
+1,0,l' auteur que l' adjoint aime déménage
+1,0,l' auteur que l' adjoint déteste déménage
+1,0,l' auteur que l' adjoint admire déménage
+1,0,l' auteur que l' adjoint évite déménage
+1,0,le directeur que l' adjoint aime déménage
+1,0,le directeur que l' adjoint déteste déménage
+1,0,le directeur que l' adjoint admire déménage
+1,0,le directeur que l' adjoint évite déménage
+1,0,l' agriculteur que l' adjoint aime déménage
+1,0,l' agriculteur que l' adjoint déteste déménage
+1,0,l' agriculteur que l' adjoint admire déménage
+1,0,l' agriculteur que l' adjoint évite déménage
+1,0,le chirurgien que l' adjoint aime déménage
+1,0,le chirurgien que l' adjoint déteste déménage
+1,0,le chirurgien que l' adjoint admire déménage
+1,0,le chirurgien que l' adjoint évite déménage
+1,0,le sénateur que l' adjoint aime déménage
+1,0,le sénateur que l' adjoint déteste déménage
+1,0,le sénateur que l' adjoint admire déménage
+1,0,le sénateur que l' adjoint évite déménage
+1,0,le professeur que l' adjoint aime déménage
+1,0,le professeur que l' adjoint déteste déménage
+1,0,le professeur que l' adjoint admire déménage
+1,0,le professeur que l' adjoint évite déménage
+1,0,le client que l' adjoint aime déménage
+1,0,le client que l' adjoint déteste déménage
+1,0,le client que l' adjoint admire déménage
+1,0,le client que l' adjoint évite déménage
+1,0,l' officier que l' adjoint aime déménage
+1,0,l' officier que l' adjoint déteste déménage
+1,0,l' officier que l' adjoint admire déménage
+1,0,l' officier que l' adjoint évite déménage
+1,0,le pilote que l' adjoint aime déménage
+1,0,le pilote que l' adjoint déteste déménage
+1,0,le pilote que l' adjoint admire déménage
+1,0,le pilote que l' adjoint évite déménage
+1,0,le consultant que l' adjoint aime déménage
+1,0,le consultant que l' adjoint déteste déménage
+1,0,le consultant que l' adjoint admire déménage
+1,0,le consultant que l' adjoint évite déménage
+1,0,l' auteur que le chauffeur de taxi aime déménage
+1,0,l' auteur que le chauffeur de taxi déteste déménage
+1,0,l' auteur que le chauffeur de taxi admire déménage
+1,0,l' auteur que le chauffeur de taxi évite déménage
+1,0,le directeur que le chauffeur de taxi aime déménage
+1,0,le directeur que le chauffeur de taxi déteste déménage
+1,0,le directeur que le chauffeur de taxi admire déménage
+1,0,le directeur que le chauffeur de taxi évite déménage
+1,0,l' agriculteur que le chauffeur de taxi aime déménage
+1,0,l' agriculteur que le chauffeur de taxi déteste déménage
+1,0,l' agriculteur que le chauffeur de taxi admire déménage
+1,0,l' agriculteur que le chauffeur de taxi évite déménage
+1,0,le chirurgien que le chauffeur de taxi aime déménage
+1,0,le chirurgien que le chauffeur de taxi déteste déménage
+1,0,le chirurgien que le chauffeur de taxi admire déménage
+1,0,le chirurgien que le chauffeur de taxi évite déménage
+1,0,le sénateur que le chauffeur de taxi aime déménage
+1,0,le sénateur que le chauffeur de taxi déteste déménage
+1,0,le sénateur que le chauffeur de taxi admire déménage
+1,0,le sénateur que le chauffeur de taxi évite déménage
+1,0,le professeur que le chauffeur de taxi aime déménage
+1,0,le professeur que le chauffeur de taxi déteste déménage
+1,0,le professeur que le chauffeur de taxi admire déménage
+1,0,le professeur que le chauffeur de taxi évite déménage
+1,0,le client que le chauffeur de taxi aime déménage
+1,0,le client que le chauffeur de taxi déteste déménage
+1,0,le client que le chauffeur de taxi admire déménage
+1,0,l' officier que le chauffeur de taxi aime déménage
+1,0,l' officier que le chauffeur de taxi déteste déménage
+1,0,l' officier que le chauffeur de taxi admire déménage
+1,0,l' officier que le chauffeur de taxi évite déménage
+1,0,le pilote que le chauffeur de taxi aime déménage
+1,0,le pilote que le chauffeur de taxi déteste déménage
+1,0,le pilote que le chauffeur de taxi admire déménage
+1,0,le pilote que le chauffeur de taxi évite déménage
+1,0,le consultant que le chauffeur de taxi aime déménage
+1,0,le consultant que le chauffeur de taxi déteste déménage
+1,0,le consultant que le chauffeur de taxi admire déménage
+1,0,le consultant que le chauffeur de taxi évite déménage
+1,0,l' auteur que le danseur aime déménage
+1,0,l' auteur que le danseur déteste déménage
+1,0,l' auteur que le danseur admire déménage
+1,0,l' auteur que le danseur évite déménage
+1,0,le directeur que le danseur aime déménage
+1,0,le directeur que le danseur déteste déménage
+1,0,le directeur que le danseur admire déménage
+1,0,le directeur que le danseur évite déménage
+1,0,l' agriculteur que le danseur aime déménage
+1,0,l' agriculteur que le danseur déteste déménage
+1,0,l' agriculteur que le danseur admire déménage
+1,0,l' agriculteur que le danseur évite déménage
+1,0,le chirurgien que le danseur aime déménage
+1,0,le chirurgien que le danseur déteste déménage
+1,0,le chirurgien que le danseur admire déménage
+1,0,le chirurgien que le danseur évite déménage
+1,0,le sénateur que le danseur aime déménage
+1,0,le sénateur que le danseur déteste déménage
+1,0,le sénateur que le danseur admire déménage
+1,0,le sénateur que le danseur évite déménage
+1,0,le professeur que le danseur aime déménage
+1,0,le professeur que le danseur déteste déménage
+1,0,le professeur que le danseur admire déménage
+1,0,le professeur que le danseur évite déménage
+1,0,le client que le danseur aime déménage
+1,0,le client que le danseur déteste déménage
+1,0,le client que le danseur admire déménage
+1,0,le client que le danseur évite déménage
+1,0,l' officier que le danseur aime déménage
+1,0,l' officier que le danseur déteste déménage
+1,0,l' officier que le danseur admire déménage
+1,0,l' officier que le danseur évite déménage
+1,0,le pilote que le danseur aime déménage
+1,0,le pilote que le danseur déteste déménage
+1,0,le pilote que le danseur admire déménage
+1,0,le pilote que le danseur évite déménage
+1,0,le consultant que le danseur aime déménage
+1,0,le consultant que le danseur déteste déménage
+1,0,le consultant que le danseur admire déménage
+1,0,le consultant que le danseur évite déménage
+1,0,l' auteur que l' architecte aime déménage
+1,0,l' auteur que l' architecte déteste déménage
+1,0,l' auteur que l' architecte admire déménage
+1,0,l' auteur que l' architecte évite déménage
+1,0,le directeur que l' architecte aime déménage
+1,0,le directeur que l' architecte déteste déménage
+1,0,le directeur que l' architecte admire déménage
+1,0,le directeur que l' architecte évite déménage
+1,0,l' agriculteur que l' architecte aime déménage
+1,0,l' agriculteur que l' architecte déteste déménage
+1,0,l' agriculteur que l' architecte admire déménage
+1,0,l' agriculteur que l' architecte évite déménage
+1,0,le chirurgien que l' architecte aime déménage
+1,0,le chirurgien que l' architecte déteste déménage
+1,0,le chirurgien que l' architecte admire déménage
+1,0,le chirurgien que l' architecte évite déménage
+1,0,le sénateur que l' architecte aime déménage
+1,0,le sénateur que l' architecte déteste déménage
+1,0,le sénateur que l' architecte admire déménage
+1,0,le sénateur que l' architecte évite déménage
+1,0,le professeur que l' architecte aime déménage
+1,0,le professeur que l' architecte déteste déménage
+1,0,le professeur que l' architecte admire déménage
+1,0,le professeur que l' architecte évite déménage
+1,0,le client que l' architecte aime déménage
+1,0,le client que l' architecte déteste déménage
+1,0,le client que l' architecte admire déménage
+1,0,le client que l' architecte évite déménage
+1,0,l' officier que l' architecte aime déménage
+1,0,l' officier que l' architecte déteste déménage
+1,0,l' officier que l' architecte admire déménage
+1,0,l' officier que l' architecte évite déménage
+1,0,le pilote que l' architecte aime déménage
+1,0,le pilote que l' architecte déteste déménage
+1,0,le pilote que l' architecte admire déménage
+1,0,le pilote que l' architecte évite déménage
+1,0,le consultant que l' architecte aime déménage
+1,0,le consultant que l' architecte déteste déménage
+1,0,le consultant que l' architecte admire déménage
+1,0,le consultant que l' architecte évite déménage
+1,0,l' auteur que le chef aime déménage
+1,0,l' auteur que le chef déteste déménage
+1,0,l' auteur que le chef admire déménage
+1,0,l' auteur que le chef évite déménage
+1,0,le directeur que le chef aime déménage
+1,0,le directeur que le chef déteste déménage
+1,0,le directeur que le chef admire déménage
+1,0,le directeur que le chef évite déménage
+1,0,l' agriculteur que le chef aime déménage
+1,0,l' agriculteur que le chef déteste déménage
+1,0,l' agriculteur que le chef admire déménage
+1,0,l' agriculteur que le chef évite déménage
+1,0,le chirurgien que le chef aime déménage
+1,0,le chirurgien que le chef déteste déménage
+1,0,le chirurgien que le chef admire déménage
+1,0,le chirurgien que le chef évite déménage
+1,0,le sénateur que le chef aime déménage
+1,0,le sénateur que le chef déteste déménage
+1,0,le sénateur que le chef admire déménage
+1,0,le sénateur que le chef évite déménage
+1,0,le professeur que le chef aime déménage
+1,0,le professeur que le chef déteste déménage
+1,0,le professeur que le chef admire déménage
+1,0,le professeur que le chef évite déménage
+1,0,le client que le chef aime déménage
+1,0,le client que le chef déteste déménage
+1,0,le client que le chef admire déménage
+1,0,le client que le chef évite déménage
+1,0,l' officier que le chef aime déménage
+1,0,l' officier que le chef déteste déménage
+1,0,l' officier que le chef admire déménage
+1,0,l' officier que le chef évite déménage
+1,0,le pilote que le chef aime déménage
+1,0,le pilote que le chef déteste déménage
+1,0,le pilote que le chef admire déménage
+1,0,le pilote que le chef évite déménage
+1,0,le consultant que le chef aime déménage
+1,0,le consultant que le chef déteste déménage
+1,0,le consultant que le chef admire déménage
+1,0,le consultant que le chef évite déménage
+1,0,l' auteur que le patineur aime déménage
+1,0,l' auteur que le patineur déteste déménage
+1,0,l' auteur que le patineur admire déménage
+1,0,l' auteur que le patineur évite déménage
+1,0,le directeur que le patineur aime déménage
+1,0,le directeur que le patineur déteste déménage
+1,0,le directeur que le patineur admire déménage
+1,0,le directeur que le patineur évite déménage
+1,0,l' agriculteur que le patineur aime déménage
+1,0,l' agriculteur que le patineur déteste déménage
+1,0,l' agriculteur que le patineur admire déménage
+1,0,l' agriculteur que le patineur évite déménage
+1,0,le chirurgien que le patineur aime déménage
+1,0,le chirurgien que le patineur déteste déménage
+1,0,le chirurgien que le patineur admire déménage
+1,0,le chirurgien que le patineur évite déménage
+1,0,le sénateur que le patineur aime déménage
+1,0,le sénateur que le patineur déteste déménage
+1,0,le sénateur que le patineur admire déménage
+1,0,le sénateur que le patineur évite déménage
+1,0,le professeur que le patineur aime déménage
+1,0,le professeur que le patineur déteste déménage
+1,0,le professeur que le patineur admire déménage
+1,0,le professeur que le patineur évite déménage
+1,0,le client que le patineur aime déménage
+1,0,le client que le patineur déteste déménage
+1,0,le client que le patineur admire déménage
+1,0,le client que le patineur évite déménage
+1,0,l' officier que le patineur aime déménage
+1,0,l' officier que le patineur déteste déménage
+1,0,l' officier que le patineur admire déménage
+1,0,l' officier que le patineur évite déménage
+1,0,le pilote que le patineur aime déménage
+1,0,le pilote que le patineur déteste déménage
+1,0,le pilote que le patineur admire déménage
+1,0,le pilote que le patineur évite déménage
+1,0,le consultant que le patineur aime déménage
+1,0,le consultant que le patineur déteste déménage
+1,0,le consultant que le patineur admire déménage
+1,0,le consultant que le patineur évite déménage
+1,0,l' auteur que le parent aime déménage
+1,0,l' auteur que le parent déteste déménage
+1,0,l' auteur que le parent admire déménage
+1,0,l' auteur que le parent évite déménage
+1,0,le directeur que le parent aime déménage
+1,0,le directeur que le parent déteste déménage
+1,0,le directeur que le parent admire déménage
+1,0,le directeur que le parent évite déménage
+1,0,l' agriculteur que le parent aime déménage
+1,0,l' agriculteur que le parent déteste déménage
+1,0,l' agriculteur que le parent admire déménage
+1,0,l' agriculteur que le parent évite déménage
+1,0,le chirurgien que le parent aime déménage
+1,0,le chirurgien que le parent déteste déménage
+1,0,le chirurgien que le parent admire déménage
+1,0,le chirurgien que le parent évite déménage
+1,0,le sénateur que le parent aime déménage
+1,0,le sénateur que le parent déteste déménage
+1,0,le sénateur que le parent admire déménage
+1,0,le sénateur que le parent évite déménage
+1,0,le professeur que le parent aime déménage
+1,0,le professeur que le parent déteste déménage
+1,0,le professeur que le parent admire déménage
+1,0,le professeur que le parent évite déménage
+1,0,le client que le parent aime déménage
+1,0,le client que le parent déteste déménage
+1,0,le client que le parent admire déménage
+1,0,le client que le parent évite déménage
+1,0,l' officier que le parent aime déménage
+1,0,l' officier que le parent déteste déménage
+1,0,l' officier que le parent admire déménage
+1,0,l' officier que le parent évite déménage
+1,0,le pilote que le parent aime déménage
+1,0,le pilote que le parent déteste déménage
+1,0,le pilote que le parent admire déménage
+1,0,le pilote que le parent évite déménage
+1,0,le consultant que le parent aime déménage
+1,0,le consultant que le parent déteste déménage
+1,0,le consultant que le parent admire déménage
+1,0,le consultant que le parent évite déménage
+1,0,l' auteur que le garde admire parle
+1,0,le directeur que le garde aime parle
+1,0,le directeur que le garde admire parle
+1,0,l' agriculteur que le garde admire parle
+1,0,le chirurgien que le garde admire parle
+1,0,le sénateur que le garde aime parle
+1,0,le sénateur que le garde admire parle
+1,0,le professeur que le garde aime parle
+1,0,le professeur que le garde admire parle
+1,0,le client que le garde aime parle
+1,0,le client que le garde admire parle
+1,0,le pilote que le garde déteste parle
+1,0,le pilote que le garde admire parle
+1,0,le consultant que le garde aime parle
+1,0,le consultant que le garde déteste parle
+1,0,le consultant que le garde admire parle
+1,0,le directeur que le ministre aime parle
+1,0,le directeur que le ministre admire parle
+1,0,l' agriculteur que le ministre admire parle
+1,0,le chirurgien que le ministre admire parle
+1,0,le sénateur que le ministre admire parle
+1,0,le professeur que le ministre aime parle
+1,0,le professeur que le ministre admire parle
+1,0,le client que le ministre admire parle
+1,0,le consultant que le ministre admire parle
+1,0,le directeur que le cadre aime parle
+1,0,le directeur que le cadre admire parle
+1,0,l' agriculteur que le cadre admire parle
+1,0,le sénateur que le cadre aime parle
+1,0,le sénateur que le cadre admire parle
+1,0,le professeur que le cadre aime parle
+1,0,le professeur que le cadre admire parle
+1,0,le client que le cadre admire parle
+1,0,le pilote que le cadre admire parle
+1,0,le consultant que le cadre aime parle
+1,0,le consultant que le cadre admire parle
+1,0,l' agriculteur que l' adjoint admire parle
+1,0,le chirurgien que l' adjoint déteste parle
+1,0,le chirurgien que l' adjoint admire parle
+1,0,le sénateur que l' adjoint admire parle
+1,0,le client que l' adjoint déteste parle
+1,0,le client que l' adjoint admire parle
+1,0,l' officier que l' adjoint admire parle
+1,0,le pilote que l' adjoint déteste parle
+1,0,le pilote que l' adjoint admire parle
+1,0,le consultant que l' adjoint déteste parle
+1,0,le consultant que l' adjoint admire parle
+1,0,l' auteur que le chauffeur de taxi admire parle
+1,0,l' agriculteur que le chauffeur de taxi admire parle
+1,0,le chirurgien que le chauffeur de taxi admire parle
+1,0,le sénateur que le chauffeur de taxi aime parle
+1,0,le sénateur que le chauffeur de taxi admire parle
+1,0,le client que le chauffeur de taxi admire parle
+1,0,l' officier que le chauffeur de taxi admire parle
+1,0,le pilote que le chauffeur de taxi admire parle
+1,0,le consultant que le chauffeur de taxi admire parle
+1,0,l' auteur que le danseur admire parle
+1,0,le directeur que le danseur aime parle
+1,0,le directeur que le danseur déteste parle
+1,0,le directeur que le danseur admire parle
+1,0,l' agriculteur que le danseur admire parle
+1,0,le chirurgien que le danseur déteste parle
+1,0,le chirurgien que le danseur admire parle
+1,0,le sénateur que le danseur aime parle
+1,0,le sénateur que le danseur déteste parle
+1,0,le sénateur que le danseur admire parle
+1,0,le professeur que le danseur aime parle
+1,0,le professeur que le danseur admire parle
+1,0,le client que le danseur aime parle
+1,0,le client que le danseur admire parle
+1,0,l' officier que le danseur admire parle
+1,0,le pilote que le danseur aime parle
+1,0,le pilote que le danseur déteste parle
+1,0,le pilote que le danseur admire parle
+1,0,le consultant que le danseur aime parle
+1,0,le consultant que le danseur déteste parle
+1,0,le consultant que le danseur admire parle
+1,0,l' agriculteur que l' architecte admire parle
+1,0,l' officier que l' architecte admire parle
+1,0,le directeur que le chef aime parle
+1,0,le directeur que le chef admire parle
+1,0,l' agriculteur que le chef admire parle
+1,0,le chirurgien que le chef admire parle
+1,0,le sénateur que le chef aime parle
+1,0,le sénateur que le chef déteste parle
+1,0,le sénateur que le chef admire parle
+1,0,le professeur que le chef aime parle
+1,0,le professeur que le chef admire parle
+1,0,le client que le chef aime parle
+1,0,le client que le chef admire parle
+1,0,le pilote que le chef déteste parle
+1,0,le pilote que le chef admire parle
+1,0,le consultant que le chef aime parle
+1,0,le consultant que le chef déteste parle
+1,0,le consultant que le chef admire parle
+1,0,l' auteur que le patineur admire parle
+1,0,le directeur que le patineur aime parle
+1,0,le directeur que le patineur admire parle
+1,0,l' agriculteur que le patineur déteste parle
+1,0,l' agriculteur que le patineur admire parle
+1,0,le chirurgien que le patineur déteste parle
+1,0,le chirurgien que le patineur admire parle
+1,0,le sénateur que le patineur aime parle
+1,0,le sénateur que le patineur déteste parle
+1,0,le sénateur que le patineur admire parle
+1,0,le professeur que le patineur aime parle
+1,0,le professeur que le patineur admire parle
+1,0,le client que le patineur admire parle
+1,0,l' officier que le patineur admire parle
+1,0,le pilote que le patineur déteste parle
+1,0,le pilote que le patineur admire parle
+1,0,le consultant que le patineur admire parle
+1,0,l' auteur que le parent admire parle
+1,0,le directeur que le parent aime parle
+1,0,le directeur que le parent admire parle
+1,0,l' agriculteur que le parent déteste parle
+1,0,l' agriculteur que le parent admire parle
+1,0,le chirurgien que le parent admire parle
+1,0,le sénateur que le parent aime parle
+1,0,le sénateur que le parent déteste parle
+1,0,le sénateur que le parent admire parle
+1,0,le professeur que le parent aime parle
+1,0,le professeur que le parent admire parle
+1,0,le client que le parent déteste parle
+1,0,le client que le parent admire parle
+1,0,l' officier que le parent admire parle
+1,0,le pilote que le parent déteste parle
+1,0,le pilote que le parent admire parle
+1,0,le consultant que le parent aime parle
+1,0,le consultant que le parent déteste parle
+1,0,le consultant que le parent admire parle
+1,0,le directeur que le garde aime retourne
+1,0,le directeur que le garde déteste retourne
+1,0,le sénateur que le garde aime retourne
+1,0,le sénateur que le garde déteste retourne
+1,0,le sénateur que le garde admire retourne
+1,0,le client que le garde déteste retourne
+1,0,le pilote que le garde déteste retourne
+1,0,le consultant que le garde aime retourne
+1,0,le consultant que le garde déteste retourne
+1,0,le directeur que le ministre déteste retourne
+1,0,l' agriculteur que le ministre déteste retourne
+1,0,le chirurgien que le ministre déteste retourne
+1,0,le sénateur que le ministre déteste retourne
+1,0,le sénateur que le ministre admire retourne
+1,0,le sénateur que le ministre évite retourne
+1,0,le client que le ministre déteste retourne
+1,0,le pilote que le ministre déteste retourne
+1,0,le consultant que le ministre déteste retourne
+1,0,l' agriculteur que le cadre déteste retourne
+1,0,le sénateur que le cadre déteste retourne
+1,0,le sénateur que le cadre admire retourne
+1,0,le sénateur que le cadre évite retourne
+1,0,le client que le cadre déteste retourne
+1,0,le pilote que le cadre déteste retourne
+1,0,le consultant que le cadre déteste retourne
+0,1,l' agriculteur que l' adjoint aiment retourne
+1,0,l' agriculteur que l' adjoint déteste retourne
+1,0,le chirurgien que l' adjoint déteste retourne
+1,0,le sénateur que l' adjoint déteste retourne
+1,0,le client que l' adjoint déteste retourne
+1,0,le pilote que l' adjoint déteste retourne
+1,0,le consultant que l' adjoint déteste retourne
+1,0,l' auteur que le chauffeur de taxi déteste retourne
+1,0,le directeur que le chauffeur de taxi déteste retourne
+1,0,l' agriculteur que le chauffeur de taxi déteste retourne
+1,0,le chirurgien que le chauffeur de taxi déteste retourne
+1,0,le sénateur que le chauffeur de taxi déteste retourne
+1,0,le sénateur que le chauffeur de taxi admire retourne
+1,0,le sénateur que le chauffeur de taxi évite retourne
+1,0,le client que le chauffeur de taxi déteste retourne
+1,0,le pilote que le chauffeur de taxi déteste retourne
+1,0,le consultant que le chauffeur de taxi déteste retourne
+1,0,le consultant que le chauffeur de taxi admire retourne
+1,0,l' auteur que le danseur déteste retourne
+1,0,le directeur que le danseur déteste retourne
+1,0,le directeur que le danseur admire retourne
+1,0,l' agriculteur que le danseur déteste retourne
+1,0,l' agriculteur que le danseur admire retourne
+1,0,le chirurgien que le danseur déteste retourne
+1,0,le chirurgien que le danseur admire retourne
+1,0,le sénateur que le danseur aime retourne
+1,0,le sénateur que le danseur déteste retourne
+1,0,le sénateur que le danseur admire retourne
+1,0,le sénateur que le danseur évite retourne
+1,0,le professeur que le danseur déteste retourne
+1,0,le client que le danseur déteste retourne
+1,0,le client que le danseur admire retourne
+1,0,le pilote que le danseur déteste retourne
+1,0,le pilote que le danseur admire retourne
+1,0,le pilote que le danseur évite retourne
+1,0,le consultant que le danseur déteste retourne
+1,0,le consultant que le danseur admire retourne
+1,0,l' agriculteur que l' architecte déteste retourne
+1,0,le sénateur que l' architecte déteste retourne
+1,0,le directeur que le chef déteste retourne
+1,0,l' agriculteur que le chef déteste retourne
+1,0,le chirurgien que le chef déteste retourne
+1,0,le sénateur que le chef déteste retourne
+1,0,le sénateur que le chef admire retourne
+1,0,le sénateur que le chef évite retourne
+1,0,le professeur que le chef aime retourne
+1,0,le client que le chef déteste retourne
+1,0,le pilote que le chef déteste retourne
+1,0,le consultant que le chef déteste retourne
+1,0,le directeur que le patineur aime retourne
+1,0,le directeur que le patineur déteste retourne
+1,0,l' agriculteur que le patineur déteste retourne
+1,0,le chirurgien que le patineur déteste retourne
+1,0,le sénateur que le patineur aime retourne
+1,0,le sénateur que le patineur déteste retourne
+1,0,le sénateur que le patineur admire retourne
+1,0,le sénateur que le patineur évite retourne
+1,0,le client que le patineur déteste retourne
+1,0,le pilote que le patineur déteste retourne
+1,0,le consultant que le patineur déteste retourne
+1,0,le directeur que le parent déteste retourne
+1,0,l' agriculteur que le parent déteste retourne
+1,0,le chirurgien que le parent admire retourne
+1,0,le sénateur que le parent déteste retourne
+1,0,le sénateur que le parent admire retourne
+1,0,le sénateur que le parent évite retourne
+1,0,le client que le parent déteste retourne
+1,0,le client que le parent admire retourne
+1,0,le pilote que le parent déteste retourne
+1,0,le consultant que le parent déteste retourne
+1,0,le consultant que le parent admire retourne
+1,0,le directeur que le garde aime est vieux
+1,0,le chirurgien que le garde aime est vieux
+1,0,le chirurgien que le garde admire est vieux
+1,0,le sénateur que le garde aime est vieux
+1,0,le sénateur que le garde admire est vieux
+1,0,le professeur que le garde aime est vieux
+1,0,le professeur que le garde admire est vieux
+1,0,le client que le garde aime est vieux
+1,0,le client que le garde admire est vieux
+1,0,le pilote que le garde aime est vieux
+1,0,le pilote que le garde admire est vieux
+1,0,le consultant que le garde aime est vieux
+1,0,le consultant que le garde admire est vieux
+1,0,le directeur que le ministre aime est vieux
+1,0,le professeur que le ministre aime est vieux
+1,0,le professeur que le ministre admire est vieux
+1,0,le consultant que le ministre aime est vieux
+1,0,le directeur que le cadre aime est vieux
+1,0,le professeur que le cadre aime est vieux
+1,0,le consultant que le cadre aime est vieux
+1,0,l' auteur que l' adjoint admire est vieux
+1,0,l' agriculteur que l' adjoint admire est vieux
+1,0,le chirurgien que l' adjoint admire est vieux
+1,0,le sénateur que l' adjoint admire est vieux
+1,0,le client que l' adjoint admire est vieux
+1,0,l' officier que l' adjoint admire est vieux
+1,0,le pilote que l' adjoint admire est vieux
+1,0,le consultant que l' adjoint admire est vieux
+1,0,l' auteur que le chauffeur de taxi admire est vieux
+1,0,le directeur que le chauffeur de taxi admire est vieux
+1,0,le chirurgien que le chauffeur de taxi admire est vieux
+1,0,le sénateur que le chauffeur de taxi admire est vieux
+1,0,le professeur que le chauffeur de taxi admire est vieux
+1,0,le client que le chauffeur de taxi admire est vieux
+1,0,le pilote que le chauffeur de taxi admire est vieux
+1,0,le consultant que le chauffeur de taxi admire est vieux
+1,0,le directeur que le danseur aime est vieux
+1,0,le professeur que le danseur aime est vieux
+1,0,le client que le danseur aime est vieux
+1,0,le consultant que le danseur aime est vieux
+1,0,l' agriculteur que l' architecte admire est vieux
+1,0,l' officier que l' architecte admire est vieux
+1,0,le directeur que le chef aime est vieux
+1,0,le chirurgien que le chef aime est vieux
+1,0,le sénateur que le chef aime est vieux
+1,0,le professeur que le chef aime est vieux
+1,0,le client que le chef aime est vieux
+1,0,le pilote que le chef aime est vieux
+1,0,le consultant que le chef aime est vieux
+1,0,le directeur que le patineur aime est vieux
+1,0,le professeur que le patineur aime est vieux
+1,0,le consultant que le patineur aime est vieux
+1,0,le chirurgien que le parent admire est vieux
+1,0,le professeur que le parent admire est vieux
+1,0,le client que le parent admire est vieux
+1,0,le consultant que le parent admire est vieux
+1,0,l' auteur que le garde admire est petit
+1,0,le directeur que le garde aime est petit
+1,0,le directeur que le garde admire est petit
+1,0,l' agriculteur que le garde admire est petit
+1,0,le chirurgien que le garde aime est petit
+1,0,le chirurgien que le garde déteste est petit
+1,0,le chirurgien que le garde admire est petit
+1,0,le sénateur que le garde aime est petit
+1,0,le sénateur que le garde admire est petit
+1,0,le professeur que le garde aime est petit
+1,0,le professeur que le garde admire est petit
+1,0,le client que le garde aime est petit
+1,0,le client que le garde admire est petit
+1,0,l' officier que le garde admire est petit
+1,0,le pilote que le garde aime est petit
+1,0,le pilote que le garde déteste est petit
+1,0,le pilote que le garde admire est petit
+1,0,le consultant que le garde aime est petit
+1,0,le consultant que le garde admire est petit
+1,0,l' auteur que le ministre admire est petit
+1,0,le directeur que le ministre aime est petit
+1,0,le directeur que le ministre admire est petit
+1,0,l' agriculteur que le ministre admire est petit
+1,0,le chirurgien que le ministre déteste est petit
+1,0,le chirurgien que le ministre admire est petit
+1,0,le sénateur que le ministre aime est petit
+1,0,le sénateur que le ministre admire est petit
+1,0,le professeur que le ministre aime est petit
+1,0,le professeur que le ministre admire est petit
+1,0,le client que le ministre aime est petit
+1,0,le client que le ministre admire est petit
+1,0,l' officier que le ministre admire est petit
+1,0,le pilote que le ministre admire est petit
+1,0,le consultant que le ministre aime est petit
+1,0,le consultant que le ministre admire est petit
+1,0,le directeur que le cadre aime est petit
+1,0,le directeur que le cadre admire est petit
+1,0,l' agriculteur que le cadre admire est petit
+1,0,le chirurgien que le cadre admire est petit
+1,0,le sénateur que le cadre admire est petit
+1,0,le professeur que le cadre aime est petit
+1,0,le client que le cadre admire est petit
+1,0,l' officier que le cadre admire est petit
+1,0,le pilote que le cadre admire est petit
+1,0,le consultant que le cadre admire est petit
+1,0,l' auteur que l' adjoint déteste est petit
+1,0,l' auteur que l' adjoint admire est petit
+1,0,le directeur que l' adjoint déteste est petit
+1,0,le directeur que l' adjoint admire est petit
+1,0,l' agriculteur que l' adjoint déteste est petit
+1,0,l' agriculteur que l' adjoint admire est petit
+1,0,le chirurgien que l' adjoint déteste est petit
+1,0,le chirurgien que l' adjoint admire est petit
+1,0,le sénateur que l' adjoint déteste est petit
+1,0,le sénateur que l' adjoint admire est petit
+1,0,le professeur que l' adjoint admire est petit
+1,0,le client que l' adjoint déteste est petit
+1,0,le client que l' adjoint admire est petit
+1,0,l' officier que l' adjoint déteste est petit
+1,0,l' officier que l' adjoint admire est petit
+1,0,le pilote que l' adjoint déteste est petit
+1,0,le pilote que l' adjoint admire est petit
+1,0,le consultant que l' adjoint déteste est petit
+1,0,le consultant que l' adjoint admire est petit
+1,0,le consultant que l' adjoint évite est petit
+1,0,l' auteur que le chauffeur de taxi admire est petit
+1,0,le directeur que le chauffeur de taxi admire est petit
+1,0,l' agriculteur que le chauffeur de taxi admire est petit
+1,0,le chirurgien que le chauffeur de taxi admire est petit
+1,0,le sénateur que le chauffeur de taxi admire est petit
+1,0,le professeur que le chauffeur de taxi admire est petit
+1,0,le client que le chauffeur de taxi admire est petit
+1,0,l' officier que le chauffeur de taxi admire est petit
+1,0,le pilote que le chauffeur de taxi admire est petit
+1,0,le consultant que le chauffeur de taxi admire est petit
+1,0,le directeur que le danseur aime est petit
+1,0,le directeur que le danseur admire est petit
+1,0,le chirurgien que le danseur admire est petit
+1,0,le sénateur que le danseur admire est petit
+1,0,le professeur que le danseur aime est petit
+1,0,le professeur que le danseur admire est petit
+1,0,le client que le danseur aime est petit
+1,0,le client que le danseur admire est petit
+1,0,le pilote que le danseur admire est petit
+1,0,le consultant que le danseur aime est petit
+1,0,le consultant que le danseur admire est petit
+1,0,l' auteur que l' architecte déteste est petit
+1,0,l' auteur que l' architecte admire est petit
+1,0,l' agriculteur que l' architecte admire est petit
+1,0,le chirurgien que l' architecte déteste est petit
+1,0,le chirurgien que l' architecte admire est petit
+1,0,le sénateur que l' architecte admire est petit
+1,0,le client que l' architecte admire est petit
+1,0,l' officier que l' architecte déteste est petit
+1,0,l' officier que l' architecte admire est petit
+1,0,le pilote que l' architecte admire est petit
+1,0,le consultant que l' architecte admire est petit
+1,0,l' auteur que le chef admire est petit
+1,0,le directeur que le chef aime est petit
+1,0,le directeur que le chef admire est petit
+1,0,l' agriculteur que le chef admire est petit
+1,0,le chirurgien que le chef aime est petit
+1,0,le chirurgien que le chef admire est petit
+1,0,le sénateur que le chef aime est petit
+1,0,le sénateur que le chef admire est petit
+1,0,le professeur que le chef aime est petit
+1,0,le professeur que le chef admire est petit
+1,0,le client que le chef aime est petit
+1,0,le client que le chef admire est petit
+1,0,l' officier que le chef admire est petit
+1,0,le pilote que le chef aime est petit
+1,0,le pilote que le chef admire est petit
+1,0,le consultant que le chef aime est petit
+1,0,le consultant que le chef admire est petit
+1,0,l' auteur que le patineur admire est petit
+1,0,le directeur que le patineur aime est petit
+1,0,le directeur que le patineur admire est petit
+1,0,l' agriculteur que le patineur admire est petit
+1,0,le chirurgien que le patineur admire est petit
+1,0,le sénateur que le patineur admire est petit
+1,0,le professeur que le patineur aime est petit
+1,0,le professeur que le patineur admire est petit
+1,0,le client que le patineur admire est petit
+1,0,l' officier que le patineur admire est petit
+1,0,le pilote que le patineur admire est petit
+1,0,le consultant que le patineur aime est petit
+1,0,le consultant que le patineur admire est petit
+1,0,l' auteur que le parent admire est petit
+1,0,le directeur que le parent admire est petit
+1,0,l' agriculteur que le parent admire est petit
+1,0,le chirurgien que le parent admire est petit
+1,0,le sénateur que le parent admire est petit
+1,0,le professeur que le parent admire est petit
+1,0,le client que le parent admire est petit
+1,0,l' officier que le parent admire est petit
+1,0,le pilote que le parent admire est petit
+1,0,le consultant que le parent admire est petit
+1,0,le directeur que le garde aime est jeune
+1,0,le chirurgien que le garde aime est jeune
+1,0,le chirurgien que le garde admire est jeune
+1,0,le sénateur que le garde aime est jeune
+1,0,le sénateur que le garde admire est jeune
+1,0,le professeur que le garde aime est jeune
+1,0,le professeur que le garde admire est jeune
+1,0,le client que le garde aime est jeune
+1,0,le client que le garde admire est jeune
+1,0,le pilote que le garde aime est jeune
+1,0,le pilote que le garde admire est jeune
+1,0,le consultant que le garde aime est jeune
+1,0,le consultant que le garde admire est jeune
+1,0,le directeur que le ministre aime est jeune
+1,0,le directeur que le ministre admire est jeune
+1,0,le chirurgien que le ministre admire est jeune
+1,0,le sénateur que le ministre aime est jeune
+1,0,le sénateur que le ministre admire est jeune
+1,0,le professeur que le ministre aime est jeune
+1,0,le professeur que le ministre admire est jeune
+1,0,le client que le ministre aime est jeune
+1,0,le client que le ministre admire est jeune
+1,0,le consultant que le ministre aime est jeune
+1,0,le consultant que le ministre admire est jeune
+1,0,le directeur que le cadre aime est jeune
+1,0,le professeur que le cadre aime est jeune
+1,0,le consultant que le cadre aime est jeune
+1,0,l' auteur que l' adjoint admire est jeune
+1,0,l' agriculteur que l' adjoint admire est jeune
+1,0,le chirurgien que l' adjoint admire est jeune
+1,0,le sénateur que l' adjoint admire est jeune
+1,0,le client que l' adjoint admire est jeune
+1,0,l' officier que l' adjoint admire est jeune
+1,0,le pilote que l' adjoint admire est jeune
+1,0,le consultant que l' adjoint admire est jeune
+1,0,l' auteur que le chauffeur de taxi admire est jeune
+1,0,le directeur que le chauffeur de taxi aime est jeune
+1,0,le directeur que le chauffeur de taxi admire est jeune
+1,0,le chirurgien que le chauffeur de taxi admire est jeune
+1,0,le sénateur que le chauffeur de taxi admire est jeune
+1,0,le professeur que le chauffeur de taxi aime est jeune
+1,0,le professeur que le chauffeur de taxi admire est jeune
+1,0,le client que le chauffeur de taxi admire est jeune
+1,0,le pilote que le chauffeur de taxi admire est jeune
+1,0,le consultant que le chauffeur de taxi admire est jeune
+1,0,le directeur que le danseur aime est jeune
+1,0,le sénateur que le danseur aime est jeune
+1,0,le sénateur que le danseur admire est jeune
+1,0,le professeur que le danseur aime est jeune
+1,0,le client que le danseur aime est jeune
+1,0,le client que le danseur admire est jeune
+1,0,le consultant que le danseur aime est jeune
+1,0,le consultant que le danseur admire est jeune
+1,0,l' officier que l' architecte admire est jeune
+1,0,le directeur que le chef aime est jeune
+1,0,le chirurgien que le chef aime est jeune
+1,0,le chirurgien que le chef admire est jeune
+1,0,le sénateur que le chef aime est jeune
+1,0,le sénateur que le chef admire est jeune
+1,0,le professeur que le chef aime est jeune
+1,0,le professeur que le chef admire est jeune
+1,0,le client que le chef aime est jeune
+1,0,le client que le chef admire est jeune
+1,0,le pilote que le chef aime est jeune
+1,0,le consultant que le chef aime est jeune
+1,0,le consultant que le chef admire est jeune
+1,0,le directeur que le patineur aime est jeune
+1,0,le chirurgien que le patineur admire est jeune
+1,0,le sénateur que le patineur admire est jeune
+1,0,le professeur que le patineur aime est jeune
+1,0,le client que le patineur aime est jeune
+1,0,le client que le patineur admire est jeune
+1,0,le consultant que le patineur aime est jeune
+1,0,le consultant que le patineur admire est jeune
+1,0,le directeur que le parent admire est jeune
+1,0,le chirurgien que le parent admire est jeune
+1,0,le sénateur que le parent admire est jeune
+1,0,le professeur que le parent admire est jeune
+1,0,le client que le parent admire est jeune
+1,0,le pilote que le parent admire est jeune
+1,0,le consultant que le parent admire est jeune
+1,0,l' auteur que le garde aime est grand
+1,0,l' auteur que le garde admire est grand
+1,0,le directeur que le garde aime est grand
+1,0,le directeur que le garde admire est grand
+1,0,l' agriculteur que le garde admire est grand
+1,0,le chirurgien que le garde aime est grand
+1,0,le chirurgien que le garde déteste est grand
+1,0,le chirurgien que le garde admire est grand
+1,0,le sénateur que le garde aime est grand
+1,0,le sénateur que le garde déteste est grand
+1,0,le sénateur que le garde admire est grand
+1,0,le professeur que le garde aime est grand
+1,0,le professeur que le garde admire est grand
+1,0,le client que le garde aime est grand
+1,0,le client que le garde déteste est grand
+1,0,le client que le garde admire est grand
+1,0,le client que le garde évite est grand
+1,0,l' officier que le garde admire est grand
+1,0,le pilote que le garde aime est grand
+1,0,le pilote que le garde déteste est grand
+1,0,le pilote que le garde admire est grand
+1,0,le consultant que le garde aime est grand
+1,0,le consultant que le garde déteste est grand
+1,0,le consultant que le garde admire est grand
+1,0,le consultant que le garde évite est grand
+1,0,l' auteur que le ministre admire est grand
+1,0,le directeur que le ministre aime est grand
+1,0,le directeur que le ministre admire est grand
+1,0,l' agriculteur que le ministre admire est grand
+1,0,le chirurgien que le ministre aime est grand
+1,0,le chirurgien que le ministre déteste est grand
+1,0,le chirurgien que le ministre admire est grand
+1,0,le sénateur que le ministre aime est grand
+1,0,le sénateur que le ministre admire est grand
+1,0,le professeur que le ministre aime est grand
+1,0,le professeur que le ministre admire est grand
+1,0,le client que le ministre aime est grand
+1,0,le client que le ministre déteste est grand
+1,0,le client que le ministre admire est grand
+1,0,l' officier que le ministre admire est grand
+1,0,le pilote que le ministre déteste est grand
+1,0,le pilote que le ministre admire est grand
+1,0,le consultant que le ministre aime est grand
+1,0,le consultant que le ministre déteste est grand
+1,0,le consultant que le ministre admire est grand
+1,0,l' auteur que le cadre admire est grand
+1,0,le directeur que le cadre aime est grand
+1,0,le directeur que le cadre admire est grand
+1,0,l' agriculteur que le cadre admire est grand
+1,0,le chirurgien que le cadre aime est grand
+1,0,le chirurgien que le cadre admire est grand
+1,0,le sénateur que le cadre aime est grand
+1,0,le sénateur que le cadre admire est grand
+1,0,le professeur que le cadre aime est grand
+1,0,le professeur que le cadre admire est grand
+1,0,le client que le cadre aime est grand
+1,0,le client que le cadre admire est grand
+1,0,l' officier que le cadre admire est grand
+1,0,le pilote que le cadre admire est grand
+1,0,le consultant que le cadre aime est grand
+1,0,le consultant que le cadre admire est grand
+1,0,l' auteur que l' adjoint déteste est grand
+1,0,l' auteur que l' adjoint admire est grand
+1,0,le directeur que l' adjoint déteste est grand
+1,0,le directeur que l' adjoint admire est grand
+1,0,l' agriculteur que l' adjoint déteste est grand
+1,0,l' agriculteur que l' adjoint admire est grand
+1,0,le chirurgien que l' adjoint déteste est grand
+1,0,le chirurgien que l' adjoint admire est grand
+1,0,le sénateur que l' adjoint aime est grand
+1,0,le sénateur que l' adjoint déteste est grand
+1,0,le sénateur que l' adjoint admire est grand
+1,0,le professeur que l' adjoint déteste est grand
+1,0,le professeur que l' adjoint admire est grand
+1,0,le client que l' adjoint déteste est grand
+1,0,le client que l' adjoint admire est grand
+1,0,le client que l' adjoint évite est grand
+1,0,l' officier que l' adjoint déteste est grand
+1,0,l' officier que l' adjoint admire est grand
+1,0,le pilote que l' adjoint déteste est grand
+1,0,le pilote que l' adjoint admire est grand
+1,0,le consultant que l' adjoint déteste est grand
+1,0,le consultant que l' adjoint admire est grand
+1,0,le consultant que l' adjoint évite est grand
+1,0,l' auteur que le chauffeur de taxi admire est grand
+1,0,le directeur que le chauffeur de taxi aime est grand
+1,0,le directeur que le chauffeur de taxi admire est grand
+1,0,l' agriculteur que le chauffeur de taxi admire est grand
+1,0,le chirurgien que le chauffeur de taxi aime est grand
+1,0,le chirurgien que le chauffeur de taxi déteste est grand
+1,0,le chirurgien que le chauffeur de taxi admire est grand
+1,0,le sénateur que le chauffeur de taxi aime est grand
+1,0,le sénateur que le chauffeur de taxi admire est grand
+1,0,le professeur que le chauffeur de taxi aime est grand
+1,0,le professeur que le chauffeur de taxi admire est grand
+1,0,le client que le chauffeur de taxi admire est grand
+1,0,l' officier que le chauffeur de taxi admire est grand
+1,0,le pilote que le chauffeur de taxi déteste est grand
+1,0,le pilote que le chauffeur de taxi admire est grand
+1,0,le consultant que le chauffeur de taxi aime est grand
+1,0,le consultant que le chauffeur de taxi déteste est grand
+1,0,le consultant que le chauffeur de taxi admire est grand
+1,0,l' auteur que le danseur admire est grand
+1,0,le directeur que le danseur aime est grand
+1,0,le directeur que le danseur admire est grand
+1,0,l' agriculteur que le danseur admire est grand
+1,0,le chirurgien que le danseur aime est grand
+1,0,le chirurgien que le danseur admire est grand
+1,0,le sénateur que le danseur aime est grand
+1,0,le sénateur que le danseur admire est grand
+1,0,le professeur que le danseur aime est grand
+1,0,le professeur que le danseur admire est grand
+1,0,le client que le danseur aime est grand
+1,0,le client que le danseur admire est grand
+1,0,l' officier que le danseur admire est grand
+1,0,le pilote que le danseur admire est grand
+1,0,le consultant que le danseur aime est grand
+1,0,le consultant que le danseur admire est grand
+1,0,l' auteur que l' architecte déteste est grand
+1,0,l' auteur que l' architecte admire est grand
+1,0,le directeur que l' architecte admire est grand
+1,0,l' agriculteur que l' architecte admire est grand
+1,0,le chirurgien que l' architecte déteste est grand
+1,0,le chirurgien que l' architecte admire est grand
+1,0,le sénateur que l' architecte déteste est grand
+1,0,le sénateur que l' architecte admire est grand
+1,0,le client que l' architecte déteste est grand
+1,0,le client que l' architecte admire est grand
+1,0,l' officier que l' architecte déteste est grand
+1,0,l' officier que l' architecte admire est grand
+1,0,le pilote que l' architecte déteste est grand
+1,0,le pilote que l' architecte admire est grand
+1,0,le consultant que l' architecte aime est grand
+1,0,le consultant que l' architecte déteste est grand
+1,0,le consultant que l' architecte admire est grand
+1,0,l' auteur que le chef aime est grand
+1,0,l' auteur que le chef admire est grand
+1,0,le directeur que le chef aime est grand
+1,0,le directeur que le chef admire est grand
+1,0,l' agriculteur que le chef admire est grand
+1,0,le chirurgien que le chef aime est grand
+1,0,le chirurgien que le chef déteste est grand
+1,0,le chirurgien que le chef admire est grand
+1,0,le sénateur que le chef aime est grand
+1,0,le sénateur que le chef admire est grand
+1,0,le professeur que le chef aime est grand
+1,0,le professeur que le chef admire est grand
+1,0,le client que le chef aime est grand
+1,0,le client que le chef déteste est grand
+1,0,le client que le chef admire est grand
+1,0,l' officier que le chef admire est grand
+1,0,le pilote que le chef aime est grand
+1,0,le pilote que le chef déteste est grand
+1,0,le pilote que le chef admire est grand
+1,0,le consultant que le chef aime est grand
+1,0,le consultant que le chef déteste est grand
+1,0,le consultant que le chef admire est grand
+1,0,l' auteur que le patineur admire est grand
+1,0,le directeur que le patineur aime est grand
+1,0,le directeur que le patineur admire est grand
+1,0,l' agriculteur que le patineur admire est grand
+1,0,le chirurgien que le patineur aime est grand
+1,0,le chirurgien que le patineur déteste est grand
+1,0,le chirurgien que le patineur admire est grand
+1,0,le sénateur que le patineur aime est grand
+1,0,le sénateur que le patineur admire est grand
+1,0,le professeur que le patineur aime est grand
+1,0,le professeur que le patineur admire est grand
+1,0,le client que le patineur aime est grand
+1,0,le client que le patineur admire est grand
+1,0,l' officier que le patineur admire est grand
+1,0,le pilote que le patineur déteste est grand
+1,0,le pilote que le patineur admire est grand
+1,0,le consultant que le patineur aime est grand
+1,0,le consultant que le patineur déteste est grand
+1,0,le consultant que le patineur admire est grand
+1,0,l' auteur que le parent admire est grand
+1,0,le directeur que le parent aime est grand
+1,0,le directeur que le parent admire est grand
+1,0,l' agriculteur que le parent admire est grand
+1,0,le chirurgien que le parent aime est grand
+1,0,le chirurgien que le parent déteste est grand
+1,0,le chirurgien que le parent admire est grand
+1,0,le sénateur que le parent aime est grand
+1,0,le sénateur que le parent admire est grand
+1,0,le professeur que le parent aime est grand
+1,0,le professeur que le parent admire est grand
+1,0,le client que le parent aime est grand
+1,0,le client que le parent admire est grand
+1,0,l' officier que le parent admire est grand
+1,0,le pilote que le parent déteste est grand
+1,0,le pilote que le parent admire est grand
+1,0,le consultant que le parent aime est grand
+1,0,le consultant que le parent déteste est grand
+1,0,le consultant que le parent admire est grand
+1,0,le consultant que le parent évite est grand

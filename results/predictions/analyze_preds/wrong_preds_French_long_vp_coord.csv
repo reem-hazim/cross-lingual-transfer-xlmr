@@ -1,0 +1,86 @@
+label,pred,sentence
+1,0,l' auteur aime regarder des émissions de télévision et aime regarder des émissions de télévision
+1,0,l' auteur aime regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+1,0,le directeur aime regarder des émissions de télévision et aime regarder des émissions de télévision
+1,0,l' agriculteur aime regarder des émissions de télévision et aime regarder des émissions de télévision
+1,0,le chirurgien aime regarder des émissions de télévision et aime regarder des émissions de télévision
+1,0,le chirurgien aime regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+1,0,le sénateur aime regarder des émissions de télévision et aime regarder des émissions de télévision
+1,0,le sénateur aime regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+1,0,le professeur aime regarder des émissions de télévision et aime regarder des émissions de télévision
+1,0,l' officier aime regarder des émissions de télévision et aime regarder des émissions de télévision
+1,0,l' officier aime regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+1,0,le consultant aime regarder des émissions de télévision et aime regarder des émissions de télévision
+1,0,l' officier préfère jouer au tennis avec des collègues et aime regarder des émissions de télévision
+1,0,l' auteur écrit dans un journal tous les jours et aime regarder des émissions de télévision
+1,0,l' auteur écrit dans un journal tous les jours et préfère jouer au tennis avec des collègues
+1,0,l' agriculteur écrit dans un journal tous les jours et aime regarder des émissions de télévision
+1,0,l' officier écrit dans un journal tous les jours et aime regarder des émissions de télévision
+1,0,le pilote écrit dans un journal tous les jours et aime regarder des émissions de télévision
+1,0,le pilote écrit dans un journal tous les jours et préfère jouer au tennis avec des collègues
+0,1,les auteurs connaissent beaucoup de langues étrangères et aime regarder des émissions de télévision
+0,1,les auteurs connaissent beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+0,1,les directeurs connaissent beaucoup de langues étrangères et aime regarder des émissions de télévision
+0,1,les directeurs connaissent beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+0,1,les agriculteurs connaissent beaucoup de langues étrangères et aime regarder des émissions de télévision
+0,1,les agriculteurs connaissent beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+0,1,les chirurgiens connaissent beaucoup de langues étrangères et aime regarder des émissions de télévision
+0,1,les chirurgiens connaissent beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+0,1,les sénateurs connaissent beaucoup de langues étrangères et aime regarder des émissions de télévision
+0,1,les sénateurs connaissent beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+0,1,les professeurs connaissent beaucoup de langues étrangères et aime regarder des émissions de télévision
+0,1,les professeurs connaissent beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+0,1,les clients connaissent beaucoup de langues étrangères et aime regarder des émissions de télévision
+0,1,les clients connaissent beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+0,1,les officiers connaissent beaucoup de langues étrangères et aime regarder des émissions de télévision
+0,1,les officiers connaissent beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+0,1,les pilotes connaissent beaucoup de langues étrangères et aime regarder des émissions de télévision
+0,1,les pilotes connaissent beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+0,1,les consultants connaissent beaucoup de langues étrangères et aime regarder des émissions de télévision
+0,1,les consultants connaissent beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+0,1,les auteurs aiment regarder des émissions de télévision et aime regarder des émissions de télévision
+0,1,les auteurs aiment regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+0,1,les directeurs aiment regarder des émissions de télévision et aime regarder des émissions de télévision
+0,1,les directeurs aiment regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+0,1,les agriculteurs aiment regarder des émissions de télévision et aime regarder des émissions de télévision
+0,1,les agriculteurs aiment regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+0,1,les chirurgiens aiment regarder des émissions de télévision et aime regarder des émissions de télévision
+0,1,les chirurgiens aiment regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+0,1,les sénateurs aiment regarder des émissions de télévision et aime regarder des émissions de télévision
+0,1,les sénateurs aiment regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+0,1,les professeurs aiment regarder des émissions de télévision et aime regarder des émissions de télévision
+0,1,les professeurs aiment regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+0,1,les clients aiment regarder des émissions de télévision et aime regarder des émissions de télévision
+0,1,les clients aiment regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+0,1,les officiers aiment regarder des émissions de télévision et aime regarder des émissions de télévision
+0,1,les officiers aiment regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+0,1,les pilotes aiment regarder des émissions de télévision et aime regarder des émissions de télévision
+0,1,les pilotes aiment regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+0,1,les consultants aiment regarder des émissions de télévision et aime regarder des émissions de télévision
+0,1,les consultants aiment regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+0,1,les agriculteurs ont vingt trois ans et préfère jouer au tennis avec des collègues
+0,1,les sénateurs ont vingt trois ans et aime regarder des émissions de télévision
+0,1,les sénateurs ont vingt trois ans et préfère jouer au tennis avec des collègues
+0,1,les clients ont vingt trois ans et aime regarder des émissions de télévision
+0,1,les officiers ont vingt trois ans et aime regarder des émissions de télévision
+0,1,les officiers ont vingt trois ans et préfère jouer au tennis avec des collègues
+0,1,les auteurs préfèrent jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+0,1,les agriculteurs préfèrent jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+0,1,les chirurgiens préfèrent jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+0,1,les sénateurs préfèrent jouer au tennis avec des collègues et aime regarder des émissions de télévision
+0,1,les sénateurs préfèrent jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+0,1,les professeurs préfèrent jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+0,1,les clients préfèrent jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+0,1,les officiers préfèrent jouer au tennis avec des collègues et aime regarder des émissions de télévision
+0,1,les officiers préfèrent jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+0,1,les pilotes préfèrent jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+0,1,les consultants préfèrent jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+0,1,les auteurs écrivent dans un journal tous les jours et préfère jouer au tennis avec des collègues
+0,1,les agriculteurs écrivent dans un journal tous les jours et préfère jouer au tennis avec des collègues
+0,1,les chirurgiens écrivent dans un journal tous les jours et préfère jouer au tennis avec des collègues
+0,1,les sénateurs écrivent dans un journal tous les jours et aime regarder des émissions de télévision
+0,1,les sénateurs écrivent dans un journal tous les jours et préfère jouer au tennis avec des collègues
+0,1,les officiers écrivent dans un journal tous les jours et aime regarder des émissions de télévision
+0,1,les officiers écrivent dans un journal tous les jours et préfère jouer au tennis avec des collègues
+0,1,les pilotes écrivent dans un journal tous les jours et préfère jouer au tennis avec des collègues
+0,1,les consultants écrivent dans un journal tous les jours et préfère jouer au tennis avec des collègues
