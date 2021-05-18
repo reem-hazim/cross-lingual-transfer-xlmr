@@ -1,7 +1,7 @@
 #!/bin/bash
 #SBATCH --job-name=eval_one_from_min_pair
 #SBATCH --open-mode=append
-#SBATCH --output=/scratch/rh3015/MLLU/results/nepali_res.txt
+#SBATCH --output=/scratch/rh3015/MLLU/results/anomaly_test_res.txt
 #SBATCH --error=/home/rh3015/%j_%x.err
 #SBATCH --export=ALL
 #SBATCH --time=48:00:00
@@ -15,5 +15,5 @@
 singularity exec --nv --overlay $SCRATCH/overlay-25GB-500K.ext3:ro /scratch/work/public/singularity/cuda10.1-cudnn7-devel-ubuntu18.04-20201207.sif /bin/bash -c "
 source /ext3/env.sh
 conda activate
-python eval_lang.py Nepali ../data_preprocessing/Nepali_evalset/eval_set ../models/finetuned_xlmr_clams_full_dataset
+python eval_lang.py Nepali ../data_preprocessing/rm_French_anomalies/new_french_evalsets ../models/finetuned_xlmr_clams_full_dataset
 "
