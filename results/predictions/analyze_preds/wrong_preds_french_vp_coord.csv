@@ -1,0 +1,144 @@
+label,pred,sentence
+1,0,l' auteur déménage et déménage
+1,0,le directeur déménage et déménage
+1,0,le chirurgien déménage et déménage
+1,0,le sénateur déménage et déménage
+1,0,le professeur déménage et déménage
+1,0,l' officier déménage et déménage
+1,0,le pilote déménage et déménage
+1,0,le consultant déménage et déménage
+1,0,l' auteur parle et déménage
+1,0,le directeur parle et déménage
+1,0,le chirurgien parle et déménage
+1,0,le sénateur parle et déménage
+1,0,le professeur parle et déménage
+1,0,l' officier parle et déménage
+1,0,le pilote parle et déménage
+1,0,le directeur retourne et déménage
+1,0,le chirurgien retourne et déménage
+1,0,le sénateur retourne et déménage
+1,0,le professeur retourne et déménage
+1,0,le pilote retourne et déménage
+1,0,l' auteur est petit et déménage
+1,0,le directeur est petit et déménage
+1,0,l' agriculteur est petit et déménage
+1,0,le chirurgien est petit et déménage
+1,0,le sénateur est petit et déménage
+1,0,le professeur est petit et déménage
+1,0,le client est petit et déménage
+1,0,l' officier est petit et déménage
+1,0,le pilote est petit et déménage
+1,0,le consultant est petit et déménage
+1,0,l' auteur est grand et déménage
+1,0,le directeur est grand et déménage
+1,0,l' agriculteur est grand et déménage
+1,0,le chirurgien est grand et déménage
+1,0,le sénateur est grand et déménage
+1,0,le professeur est grand et déménage
+1,0,le client est grand et déménage
+1,0,l' officier est grand et déménage
+1,0,le pilote est grand et déménage
+1,0,le consultant est grand et déménage
+1,0,l' auteur est vieux et déménage
+1,0,le directeur est vieux et déménage
+1,0,le chirurgien est vieux et déménage
+1,0,le sénateur est vieux et déménage
+1,0,le professeur est vieux et déménage
+1,0,le client est vieux et déménage
+1,0,l' officier est vieux et déménage
+1,0,le pilote est vieux et déménage
+1,0,le consultant est vieux et déménage
+1,0,l' auteur est jeune et déménage
+1,0,le directeur est jeune et déménage
+1,0,le chirurgien est jeune et déménage
+1,0,le sénateur est jeune et déménage
+1,0,le professeur est jeune et déménage
+1,0,le client est jeune et déménage
+1,0,l' officier est jeune et déménage
+1,0,le pilote est jeune et déménage
+1,0,le consultant est jeune et déménage
+0,1,les auteurs déménagent et déménage
+0,1,les directeurs déménagent et déménage
+0,1,les agriculteurs déménagent et déménage
+0,1,les chirurgiens déménagent et déménage
+0,1,les sénateurs déménagent et déménage
+0,1,les professeurs déménagent et déménage
+0,1,les clients déménagent et déménage
+0,1,les officiers déménagent et déménage
+0,1,les pilotes déménagent et déménage
+0,1,les consultants déménagent et déménage
+0,1,les auteurs parlent et déménage
+0,1,les auteurs parlent et parle
+0,1,les directeurs parlent et déménage
+0,1,les directeurs parlent et retourne
+0,1,les agriculteurs parlent et déménage
+0,1,les agriculteurs parlent et parle
+0,1,les agriculteurs parlent et retourne
+0,1,les chirurgiens parlent et déménage
+0,1,les sénateurs parlent et déménage
+0,1,les sénateurs parlent et parle
+0,1,les professeurs parlent et déménage
+0,1,les professeurs parlent et parle
+0,1,les professeurs parlent et retourne
+0,1,les clients parlent et déménage
+0,1,les clients parlent et parle
+0,1,les officiers parlent et déménage
+0,1,les officiers parlent et parle
+0,1,les officiers parlent et retourne
+0,1,les pilotes parlent et déménage
+0,1,les pilotes parlent et parle
+0,1,les pilotes parlent et retourne
+0,1,les consultants parlent et déménage
+0,1,les consultants parlent et parle
+0,1,les consultants parlent et retourne
+0,1,les auteurs retournent et déménage
+0,1,les directeurs retournent et déménage
+0,1,les directeurs retournent et retourne
+0,1,les agriculteurs retournent et déménage
+0,1,les chirurgiens retournent et déménage
+0,1,les sénateurs retournent et déménage
+0,1,les professeurs retournent et déménage
+0,1,les clients retournent et déménage
+0,1,les officiers retournent et déménage
+0,1,les pilotes retournent et déménage
+0,1,les consultants retournent et déménage
+0,1,les auteurs sont petits et déménage
+0,1,les directeurs sont petits et déménage
+0,1,les agriculteurs sont petits et déménage
+0,1,les chirurgiens sont petits et déménage
+0,1,les sénateurs sont petits et déménage
+0,1,les professeurs sont petits et déménage
+0,1,les clients sont petits et déménage
+0,1,les officiers sont petits et déménage
+0,1,les pilotes sont petits et déménage
+0,1,les consultants sont petits et déménage
+0,1,les auteurs sont grands et déménage
+0,1,les directeurs sont grands et déménage
+0,1,les agriculteurs sont grands et déménage
+0,1,les chirurgiens sont grands et déménage
+0,1,les sénateurs sont grands et déménage
+0,1,les professeurs sont grands et déménage
+0,1,les clients sont grands et déménage
+0,1,les officiers sont grands et déménage
+0,1,les pilotes sont grands et déménage
+0,1,les consultants sont grands et déménage
+0,1,les auteurs sont vieux et déménage
+0,1,les directeurs sont vieux et déménage
+0,1,les agriculteurs sont vieux et déménage
+0,1,les chirurgiens sont vieux et déménage
+0,1,les sénateurs sont vieux et déménage
+0,1,les professeurs sont vieux et déménage
+0,1,les clients sont vieux et déménage
+0,1,les officiers sont vieux et déménage
+0,1,les pilotes sont vieux et déménage
+0,1,les consultants sont vieux et déménage
+0,1,les auteurs sont jeunes et déménage
+0,1,les directeurs sont jeunes et déménage
+0,1,les agriculteurs sont jeunes et déménage
+0,1,les chirurgiens sont jeunes et déménage
+0,1,les sénateurs sont jeunes et déménage
+0,1,les professeurs sont jeunes et déménage
+0,1,les clients sont jeunes et déménage
+0,1,les officiers sont jeunes et déménage
+0,1,les pilotes sont jeunes et déménage
+0,1,les consultants sont jeunes et déménage

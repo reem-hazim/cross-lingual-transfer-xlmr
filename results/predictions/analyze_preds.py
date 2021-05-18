@@ -1,38 +1,39 @@
 import os
 import pandas as pd
-from CLAMS_Dataset import CLAMS_Dataset
 from transformers import XLMRobertaTokenizer
+import argparse
 
-tokenizer = XLMRobertaTokenizer.from_pretrained("xlm-roberta-base")
+parser = argparse.ArgumentParser(
+    description="Evaluate finetuned XLMR on CLAMS dataset."
+)
 
-old_df = pd.read_csv("../../CLAMS/Russian/simple_agrmt.txt", sep="\t", names=["label", "sentence"])
-print(old_df.head())
-clams = CLAMS_Dataset(old_df, tokenizer)
-print(old_df.at[9, "sentence"])
-print(clams[9])
-print(old_df.at[8, "sentence"])
-print(clams[8])
-print("\n")
-print(old_df.at[22, "sentence"])
-print(clams[22])
-print(old_df.at[23, "sentence"])
-print(clams[23])
-print(tokenizer.decode([0, 7, 2]))
-# print(clams[10])
+parser.add_argument(
+    "lang",
+    type=str,
+    help="Language to evaluate",
+)
 
-pred_df = pd.read_csv("./russian/xlmr_simple_agrmt_russian_preds.csv")
-wrong_ex = pred_df[pred_df["label"] != pred_df["pred"]]
-print(wrong_ex.head(20))
-print('\n')
+parser.add_argument(
+    "phen",
+    type=str,
+    help="Phenomenon to evaluate",
+)
 
-# for filename in os.listdir(f'./{lang}'):
-# 	if filename != ".DS_Store":
-# 		print(filename)
-# 		pred_df = pd.read_csv(os.path.join(f'./{lang}', filename))
-# 		# wrong_ex = df[df["label"] != df["pred"]]
-# 		print(clams[9])
-# 		# print(wrong_ex.head(20))
-# 		# print('\n')
+args = parser.parse_args()
+lang = args.lang
+phen = args.phen
+
+old_df = pd.read_csv(f"../../CLAMS/{lang}/{phen}.txt", sep="\t", names=["label", "sentence"])
+pred_df = pd.read_csv(f"./main_results/{lang.lower()}/xlmr_{phen}_{lang.lower()}_preds.csv")
+
+new_df = pd.DataFrame(columns=["label", "pred", "sentence"])
+for i in range(pred_df.shape[0]):
+	if pred_df.iloc[i]['label'] != pred_df.iloc[i]["pred"]:
+		new_df.loc[len(new_df.index)] = [pred_df.at[i, "label"], pred_df.at[i, "pred"], old_df.at[i, "sentence"]]
+		print(pred_df.iloc[i], end="\t")
+		print(old_df.iloc[i]["sentence"])
+
+new_df.to_csv(f"./analyze_preds/wrong_preds_{lang}_{phen}.csv", index=False)
 
 
 	
