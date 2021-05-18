@@ -62,4 +62,4 @@ for filename in os.listdir(args.data_dir):
 		print(metrics)
 		print('\n')
 		test_preds = pd.DataFrame.from_dict({ "label": label_ids, "pred": predictions.argmax(-1)})
-		test_preds.to_csv(f"../results/predictions/one_from_min_pair/{lang}/xlmr_{phenomenon}_{lang}_preds.csv", index=False)
+		test_preds.to_csv(f"../results/predictions/{lang}/xlmr_{phenomenon}_{lang}_preds.csv", index=False)

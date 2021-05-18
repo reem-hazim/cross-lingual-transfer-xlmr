@@ -1,7 +1,7 @@
 #!/bin/bash
 #SBATCH --job-name=eval_one_from_min_pair
 #SBATCH --open-mode=append
-#SBATCH --output=/scratch/rh3015/MLLU/results/one_from_min_pair.txt
+#SBATCH --output=/scratch/rh3015/MLLU/results/nepali_res.txt
 #SBATCH --error=/home/rh3015/%j_%x.err
 #SBATCH --export=ALL
 #SBATCH --time=48:00:00
