@@ -27,8 +27,8 @@ clean_dataset = clean_dataset.sample(frac = 1)
 clean_dataset = clean_dataset.drop_duplicates(subset=["sentence"], ignore_index = True)
 
 # Train-val-test split
-train_df, test_and_val_df = train_test_split(clean_dataset, test_size = 0.4)
-test_df, val_df = train_test_split(test_and_val_df, test_size = 0.5)
+train_df, test_and_val_df = train_test_split(clean_dataset, test_size = 0.4, stratify=concat["phenomena"])
+test_df, val_df = train_test_split(test_and_val_df, test_size = 0.5, stratify=test_and_val_df["phenomena"])
 
 train_df.to_csv("eng_train.csv", index=False)
 val_df.to_csv("eng_val.csv", index=False)
