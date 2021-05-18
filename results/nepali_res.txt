@@ -1,0 +1,11 @@
+nepali
+nepali
+simple_agrmt
+{'eval_loss': 1.553923487663269, 'eval_accuracy': 0.8571428571428571, 'eval_mathews_correlation': 0.7144497649540142, 'eval_runtime': 1.0809, 'eval_samples_per_second': 518.087}
+
+
+nepali
+simple_agrmt
+{'eval_loss': 1.5539230108261108, 'eval_accuracy': 0.8571428571428571, 'eval_mathews_correlation': 0.7144497649540142, 'eval_runtime': 1.1387, 'eval_samples_per_second': 491.779}
+
+
