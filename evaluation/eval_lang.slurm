@@ -15,5 +15,5 @@
 singularity exec --nv --overlay $SCRATCH/overlay-25GB-500K.ext3:ro /scratch/work/public/singularity/cuda10.1-cudnn7-devel-ubuntu18.04-20201207.sif /bin/bash -c "
 source /ext3/env.sh
 conda activate
-python eval_lang.py Nepali ../data_preprocessing/Nepali_evalset/evalset ../models/finetuned_xlmr_clams_full_dataset
+python eval_lang.py Nepali ../data_preprocessing/Nepali_evalset/eval_set ../models/finetuned_xlmr_clams_full_dataset
 "
