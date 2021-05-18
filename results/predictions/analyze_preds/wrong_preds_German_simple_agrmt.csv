@@ -1,0 +1,33 @@
+label,pred,sentence
+0,1,die Schriftsteller ist alt
+0,1,die Schriftsteller ist jung
+0,1,die Schriftsteller ist klein
+0,1,die Schriftsteller ist groß
+1,0,die Schriftsteller schwimmen
+0,1,die Schriftsteller schwimmt
+0,1,die Schriftsteller spricht
+0,1,die Schriftsteller lacht
+0,1,die Lehrer ist alt
+0,1,die Lehrer ist jung
+0,1,die Lehrer ist klein
+0,1,die Lehrer ist groß
+0,1,die Lehrer schwimmt
+0,1,die Lehrer spricht
+0,1,die Lehrer lacht
+0,1,die Polizisten ist alt
+0,1,die Polizisten ist klein
+0,1,die Polizisten spricht
+1,0,die Berater sind alt
+0,1,die Berater ist alt
+1,0,die Berater sind jung
+0,1,die Berater ist jung
+1,0,die Berater sind klein
+0,1,die Berater ist klein
+1,0,die Berater sind groß
+0,1,die Berater ist groß
+1,0,die Berater schwimmen
+0,1,die Berater schwimmt
+1,0,die Berater sprechen
+0,1,die Berater spricht
+1,0,die Berater lachen
+0,1,die Berater lacht
