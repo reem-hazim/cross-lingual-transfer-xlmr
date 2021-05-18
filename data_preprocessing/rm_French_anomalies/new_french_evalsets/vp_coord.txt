@@ -9,126 +9,16 @@ False,le client déménage et déménagent
 False,l' officier déménage et déménagent
 False,le pilote déménage et déménagent
 False,le consultant déménage et déménagent
-False,l' auteur parle et déménagent
-True,l' auteur parle et parle
 False,l' auteur parle et parlent
-False,l' auteur parle et retournent
-True,l' auteur parle et est petit
-False,l' auteur parle et sont petits
-True,l' auteur parle et est grand
-False,l' auteur parle et sont grands
-True,l' auteur parle et est vieux
-False,l' auteur parle et sont vieux
-True,l' auteur parle et est jeune
-False,l' auteur parle et sont jeunes
-False,le directeur parle et déménagent
-True,le directeur parle et parle
 False,le directeur parle et parlent
-False,le directeur parle et retournent
-True,le directeur parle et est petit
-False,le directeur parle et sont petits
-True,le directeur parle et est grand
-False,le directeur parle et sont grands
-True,le directeur parle et est vieux
-False,le directeur parle et sont vieux
-True,le directeur parle et est jeune
-False,le directeur parle et sont jeunes
-False,l' agriculteur parle et déménagent
-True,l' agriculteur parle et parle
 False,l' agriculteur parle et parlent
-False,l' agriculteur parle et retournent
-True,l' agriculteur parle et est petit
-False,l' agriculteur parle et sont petits
-True,l' agriculteur parle et est grand
-False,l' agriculteur parle et sont grands
-True,l' agriculteur parle et est vieux
-False,l' agriculteur parle et sont vieux
-True,l' agriculteur parle et est jeune
-False,l' agriculteur parle et sont jeunes
-False,le chirurgien parle et déménagent
-True,le chirurgien parle et parle
 False,le chirurgien parle et parlent
-False,le chirurgien parle et retournent
-True,le chirurgien parle et est petit
-False,le chirurgien parle et sont petits
-True,le chirurgien parle et est grand
-False,le chirurgien parle et sont grands
-True,le chirurgien parle et est vieux
-False,le chirurgien parle et sont vieux
-True,le chirurgien parle et est jeune
-False,le chirurgien parle et sont jeunes
-False,le sénateur parle et déménagent
-True,le sénateur parle et parle
 False,le sénateur parle et parlent
-False,le sénateur parle et retournent
-True,le sénateur parle et est petit
-False,le sénateur parle et sont petits
-True,le sénateur parle et est grand
-False,le sénateur parle et sont grands
-True,le sénateur parle et est vieux
-False,le sénateur parle et sont vieux
-True,le sénateur parle et est jeune
-False,le sénateur parle et sont jeunes
-False,le professeur parle et déménagent
-True,le professeur parle et parle
 False,le professeur parle et parlent
-False,le professeur parle et retournent
-True,le professeur parle et est petit
-False,le professeur parle et sont petits
-True,le professeur parle et est grand
-False,le professeur parle et sont grands
-True,le professeur parle et est vieux
-False,le professeur parle et sont vieux
-True,le professeur parle et est jeune
-False,le professeur parle et sont jeunes
-False,le client parle et déménagent
-True,le client parle et parle
 False,le client parle et parlent
-False,le client parle et retournent
-True,le client parle et est petit
-False,le client parle et sont petits
-True,le client parle et est grand
-False,le client parle et sont grands
-True,le client parle et est vieux
-False,le client parle et sont vieux
-True,le client parle et est jeune
-False,le client parle et sont jeunes
-False,l' officier parle et déménagent
-True,l' officier parle et parle
 False,l' officier parle et parlent
-False,l' officier parle et retournent
-True,l' officier parle et est petit
-False,l' officier parle et sont petits
-True,l' officier parle et est grand
-False,l' officier parle et sont grands
-True,l' officier parle et est vieux
-False,l' officier parle et sont vieux
-True,l' officier parle et est jeune
-False,l' officier parle et sont jeunes
-False,le pilote parle et déménagent
-True,le pilote parle et parle
 False,le pilote parle et parlent
-False,le pilote parle et retournent
-True,le pilote parle et est petit
-False,le pilote parle et sont petits
-True,le pilote parle et est grand
-False,le pilote parle et sont grands
-True,le pilote parle et est vieux
-False,le pilote parle et sont vieux
-True,le pilote parle et est jeune
-False,le pilote parle et sont jeunes
-False,le consultant parle et déménagent
-True,le consultant parle et parle
 False,le consultant parle et parlent
-False,le consultant parle et retournent
-True,le consultant parle et est petit
-False,le consultant parle et sont petits
-True,le consultant parle et est grand
-False,le consultant parle et sont grands
-True,le consultant parle et est vieux
-False,le consultant parle et sont vieux
-True,le consultant parle et est jeune
-False,le consultant parle et sont jeunes
 False,l' auteur retourne et retournent
 False,le directeur retourne et retournent
 False,l' agriculteur retourne et retournent
@@ -140,7 +30,6 @@ False,l' officier retourne et retournent
 False,le pilote retourne et retournent
 False,le consultant retourne et retournent
 False,l' auteur est petit et déménagent
-True,l' auteur est petit et parle
 False,l' auteur est petit et parlent
 False,l' auteur est petit et retournent
 True,l' auteur est petit et est petit
@@ -152,7 +41,6 @@ False,l' auteur est petit et sont vieux
 True,l' auteur est petit et est jeune
 False,l' auteur est petit et sont jeunes
 False,le directeur est petit et déménagent
-True,le directeur est petit et parle
 False,le directeur est petit et parlent
 False,le directeur est petit et retournent
 True,le directeur est petit et est petit
@@ -164,7 +52,6 @@ False,le directeur est petit et sont vieux
 True,le directeur est petit et est jeune
 False,le directeur est petit et sont jeunes
 False,l' agriculteur est petit et déménagent
-True,l' agriculteur est petit et parle
 False,l' agriculteur est petit et parlent
 False,l' agriculteur est petit et retournent
 True,l' agriculteur est petit et est petit
@@ -176,7 +63,6 @@ False,l' agriculteur est petit et sont vieux
 True,l' agriculteur est petit et est jeune
 False,l' agriculteur est petit et sont jeunes
 False,le chirurgien est petit et déménagent
-True,le chirurgien est petit et parle
 False,le chirurgien est petit et parlent
 False,le chirurgien est petit et retournent
 True,le chirurgien est petit et est petit
@@ -188,7 +74,6 @@ False,le chirurgien est petit et sont vieux
 True,le chirurgien est petit et est jeune
 False,le chirurgien est petit et sont jeunes
 False,le sénateur est petit et déménagent
-True,le sénateur est petit et parle
 False,le sénateur est petit et parlent
 False,le sénateur est petit et retournent
 True,le sénateur est petit et est petit
@@ -200,7 +85,6 @@ False,le sénateur est petit et sont vieux
 True,le sénateur est petit et est jeune
 False,le sénateur est petit et sont jeunes
 False,le professeur est petit et déménagent
-True,le professeur est petit et parle
 False,le professeur est petit et parlent
 False,le professeur est petit et retournent
 True,le professeur est petit et est petit
@@ -212,7 +96,6 @@ False,le professeur est petit et sont vieux
 True,le professeur est petit et est jeune
 False,le professeur est petit et sont jeunes
 False,le client est petit et déménagent
-True,le client est petit et parle
 False,le client est petit et parlent
 False,le client est petit et retournent
 True,le client est petit et est petit
@@ -224,7 +107,6 @@ False,le client est petit et sont vieux
 True,le client est petit et est jeune
 False,le client est petit et sont jeunes
 False,l' officier est petit et déménagent
-True,l' officier est petit et parle
 False,l' officier est petit et parlent
 False,l' officier est petit et retournent
 True,l' officier est petit et est petit
@@ -236,7 +118,6 @@ False,l' officier est petit et sont vieux
 True,l' officier est petit et est jeune
 False,l' officier est petit et sont jeunes
 False,le pilote est petit et déménagent
-True,le pilote est petit et parle
 False,le pilote est petit et parlent
 False,le pilote est petit et retournent
 True,le pilote est petit et est petit
@@ -248,7 +129,6 @@ False,le pilote est petit et sont vieux
 True,le pilote est petit et est jeune
 False,le pilote est petit et sont jeunes
 False,le consultant est petit et déménagent
-True,le consultant est petit et parle
 False,le consultant est petit et parlent
 False,le consultant est petit et retournent
 True,le consultant est petit et est petit
@@ -260,7 +140,6 @@ False,le consultant est petit et sont vieux
 True,le consultant est petit et est jeune
 False,le consultant est petit et sont jeunes
 False,l' auteur est grand et déménagent
-True,l' auteur est grand et parle
 False,l' auteur est grand et parlent
 False,l' auteur est grand et retournent
 True,l' auteur est grand et est petit
@@ -272,7 +151,6 @@ False,l' auteur est grand et sont vieux
 True,l' auteur est grand et est jeune
 False,l' auteur est grand et sont jeunes
 False,le directeur est grand et déménagent
-True,le directeur est grand et parle
 False,le directeur est grand et parlent
 False,le directeur est grand et retournent
 True,le directeur est grand et est petit
@@ -284,7 +162,6 @@ False,le directeur est grand et sont vieux
 True,le directeur est grand et est jeune
 False,le directeur est grand et sont jeunes
 False,l' agriculteur est grand et déménagent
-True,l' agriculteur est grand et parle
 False,l' agriculteur est grand et parlent
 False,l' agriculteur est grand et retournent
 True,l' agriculteur est grand et est petit
@@ -296,7 +173,6 @@ False,l' agriculteur est grand et sont vieux
 True,l' agriculteur est grand et est jeune
 False,l' agriculteur est grand et sont jeunes
 False,le chirurgien est grand et déménagent
-True,le chirurgien est grand et parle
 False,le chirurgien est grand et parlent
 False,le chirurgien est grand et retournent
 True,le chirurgien est grand et est petit
@@ -308,7 +184,6 @@ False,le chirurgien est grand et sont vieux
 True,le chirurgien est grand et est jeune
 False,le chirurgien est grand et sont jeunes
 False,le sénateur est grand et déménagent
-True,le sénateur est grand et parle
 False,le sénateur est grand et parlent
 False,le sénateur est grand et retournent
 True,le sénateur est grand et est petit
@@ -320,7 +195,6 @@ False,le sénateur est grand et sont vieux
 True,le sénateur est grand et est jeune
 False,le sénateur est grand et sont jeunes
 False,le professeur est grand et déménagent
-True,le professeur est grand et parle
 False,le professeur est grand et parlent
 False,le professeur est grand et retournent
 True,le professeur est grand et est petit
@@ -332,7 +206,6 @@ False,le professeur est grand et sont vieux
 True,le professeur est grand et est jeune
 False,le professeur est grand et sont jeunes
 False,le client est grand et déménagent
-True,le client est grand et parle
 False,le client est grand et parlent
 False,le client est grand et retournent
 True,le client est grand et est petit
@@ -344,7 +217,6 @@ False,le client est grand et sont vieux
 True,le client est grand et est jeune
 False,le client est grand et sont jeunes
 False,l' officier est grand et déménagent
-True,l' officier est grand et parle
 False,l' officier est grand et parlent
 False,l' officier est grand et retournent
 True,l' officier est grand et est petit
@@ -356,7 +228,6 @@ False,l' officier est grand et sont vieux
 True,l' officier est grand et est jeune
 False,l' officier est grand et sont jeunes
 False,le pilote est grand et déménagent
-True,le pilote est grand et parle
 False,le pilote est grand et parlent
 False,le pilote est grand et retournent
 True,le pilote est grand et est petit
@@ -368,7 +239,6 @@ False,le pilote est grand et sont vieux
 True,le pilote est grand et est jeune
 False,le pilote est grand et sont jeunes
 False,le consultant est grand et déménagent
-True,le consultant est grand et parle
 False,le consultant est grand et parlent
 False,le consultant est grand et retournent
 True,le consultant est grand et est petit
@@ -380,7 +250,6 @@ False,le consultant est grand et sont vieux
 True,le consultant est grand et est jeune
 False,le consultant est grand et sont jeunes
 False,l' auteur est vieux et déménagent
-True,l' auteur est vieux et parle
 False,l' auteur est vieux et parlent
 False,l' auteur est vieux et retournent
 True,l' auteur est vieux et est petit
@@ -392,7 +261,6 @@ False,l' auteur est vieux et sont vieux
 True,l' auteur est vieux et est jeune
 False,l' auteur est vieux et sont jeunes
 False,le directeur est vieux et déménagent
-True,le directeur est vieux et parle
 False,le directeur est vieux et parlent
 False,le directeur est vieux et retournent
 True,le directeur est vieux et est petit
@@ -404,7 +272,6 @@ False,le directeur est vieux et sont vieux
 True,le directeur est vieux et est jeune
 False,le directeur est vieux et sont jeunes
 False,l' agriculteur est vieux et déménagent
-True,l' agriculteur est vieux et parle
 False,l' agriculteur est vieux et parlent
 False,l' agriculteur est vieux et retournent
 True,l' agriculteur est vieux et est petit
@@ -416,7 +283,6 @@ False,l' agriculteur est vieux et sont vieux
 True,l' agriculteur est vieux et est jeune
 False,l' agriculteur est vieux et sont jeunes
 False,le chirurgien est vieux et déménagent
-True,le chirurgien est vieux et parle
 False,le chirurgien est vieux et parlent
 False,le chirurgien est vieux et retournent
 True,le chirurgien est vieux et est petit
@@ -428,7 +294,6 @@ False,le chirurgien est vieux et sont vieux
 True,le chirurgien est vieux et est jeune
 False,le chirurgien est vieux et sont jeunes
 False,le sénateur est vieux et déménagent
-True,le sénateur est vieux et parle
 False,le sénateur est vieux et parlent
 False,le sénateur est vieux et retournent
 True,le sénateur est vieux et est petit
@@ -440,7 +305,6 @@ False,le sénateur est vieux et sont vieux
 True,le sénateur est vieux et est jeune
 False,le sénateur est vieux et sont jeunes
 False,le professeur est vieux et déménagent
-True,le professeur est vieux et parle
 False,le professeur est vieux et parlent
 False,le professeur est vieux et retournent
 True,le professeur est vieux et est petit
@@ -452,7 +316,6 @@ False,le professeur est vieux et sont vieux
 True,le professeur est vieux et est jeune
 False,le professeur est vieux et sont jeunes
 False,le client est vieux et déménagent
-True,le client est vieux et parle
 False,le client est vieux et parlent
 False,le client est vieux et retournent
 True,le client est vieux et est petit
@@ -464,7 +327,6 @@ False,le client est vieux et sont vieux
 True,le client est vieux et est jeune
 False,le client est vieux et sont jeunes
 False,l' officier est vieux et déménagent
-True,l' officier est vieux et parle
 False,l' officier est vieux et parlent
 False,l' officier est vieux et retournent
 True,l' officier est vieux et est petit
@@ -476,7 +338,6 @@ False,l' officier est vieux et sont vieux
 True,l' officier est vieux et est jeune
 False,l' officier est vieux et sont jeunes
 False,le pilote est vieux et déménagent
-True,le pilote est vieux et parle
 False,le pilote est vieux et parlent
 False,le pilote est vieux et retournent
 True,le pilote est vieux et est petit
@@ -488,7 +349,6 @@ False,le pilote est vieux et sont vieux
 True,le pilote est vieux et est jeune
 False,le pilote est vieux et sont jeunes
 False,le consultant est vieux et déménagent
-True,le consultant est vieux et parle
 False,le consultant est vieux et parlent
 False,le consultant est vieux et retournent
 True,le consultant est vieux et est petit
@@ -500,7 +360,6 @@ False,le consultant est vieux et sont vieux
 True,le consultant est vieux et est jeune
 False,le consultant est vieux et sont jeunes
 False,l' auteur est jeune et déménagent
-True,l' auteur est jeune et parle
 False,l' auteur est jeune et parlent
 False,l' auteur est jeune et retournent
 True,l' auteur est jeune et est petit
@@ -512,7 +371,6 @@ False,l' auteur est jeune et sont vieux
 True,l' auteur est jeune et est jeune
 False,l' auteur est jeune et sont jeunes
 False,le directeur est jeune et déménagent
-True,le directeur est jeune et parle
 False,le directeur est jeune et parlent
 False,le directeur est jeune et retournent
 True,le directeur est jeune et est petit
@@ -524,7 +382,6 @@ False,le directeur est jeune et sont vieux
 True,le directeur est jeune et est jeune
 False,le directeur est jeune et sont jeunes
 False,l' agriculteur est jeune et déménagent
-True,l' agriculteur est jeune et parle
 False,l' agriculteur est jeune et parlent
 False,l' agriculteur est jeune et retournent
 True,l' agriculteur est jeune et est petit
@@ -536,7 +393,6 @@ False,l' agriculteur est jeune et sont vieux
 True,l' agriculteur est jeune et est jeune
 False,l' agriculteur est jeune et sont jeunes
 False,le chirurgien est jeune et déménagent
-True,le chirurgien est jeune et parle
 False,le chirurgien est jeune et parlent
 False,le chirurgien est jeune et retournent
 True,le chirurgien est jeune et est petit
@@ -548,7 +404,6 @@ False,le chirurgien est jeune et sont vieux
 True,le chirurgien est jeune et est jeune
 False,le chirurgien est jeune et sont jeunes
 False,le sénateur est jeune et déménagent
-True,le sénateur est jeune et parle
 False,le sénateur est jeune et parlent
 False,le sénateur est jeune et retournent
 True,le sénateur est jeune et est petit
@@ -560,7 +415,6 @@ False,le sénateur est jeune et sont vieux
 True,le sénateur est jeune et est jeune
 False,le sénateur est jeune et sont jeunes
 False,le professeur est jeune et déménagent
-True,le professeur est jeune et parle
 False,le professeur est jeune et parlent
 False,le professeur est jeune et retournent
 True,le professeur est jeune et est petit
@@ -572,7 +426,6 @@ False,le professeur est jeune et sont vieux
 True,le professeur est jeune et est jeune
 False,le professeur est jeune et sont jeunes
 False,le client est jeune et déménagent
-True,le client est jeune et parle
 False,le client est jeune et parlent
 False,le client est jeune et retournent
 True,le client est jeune et est petit
@@ -584,7 +437,6 @@ False,le client est jeune et sont vieux
 True,le client est jeune et est jeune
 False,le client est jeune et sont jeunes
 False,l' officier est jeune et déménagent
-True,l' officier est jeune et parle
 False,l' officier est jeune et parlent
 False,l' officier est jeune et retournent
 True,l' officier est jeune et est petit
@@ -596,7 +448,6 @@ False,l' officier est jeune et sont vieux
 True,l' officier est jeune et est jeune
 False,l' officier est jeune et sont jeunes
 False,le pilote est jeune et déménagent
-True,le pilote est jeune et parle
 False,le pilote est jeune et parlent
 False,le pilote est jeune et retournent
 True,le pilote est jeune et est petit
@@ -608,7 +459,6 @@ False,le pilote est jeune et sont vieux
 True,le pilote est jeune et est jeune
 False,le pilote est jeune et sont jeunes
 False,le consultant est jeune et déménagent
-True,le consultant est jeune et parle
 False,le consultant est jeune et parlent
 False,le consultant est jeune et retournent
 True,le consultant est jeune et est petit
@@ -622,7 +472,6 @@ False,le consultant est jeune et sont jeunes
 True,les auteurs déménagent et déménagent
 False,les auteurs déménagent et déménage
 True,les auteurs déménagent et parlent
-False,les auteurs déménagent et parle
 True,les auteurs déménagent et retournent
 True,les auteurs déménagent et sont petits
 False,les auteurs déménagent et est petit
@@ -635,7 +484,6 @@ False,les auteurs déménagent et est jeune
 True,les directeurs déménagent et déménagent
 False,les directeurs déménagent et déménage
 True,les directeurs déménagent et parlent
-False,les directeurs déménagent et parle
 True,les directeurs déménagent et retournent
 True,les directeurs déménagent et sont petits
 False,les directeurs déménagent et est petit
@@ -648,7 +496,6 @@ False,les directeurs déménagent et est jeune
 True,les agriculteurs déménagent et déménagent
 False,les agriculteurs déménagent et déménage
 True,les agriculteurs déménagent et parlent
-False,les agriculteurs déménagent et parle
 True,les agriculteurs déménagent et retournent
 True,les agriculteurs déménagent et sont petits
 False,les agriculteurs déménagent et est petit
@@ -661,7 +508,6 @@ False,les agriculteurs déménagent et est jeune
 True,les chirurgiens déménagent et déménagent
 False,les chirurgiens déménagent et déménage
 True,les chirurgiens déménagent et parlent
-False,les chirurgiens déménagent et parle
 True,les chirurgiens déménagent et retournent
 True,les chirurgiens déménagent et sont petits
 False,les chirurgiens déménagent et est petit
@@ -674,7 +520,6 @@ False,les chirurgiens déménagent et est jeune
 True,les sénateurs déménagent et déménagent
 False,les sénateurs déménagent et déménage
 True,les sénateurs déménagent et parlent
-False,les sénateurs déménagent et parle
 True,les sénateurs déménagent et retournent
 True,les sénateurs déménagent et sont petits
 False,les sénateurs déménagent et est petit
@@ -687,7 +532,6 @@ False,les sénateurs déménagent et est jeune
 True,les professeurs déménagent et déménagent
 False,les professeurs déménagent et déménage
 True,les professeurs déménagent et parlent
-False,les professeurs déménagent et parle
 True,les professeurs déménagent et retournent
 True,les professeurs déménagent et sont petits
 False,les professeurs déménagent et est petit
@@ -700,7 +544,6 @@ False,les professeurs déménagent et est jeune
 True,les clients déménagent et déménagent
 False,les clients déménagent et déménage
 True,les clients déménagent et parlent
-False,les clients déménagent et parle
 True,les clients déménagent et retournent
 True,les clients déménagent et sont petits
 False,les clients déménagent et est petit
@@ -713,7 +556,6 @@ False,les clients déménagent et est jeune
 True,les officiers déménagent et déménagent
 False,les officiers déménagent et déménage
 True,les officiers déménagent et parlent
-False,les officiers déménagent et parle
 True,les officiers déménagent et retournent
 True,les officiers déménagent et sont petits
 False,les officiers déménagent et est petit
@@ -726,7 +568,6 @@ False,les officiers déménagent et est jeune
 True,les pilotes déménagent et déménagent
 False,les pilotes déménagent et déménage
 True,les pilotes déménagent et parlent
-False,les pilotes déménagent et parle
 True,les pilotes déménagent et retournent
 True,les pilotes déménagent et sont petits
 False,les pilotes déménagent et est petit
@@ -739,7 +580,6 @@ False,les pilotes déménagent et est jeune
 True,les consultants déménagent et déménagent
 False,les consultants déménagent et déménage
 True,les consultants déménagent et parlent
-False,les consultants déménagent et parle
 True,les consultants déménagent et retournent
 True,les consultants déménagent et sont petits
 False,les consultants déménagent et est petit
@@ -871,7 +711,6 @@ True,les consultants parlent et sont jeunes
 False,les consultants parlent et est jeune
 True,les auteurs retournent et déménagent
 True,les auteurs retournent et parlent
-False,les auteurs retournent et parle
 True,les auteurs retournent et retournent
 False,les auteurs retournent et retourne
 True,les auteurs retournent et sont petits
@@ -884,7 +723,6 @@ True,les auteurs retournent et sont jeunes
 False,les auteurs retournent et est jeune
 True,les directeurs retournent et déménagent
 True,les directeurs retournent et parlent
-False,les directeurs retournent et parle
 True,les directeurs retournent et retournent
 False,les directeurs retournent et retourne
 True,les directeurs retournent et sont petits
@@ -897,7 +735,6 @@ True,les directeurs retournent et sont jeunes
 False,les directeurs retournent et est jeune
 True,les agriculteurs retournent et déménagent
 True,les agriculteurs retournent et parlent
-False,les agriculteurs retournent et parle
 True,les agriculteurs retournent et retournent
 False,les agriculteurs retournent et retourne
 True,les agriculteurs retournent et sont petits
@@ -910,7 +747,6 @@ True,les agriculteurs retournent et sont jeunes
 False,les agriculteurs retournent et est jeune
 True,les chirurgiens retournent et déménagent
 True,les chirurgiens retournent et parlent
-False,les chirurgiens retournent et parle
 True,les chirurgiens retournent et retournent
 False,les chirurgiens retournent et retourne
 True,les chirurgiens retournent et sont petits
@@ -923,7 +759,6 @@ True,les chirurgiens retournent et sont jeunes
 False,les chirurgiens retournent et est jeune
 True,les sénateurs retournent et déménagent
 True,les sénateurs retournent et parlent
-False,les sénateurs retournent et parle
 True,les sénateurs retournent et retournent
 False,les sénateurs retournent et retourne
 True,les sénateurs retournent et sont petits
@@ -936,7 +771,6 @@ True,les sénateurs retournent et sont jeunes
 False,les sénateurs retournent et est jeune
 True,les professeurs retournent et déménagent
 True,les professeurs retournent et parlent
-False,les professeurs retournent et parle
 True,les professeurs retournent et retournent
 False,les professeurs retournent et retourne
 True,les professeurs retournent et sont petits
@@ -949,7 +783,6 @@ True,les professeurs retournent et sont jeunes
 False,les professeurs retournent et est jeune
 True,les clients retournent et déménagent
 True,les clients retournent et parlent
-False,les clients retournent et parle
 True,les clients retournent et retournent
 False,les clients retournent et retourne
 True,les clients retournent et sont petits
@@ -962,7 +795,6 @@ True,les clients retournent et sont jeunes
 False,les clients retournent et est jeune
 True,les officiers retournent et déménagent
 True,les officiers retournent et parlent
-False,les officiers retournent et parle
 True,les officiers retournent et retournent
 False,les officiers retournent et retourne
 True,les officiers retournent et sont petits
@@ -975,7 +807,6 @@ True,les officiers retournent et sont jeunes
 False,les officiers retournent et est jeune
 True,les pilotes retournent et déménagent
 True,les pilotes retournent et parlent
-False,les pilotes retournent et parle
 True,les pilotes retournent et retournent
 False,les pilotes retournent et retourne
 True,les pilotes retournent et sont petits
@@ -988,7 +819,6 @@ True,les pilotes retournent et sont jeunes
 False,les pilotes retournent et est jeune
 True,les consultants retournent et déménagent
 True,les consultants retournent et parlent
-False,les consultants retournent et parle
 True,les consultants retournent et retournent
 False,les consultants retournent et retourne
 True,les consultants retournent et sont petits
@@ -1001,7 +831,6 @@ True,les consultants retournent et sont jeunes
 False,les consultants retournent et est jeune
 True,les auteurs sont petits et déménagent
 True,les auteurs sont petits et parlent
-False,les auteurs sont petits et parle
 True,les auteurs sont petits et retournent
 True,les auteurs sont petits et sont petits
 False,les auteurs sont petits et est petit
@@ -1013,7 +842,6 @@ True,les auteurs sont petits et sont jeunes
 False,les auteurs sont petits et est jeune
 True,les directeurs sont petits et déménagent
 True,les directeurs sont petits et parlent
-False,les directeurs sont petits et parle
 True,les directeurs sont petits et retournent
 True,les directeurs sont petits et sont petits
 False,les directeurs sont petits et est petit
@@ -1025,7 +853,6 @@ True,les directeurs sont petits et sont jeunes
 False,les directeurs sont petits et est jeune
 True,les agriculteurs sont petits et déménagent
 True,les agriculteurs sont petits et parlent
-False,les agriculteurs sont petits et parle
 True,les agriculteurs sont petits et retournent
 True,les agriculteurs sont petits et sont petits
 False,les agriculteurs sont petits et est petit
@@ -1037,7 +864,6 @@ True,les agriculteurs sont petits et sont jeunes
 False,les agriculteurs sont petits et est jeune
 True,les chirurgiens sont petits et déménagent
 True,les chirurgiens sont petits et parlent
-False,les chirurgiens sont petits et parle
 True,les chirurgiens sont petits et retournent
 True,les chirurgiens sont petits et sont petits
 False,les chirurgiens sont petits et est petit
@@ -1049,7 +875,6 @@ True,les chirurgiens sont petits et sont jeunes
 False,les chirurgiens sont petits et est jeune
 True,les sénateurs sont petits et déménagent
 True,les sénateurs sont petits et parlent
-False,les sénateurs sont petits et parle
 True,les sénateurs sont petits et retournent
 True,les sénateurs sont petits et sont petits
 False,les sénateurs sont petits et est petit
@@ -1061,7 +886,6 @@ True,les sénateurs sont petits et sont jeunes
 False,les sénateurs sont petits et est jeune
 True,les professeurs sont petits et déménagent
 True,les professeurs sont petits et parlent
-False,les professeurs sont petits et parle
 True,les professeurs sont petits et retournent
 True,les professeurs sont petits et sont petits
 False,les professeurs sont petits et est petit
@@ -1073,7 +897,6 @@ True,les professeurs sont petits et sont jeunes
 False,les professeurs sont petits et est jeune
 True,les clients sont petits et déménagent
 True,les clients sont petits et parlent
-False,les clients sont petits et parle
 True,les clients sont petits et retournent
 True,les clients sont petits et sont petits
 False,les clients sont petits et est petit
@@ -1085,7 +908,6 @@ True,les clients sont petits et sont jeunes
 False,les clients sont petits et est jeune
 True,les officiers sont petits et déménagent
 True,les officiers sont petits et parlent
-False,les officiers sont petits et parle
 True,les officiers sont petits et retournent
 True,les officiers sont petits et sont petits
 False,les officiers sont petits et est petit
@@ -1097,7 +919,6 @@ True,les officiers sont petits et sont jeunes
 False,les officiers sont petits et est jeune
 True,les pilotes sont petits et déménagent
 True,les pilotes sont petits et parlent
-False,les pilotes sont petits et parle
 True,les pilotes sont petits et retournent
 True,les pilotes sont petits et sont petits
 False,les pilotes sont petits et est petit
@@ -1109,7 +930,6 @@ True,les pilotes sont petits et sont jeunes
 False,les pilotes sont petits et est jeune
 True,les consultants sont petits et déménagent
 True,les consultants sont petits et parlent
-False,les consultants sont petits et parle
 True,les consultants sont petits et retournent
 True,les consultants sont petits et sont petits
 False,les consultants sont petits et est petit
@@ -1121,7 +941,6 @@ True,les consultants sont petits et sont jeunes
 False,les consultants sont petits et est jeune
 True,les auteurs sont grands et déménagent
 True,les auteurs sont grands et parlent
-False,les auteurs sont grands et parle
 True,les auteurs sont grands et retournent
 True,les auteurs sont grands et sont petits
 False,les auteurs sont grands et est petit
@@ -1133,7 +952,6 @@ True,les auteurs sont grands et sont jeunes
 False,les auteurs sont grands et est jeune
 True,les directeurs sont grands et déménagent
 True,les directeurs sont grands et parlent
-False,les directeurs sont grands et parle
 True,les directeurs sont grands et retournent
 True,les directeurs sont grands et sont petits
 False,les directeurs sont grands et est petit
@@ -1145,7 +963,6 @@ True,les directeurs sont grands et sont jeunes
 False,les directeurs sont grands et est jeune
 True,les agriculteurs sont grands et déménagent
 True,les agriculteurs sont grands et parlent
-False,les agriculteurs sont grands et parle
 True,les agriculteurs sont grands et retournent
 True,les agriculteurs sont grands et sont petits
 False,les agriculteurs sont grands et est petit
@@ -1157,7 +974,6 @@ True,les agriculteurs sont grands et sont jeunes
 False,les agriculteurs sont grands et est jeune
 True,les chirurgiens sont grands et déménagent
 True,les chirurgiens sont grands et parlent
-False,les chirurgiens sont grands et parle
 True,les chirurgiens sont grands et retournent
 True,les chirurgiens sont grands et sont petits
 False,les chirurgiens sont grands et est petit
@@ -1169,7 +985,6 @@ True,les chirurgiens sont grands et sont jeunes
 False,les chirurgiens sont grands et est jeune
 True,les sénateurs sont grands et déménagent
 True,les sénateurs sont grands et parlent
-False,les sénateurs sont grands et parle
 True,les sénateurs sont grands et retournent
 True,les sénateurs sont grands et sont petits
 False,les sénateurs sont grands et est petit
@@ -1181,7 +996,6 @@ True,les sénateurs sont grands et sont jeunes
 False,les sénateurs sont grands et est jeune
 True,les professeurs sont grands et déménagent
 True,les professeurs sont grands et parlent
-False,les professeurs sont grands et parle
 True,les professeurs sont grands et retournent
 True,les professeurs sont grands et sont petits
 False,les professeurs sont grands et est petit
@@ -1193,7 +1007,6 @@ True,les professeurs sont grands et sont jeunes
 False,les professeurs sont grands et est jeune
 True,les clients sont grands et déménagent
 True,les clients sont grands et parlent
-False,les clients sont grands et parle
 True,les clients sont grands et retournent
 True,les clients sont grands et sont petits
 False,les clients sont grands et est petit
@@ -1205,7 +1018,6 @@ True,les clients sont grands et sont jeunes
 False,les clients sont grands et est jeune
 True,les officiers sont grands et déménagent
 True,les officiers sont grands et parlent
-False,les officiers sont grands et parle
 True,les officiers sont grands et retournent
 True,les officiers sont grands et sont petits
 False,les officiers sont grands et est petit
@@ -1217,7 +1029,6 @@ True,les officiers sont grands et sont jeunes
 False,les officiers sont grands et est jeune
 True,les pilotes sont grands et déménagent
 True,les pilotes sont grands et parlent
-False,les pilotes sont grands et parle
 True,les pilotes sont grands et retournent
 True,les pilotes sont grands et sont petits
 False,les pilotes sont grands et est petit
@@ -1229,7 +1040,6 @@ True,les pilotes sont grands et sont jeunes
 False,les pilotes sont grands et est jeune
 True,les consultants sont grands et déménagent
 True,les consultants sont grands et parlent
-False,les consultants sont grands et parle
 True,les consultants sont grands et retournent
 True,les consultants sont grands et sont petits
 False,les consultants sont grands et est petit
@@ -1241,7 +1051,6 @@ True,les consultants sont grands et sont jeunes
 False,les consultants sont grands et est jeune
 True,les auteurs sont vieux et déménagent
 True,les auteurs sont vieux et parlent
-False,les auteurs sont vieux et parle
 True,les auteurs sont vieux et retournent
 True,les auteurs sont vieux et sont petits
 False,les auteurs sont vieux et est petit
@@ -1253,7 +1062,6 @@ True,les auteurs sont vieux et sont jeunes
 False,les auteurs sont vieux et est jeune
 True,les directeurs sont vieux et déménagent
 True,les directeurs sont vieux et parlent
-False,les directeurs sont vieux et parle
 True,les directeurs sont vieux et retournent
 True,les directeurs sont vieux et sont petits
 False,les directeurs sont vieux et est petit
@@ -1265,7 +1073,6 @@ True,les directeurs sont vieux et sont jeunes
 False,les directeurs sont vieux et est jeune
 True,les agriculteurs sont vieux et déménagent
 True,les agriculteurs sont vieux et parlent
-False,les agriculteurs sont vieux et parle
 True,les agriculteurs sont vieux et retournent
 True,les agriculteurs sont vieux et sont petits
 False,les agriculteurs sont vieux et est petit
@@ -1277,7 +1084,6 @@ True,les agriculteurs sont vieux et sont jeunes
 False,les agriculteurs sont vieux et est jeune
 True,les chirurgiens sont vieux et déménagent
 True,les chirurgiens sont vieux et parlent
-False,les chirurgiens sont vieux et parle
 True,les chirurgiens sont vieux et retournent
 True,les chirurgiens sont vieux et sont petits
 False,les chirurgiens sont vieux et est petit
@@ -1289,7 +1095,6 @@ True,les chirurgiens sont vieux et sont jeunes
 False,les chirurgiens sont vieux et est jeune
 True,les sénateurs sont vieux et déménagent
 True,les sénateurs sont vieux et parlent
-False,les sénateurs sont vieux et parle
 True,les sénateurs sont vieux et retournent
 True,les sénateurs sont vieux et sont petits
 False,les sénateurs sont vieux et est petit
@@ -1301,7 +1106,6 @@ True,les sénateurs sont vieux et sont jeunes
 False,les sénateurs sont vieux et est jeune
 True,les professeurs sont vieux et déménagent
 True,les professeurs sont vieux et parlent
-False,les professeurs sont vieux et parle
 True,les professeurs sont vieux et retournent
 True,les professeurs sont vieux et sont petits
 False,les professeurs sont vieux et est petit
@@ -1313,7 +1117,6 @@ True,les professeurs sont vieux et sont jeunes
 False,les professeurs sont vieux et est jeune
 True,les clients sont vieux et déménagent
 True,les clients sont vieux et parlent
-False,les clients sont vieux et parle
 True,les clients sont vieux et retournent
 True,les clients sont vieux et sont petits
 False,les clients sont vieux et est petit
@@ -1325,7 +1128,6 @@ True,les clients sont vieux et sont jeunes
 False,les clients sont vieux et est jeune
 True,les officiers sont vieux et déménagent
 True,les officiers sont vieux et parlent
-False,les officiers sont vieux et parle
 True,les officiers sont vieux et retournent
 True,les officiers sont vieux et sont petits
 False,les officiers sont vieux et est petit
@@ -1337,7 +1139,6 @@ True,les officiers sont vieux et sont jeunes
 False,les officiers sont vieux et est jeune
 True,les pilotes sont vieux et déménagent
 True,les pilotes sont vieux et parlent
-False,les pilotes sont vieux et parle
 True,les pilotes sont vieux et retournent
 True,les pilotes sont vieux et sont petits
 False,les pilotes sont vieux et est petit
@@ -1349,7 +1150,6 @@ True,les pilotes sont vieux et sont jeunes
 False,les pilotes sont vieux et est jeune
 True,les consultants sont vieux et déménagent
 True,les consultants sont vieux et parlent
-False,les consultants sont vieux et parle
 True,les consultants sont vieux et retournent
 True,les consultants sont vieux et sont petits
 False,les consultants sont vieux et est petit
@@ -1361,7 +1161,6 @@ True,les consultants sont vieux et sont jeunes
 False,les consultants sont vieux et est jeune
 True,les auteurs sont jeunes et déménagent
 True,les auteurs sont jeunes et parlent
-False,les auteurs sont jeunes et parle
 True,les auteurs sont jeunes et retournent
 True,les auteurs sont jeunes et sont petits
 False,les auteurs sont jeunes et est petit
@@ -1373,7 +1172,6 @@ True,les auteurs sont jeunes et sont jeunes
 False,les auteurs sont jeunes et est jeune
 True,les directeurs sont jeunes et déménagent
 True,les directeurs sont jeunes et parlent
-False,les directeurs sont jeunes et parle
 True,les directeurs sont jeunes et retournent
 True,les directeurs sont jeunes et sont petits
 False,les directeurs sont jeunes et est petit
@@ -1385,7 +1183,6 @@ True,les directeurs sont jeunes et sont jeunes
 False,les directeurs sont jeunes et est jeune
 True,les agriculteurs sont jeunes et déménagent
 True,les agriculteurs sont jeunes et parlent
-False,les agriculteurs sont jeunes et parle
 True,les agriculteurs sont jeunes et retournent
 True,les agriculteurs sont jeunes et sont petits
 False,les agriculteurs sont jeunes et est petit
@@ -1397,7 +1194,6 @@ True,les agriculteurs sont jeunes et sont jeunes
 False,les agriculteurs sont jeunes et est jeune
 True,les chirurgiens sont jeunes et déménagent
 True,les chirurgiens sont jeunes et parlent
-False,les chirurgiens sont jeunes et parle
 True,les chirurgiens sont jeunes et retournent
 True,les chirurgiens sont jeunes et sont petits
 False,les chirurgiens sont jeunes et est petit
@@ -1409,7 +1205,6 @@ True,les chirurgiens sont jeunes et sont jeunes
 False,les chirurgiens sont jeunes et est jeune
 True,les sénateurs sont jeunes et déménagent
 True,les sénateurs sont jeunes et parlent
-False,les sénateurs sont jeunes et parle
 True,les sénateurs sont jeunes et retournent
 True,les sénateurs sont jeunes et sont petits
 False,les sénateurs sont jeunes et est petit
@@ -1421,7 +1216,6 @@ True,les sénateurs sont jeunes et sont jeunes
 False,les sénateurs sont jeunes et est jeune
 True,les professeurs sont jeunes et déménagent
 True,les professeurs sont jeunes et parlent
-False,les professeurs sont jeunes et parle
 True,les professeurs sont jeunes et retournent
 True,les professeurs sont jeunes et sont petits
 False,les professeurs sont jeunes et est petit
@@ -1433,7 +1227,6 @@ True,les professeurs sont jeunes et sont jeunes
 False,les professeurs sont jeunes et est jeune
 True,les clients sont jeunes et déménagent
 True,les clients sont jeunes et parlent
-False,les clients sont jeunes et parle
 True,les clients sont jeunes et retournent
 True,les clients sont jeunes et sont petits
 False,les clients sont jeunes et est petit
@@ -1445,7 +1238,6 @@ True,les clients sont jeunes et sont jeunes
 False,les clients sont jeunes et est jeune
 True,les officiers sont jeunes et déménagent
 True,les officiers sont jeunes et parlent
-False,les officiers sont jeunes et parle
 True,les officiers sont jeunes et retournent
 True,les officiers sont jeunes et sont petits
 False,les officiers sont jeunes et est petit
@@ -1457,7 +1249,6 @@ True,les officiers sont jeunes et sont jeunes
 False,les officiers sont jeunes et est jeune
 True,les pilotes sont jeunes et déménagent
 True,les pilotes sont jeunes et parlent
-False,les pilotes sont jeunes et parle
 True,les pilotes sont jeunes et retournent
 True,les pilotes sont jeunes et sont petits
 False,les pilotes sont jeunes et est petit
@@ -1469,7 +1260,6 @@ True,les pilotes sont jeunes et sont jeunes
 False,les pilotes sont jeunes et est jeune
 True,les consultants sont jeunes et déménagent
 True,les consultants sont jeunes et parlent
-False,les consultants sont jeunes et parle
 True,les consultants sont jeunes et retournent
 True,les consultants sont jeunes et sont petits
 False,les consultants sont jeunes et est petit

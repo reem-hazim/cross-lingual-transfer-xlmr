@@ -1,8 +1,8 @@
 import pandas as pd
 import os 
 
-anomalies = ["retourne", "déménage"]
-plural = ["retournent", "déménagent"]
+anomalies = ["retourne", "déménage", "parle"]
+plural = ["retournent", "déménagent", "parlent"]
 index_to_rm = []
 
 for filename in os.listdir("../../CLAMS/French"):
@@ -17,4 +17,4 @@ for filename in os.listdir("../../CLAMS/French"):
 		new_df = df.copy()
 		new_df = new_df.drop(index_to_rm)
 		index_to_rm.clear()
-		new_df.to_csv(f"./{filename}", index=False)
+		new_df.to_csv(f"./new_french_evalsets/{filename}", index=False)

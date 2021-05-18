@@ -19,7 +19,7 @@ parser = argparse.ArgumentParser(
 parser.add_argument(
     "data_dir",
     type=str,
-    help="Folder containing the CLAMS dataset (English, Hebrew and German).",
+    help="Folder containing the CLAMS dataset",
 )
 
 args = parser.parse_args()
@@ -56,7 +56,7 @@ trainer = Trainer(
 
 trainer.train()
 
-trainer.save_model("../models/finetuned_xlmr_clams_one_from_min_pair");
+trainer.save_model("../models/finetuned_xlmr_rm_french_anomalies");
 
 # predictions, label_ids, metrics = trainer.predict(test_data)
 

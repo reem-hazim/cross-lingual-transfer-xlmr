@@ -9,7 +9,6 @@ True,les auteurs sont grands
 False,les auteurs est grand
 True,les auteurs déménagent
 True,les auteurs parlent
-False,les auteurs parle
 True,les auteurs retournent
 True,les directeurs sont vieux
 False,les directeurs est vieux
@@ -21,7 +20,6 @@ True,les directeurs sont grands
 False,les directeurs est grand
 True,les directeurs déménagent
 True,les directeurs parlent
-False,les directeurs parle
 True,les directeurs retournent
 True,les agriculteurs sont vieux
 False,les agriculteurs est vieux
@@ -33,7 +31,6 @@ True,les agriculteurs sont grands
 False,les agriculteurs est grand
 True,les agriculteurs déménagent
 True,les agriculteurs parlent
-False,les agriculteurs parle
 True,les agriculteurs retournent
 True,les chirurgiens sont vieux
 False,les chirurgiens est vieux
@@ -45,7 +42,6 @@ True,les chirurgiens sont grands
 False,les chirurgiens est grand
 True,les chirurgiens déménagent
 True,les chirurgiens parlent
-False,les chirurgiens parle
 True,les chirurgiens retournent
 True,les sénateurs sont vieux
 False,les sénateurs est vieux
@@ -57,7 +53,6 @@ True,les sénateurs sont grands
 False,les sénateurs est grand
 True,les sénateurs déménagent
 True,les sénateurs parlent
-False,les sénateurs parle
 True,les sénateurs retournent
 True,les professeurs sont vieux
 False,les professeurs est vieux
@@ -69,7 +64,6 @@ True,les professeurs sont grands
 False,les professeurs est grand
 True,les professeurs déménagent
 True,les professeurs parlent
-False,les professeurs parle
 True,les professeurs retournent
 True,les clients sont vieux
 False,les clients est vieux
@@ -81,7 +75,6 @@ True,les clients sont grands
 False,les clients est grand
 True,les clients déménagent
 True,les clients parlent
-False,les clients parle
 True,les clients retournent
 True,les officiers sont vieux
 False,les officiers est vieux
@@ -93,7 +86,6 @@ True,les officiers sont grands
 False,les officiers est grand
 True,les officiers déménagent
 True,les officiers parlent
-False,les officiers parle
 True,les officiers retournent
 True,les pilotes sont vieux
 False,les pilotes est vieux
@@ -105,7 +97,6 @@ True,les pilotes sont grands
 False,les pilotes est grand
 True,les pilotes déménagent
 True,les pilotes parlent
-False,les pilotes parle
 True,les pilotes retournent
 True,les consultants sont vieux
 False,les consultants est vieux
@@ -117,7 +108,6 @@ True,les consultants sont grands
 False,les consultants est grand
 True,les consultants déménagent
 True,les consultants parlent
-False,les consultants parle
 True,les consultants retournent
 True,l' auteur est vieux
 False,l' auteur sont vieux
@@ -128,7 +118,6 @@ False,l' auteur sont petits
 True,l' auteur est grand
 False,l' auteur sont grands
 False,l' auteur déménagent
-True,l' auteur parle
 False,l' auteur parlent
 False,l' auteur retournent
 True,le directeur est vieux
@@ -140,7 +129,6 @@ False,le directeur sont petits
 True,le directeur est grand
 False,le directeur sont grands
 False,le directeur déménagent
-True,le directeur parle
 False,le directeur parlent
 False,le directeur retournent
 True,l' agriculteur est vieux
@@ -152,7 +140,6 @@ False,l' agriculteur sont petits
 True,l' agriculteur est grand
 False,l' agriculteur sont grands
 False,l' agriculteur déménagent
-True,l' agriculteur parle
 False,l' agriculteur parlent
 False,l' agriculteur retournent
 True,le chirurgien est vieux
@@ -164,7 +151,6 @@ False,le chirurgien sont petits
 True,le chirurgien est grand
 False,le chirurgien sont grands
 False,le chirurgien déménagent
-True,le chirurgien parle
 False,le chirurgien parlent
 False,le chirurgien retournent
 True,le sénateur est vieux
@@ -176,7 +162,6 @@ False,le sénateur sont petits
 True,le sénateur est grand
 False,le sénateur sont grands
 False,le sénateur déménagent
-True,le sénateur parle
 False,le sénateur parlent
 False,le sénateur retournent
 True,le professeur est vieux
@@ -188,7 +173,6 @@ False,le professeur sont petits
 True,le professeur est grand
 False,le professeur sont grands
 False,le professeur déménagent
-True,le professeur parle
 False,le professeur parlent
 False,le professeur retournent
 True,le client est vieux
@@ -200,7 +184,6 @@ False,le client sont petits
 True,le client est grand
 False,le client sont grands
 False,le client déménagent
-True,le client parle
 False,le client parlent
 False,le client retournent
 True,l' officier est vieux
@@ -212,7 +195,6 @@ False,l' officier sont petits
 True,l' officier est grand
 False,l' officier sont grands
 False,l' officier déménagent
-True,l' officier parle
 False,l' officier parlent
 False,l' officier retournent
 True,le pilote est vieux
@@ -224,7 +206,6 @@ False,le pilote sont petits
 True,le pilote est grand
 False,le pilote sont grands
 False,le pilote déménagent
-True,le pilote parle
 False,le pilote parlent
 False,le pilote retournent
 True,le consultant est vieux
@@ -236,7 +217,6 @@ False,le consultant sont petits
 True,le consultant est grand
 False,le consultant sont grands
 False,le consultant déménagent
-True,le consultant parle
 False,le consultant parlent
 False,le consultant retournent
 True,les gardes sont vieux
@@ -249,7 +229,6 @@ True,les gardes sont grands
 False,les gardes est grand
 True,les gardes déménagent
 True,les gardes parlent
-False,les gardes parle
 True,les gardes retournent
 True,les ministres sont vieux
 False,les ministres est vieux
@@ -261,7 +240,6 @@ True,les ministres sont grands
 False,les ministres est grand
 True,les ministres déménagent
 True,les ministres parlent
-False,les ministres parle
 True,les ministres retournent
 True,les cadres sont vieux
 False,les cadres est vieux
@@ -273,7 +251,6 @@ True,les cadres sont grands
 False,les cadres est grand
 True,les cadres déménagent
 True,les cadres parlent
-False,les cadres parle
 True,les cadres retournent
 True,les adjoints sont vieux
 False,les adjoints est vieux
@@ -285,7 +262,6 @@ True,les adjoints sont grands
 False,les adjoints est grand
 True,les adjoints déménagent
 True,les adjoints parlent
-False,les adjoints parle
 True,les adjoints retournent
 True,les chauffeurs de taxi sont vieux
 False,les chauffeurs de taxi est vieux
@@ -297,7 +273,6 @@ True,les chauffeurs de taxi sont grands
 False,les chauffeurs de taxi est grand
 True,les chauffeurs de taxi déménagent
 True,les chauffeurs de taxi parlent
-False,les chauffeurs de taxi parle
 True,les chauffeurs de taxi retournent
 True,les danseurs sont vieux
 False,les danseurs est vieux
@@ -309,7 +284,6 @@ True,les danseurs sont grands
 False,les danseurs est grand
 True,les danseurs déménagent
 True,les danseurs parlent
-False,les danseurs parle
 True,les danseurs retournent
 True,les architectes sont vieux
 False,les architectes est vieux
@@ -321,7 +295,6 @@ True,les architectes sont grands
 False,les architectes est grand
 True,les architectes déménagent
 True,les architectes parlent
-False,les architectes parle
 True,les architectes retournent
 True,les chefs sont vieux
 False,les chefs est vieux
@@ -333,7 +306,6 @@ True,les chefs sont grands
 False,les chefs est grand
 True,les chefs déménagent
 True,les chefs parlent
-False,les chefs parle
 True,les chefs retournent
 True,les patineurs sont vieux
 False,les patineurs est vieux
@@ -345,7 +317,6 @@ True,les patineurs sont grands
 False,les patineurs est grand
 True,les patineurs déménagent
 True,les patineurs parlent
-False,les patineurs parle
 True,les patineurs retournent
 True,les parents sont vieux
 False,les parents est vieux
@@ -357,7 +328,6 @@ True,les parents sont grands
 False,les parents est grand
 True,les parents déménagent
 True,les parents parlent
-False,les parents parle
 True,les parents retournent
 True,le garde est vieux
 False,le garde sont vieux
@@ -368,7 +338,6 @@ False,le garde sont petits
 True,le garde est grand
 False,le garde sont grands
 False,le garde déménagent
-True,le garde parle
 False,le garde parlent
 False,le garde retournent
 True,le ministre est vieux
@@ -380,7 +349,6 @@ False,le ministre sont petits
 True,le ministre est grand
 False,le ministre sont grands
 False,le ministre déménagent
-True,le ministre parle
 False,le ministre parlent
 False,le ministre retournent
 True,le cadre est vieux
@@ -392,7 +360,6 @@ False,le cadre sont petits
 True,le cadre est grand
 False,le cadre sont grands
 False,le cadre déménagent
-True,le cadre parle
 False,le cadre parlent
 False,le cadre retournent
 True,l' adjoint est vieux
@@ -404,7 +371,6 @@ False,l' adjoint sont petits
 True,l' adjoint est grand
 False,l' adjoint sont grands
 False,l' adjoint déménagent
-True,l' adjoint parle
 False,l' adjoint parlent
 False,l' adjoint retournent
 True,le chauffeur de taxi est vieux
@@ -416,7 +382,6 @@ False,le chauffeur de taxi sont petits
 True,le chauffeur de taxi est grand
 False,le chauffeur de taxi sont grands
 False,le chauffeur de taxi déménagent
-True,le chauffeur de taxi parle
 False,le chauffeur de taxi parlent
 False,le chauffeur de taxi retournent
 True,le danseur est vieux
@@ -428,7 +393,6 @@ False,le danseur sont petits
 True,le danseur est grand
 False,le danseur sont grands
 False,le danseur déménagent
-True,le danseur parle
 False,le danseur parlent
 False,le danseur retournent
 True,l' architecte est vieux
@@ -440,7 +404,6 @@ False,l' architecte sont petits
 True,l' architecte est grand
 False,l' architecte sont grands
 False,l' architecte déménagent
-True,l' architecte parle
 False,l' architecte parlent
 False,l' architecte retournent
 True,le chef est vieux
@@ -452,7 +415,6 @@ False,le chef sont petits
 True,le chef est grand
 False,le chef sont grands
 False,le chef déménagent
-True,le chef parle
 False,le chef parlent
 False,le chef retournent
 True,le patineur est vieux
@@ -464,7 +426,6 @@ False,le patineur sont petits
 True,le patineur est grand
 False,le patineur sont grands
 False,le patineur déménagent
-True,le patineur parle
 False,le patineur parlent
 False,le patineur retournent
 True,le parent est vieux
@@ -476,6 +437,5 @@ False,le parent sont petits
 True,le parent est grand
 False,le parent sont grands
 False,le parent déménagent
-True,le parent parle
 False,le parent parlent
 False,le parent retournent
