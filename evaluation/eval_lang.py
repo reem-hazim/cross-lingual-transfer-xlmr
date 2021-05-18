@@ -29,6 +29,12 @@ parser.add_argument(
     help="Folder containing the CLAMS datasets for that language.",
 )
 
+parser.add_argument(
+    "model_dir",
+    type=str,
+    help="Folder containing the CLAMS datasets for that language.",
+)
+
 args = parser.parse_args()
 
 lang = args.lang.lower()
@@ -36,15 +42,15 @@ lang = args.lang.lower()
 tokenizer = XLMRobertaTokenizer.from_pretrained("xlm-roberta-base")
 
 def model_init():
-	model = XLMRobertaForSequenceClassification.from_pretrained("../models/finetuned_xlmr_clams_full_dataset")
+	model = XLMRobertaForSequenceClassification.from_pretrained(args.model_dir)
 	return model
 
 for filename in os.listdir(args.data_dir):
-	if filename not in [".gitkeep", ".DS_Store", "shuffle_french.py"]:
-		# if lang != "english":
-		# 	test_df = pd.read_csv(os.path.join(args.data_dir, filename), sep="\t", names=["label", "sentence"])
-		# else:
-		test_df = pd.read_csv(os.path.join(args.data_dir, filename))
+	if filename not in [".gitkeep", ".DS_Store"]:
+		if lang != "english":
+			test_df = pd.read_csv(os.path.join(args.data_dir, filename), sep="\t", names=["label", "sentence"])
+		else:
+			test_df = pd.read_csv(os.path.join(args.data_dir, filename))
 		test_df["label"] = [int(label == True) for label in test_df["label"]]
 		test_data = CLAMS_Dataset(test_df, tokenizer)
 		trainer = Trainer(model_init = model_init, compute_metrics = finetuning_utils.compute_metrics, tokenizer=tokenizer)
@@ -54,4 +60,4 @@ for filename in os.listdir(args.data_dir):
 		print(metrics)
 		print('\n')
 		test_preds = pd.DataFrame.from_dict({ "label": label_ids, "pred": predictions.argmax(-1)})
-		test_preds.to_csv(f"../results/predictions/anomaly_test_2/xlmr_{phenomenon}_{lang}_preds.csv", index=False)
+		test_preds.to_csv(f"../results/predictions/one_from_min_pair/{lang}/xlmr_{phenomenon}_{lang}_preds.csv", index=False)
